@@ -7,7 +7,9 @@
 	import GreekTitleList from '$lib/components/GreekTitleList.svelte';
 	import KuehnList from '$lib/components/KuehnList.svelte';
 	import LatinTitleList from '$lib/components/LatinTitleList.svelte';
+	import VerbatimEditions from '$lib/components/VerbatimEditions.svelte';
 
+	import type { ZoteroCreator } from '$lib/zotero';
 	import type { PageProps } from './$types';
 
 	const { data }: PageProps = $props();
@@ -77,35 +79,84 @@
 	<div id="biblio" class="biblio">
 		<main>
 			{#each items as item (item.key)}
-				<article id={item.ctsUrn}>
+				<article id={item.ctsURN}>
 					<section class="opus">
 						<strong>
 							{item.author?.name}.
 							<em>{item.title} ({item.shortTitle})</em>
 						</strong>
 						<div>
-								<a class="pico-color-pumpkin-500" href={item.criticalEdition?.data?.url}>
-									[Nº {item.callNumber} Ficht.]
-								</a>
-								{#if item.galLatURL}
-									<a class="pico-color-pumpkin-500" href={item.galLatURL}>[Gal Lat.]</a>
-								{/if}
+							<a class="pico-color-pumpkin-500" href={item.fichtnerURL}>
+								[Nº {item.callNumber} Ficht.]
+							</a>
+							{#if item.galLatURL}
+								<a class="pico-color-pumpkin-500" href={item.galLatURL}>[Gal Lat.]</a>
+							{/if}
 						</div>
 						<div>
-						    <span>{item.ctsURN}</span>
+							<span>{item.ctsURN}</span>
 						</div>
 						<div>
-						    <span>{item.greekTitle}</span>
+							<span>{item.greekTitle}</span>
 						</div>
 						<div>
-						    <em>{item.frenchTitle}</em>
+							<em>{item.frenchTitle}</em>
 						</div>
 						<div>
-						    <em>{item.englishTitle} ({item.englishShortTitle})</em>
+							<em>{item.englishTitle} ({item.englishShortTitle})</em>
 						</div>
 						<div>
-						    <a href=
+							<VerbatimEditions verbatimEditions={item.verbatimEditions} />
 						</div>
+						<div>
+							<strong class="pico-color-zinc-600">editio(nes) critica(e):</strong>
+							<span>{item.criticalEditions
+								.map((edition) => {
+									let editor = edition.creators.find((c) => c.creatorType === 'editor');
+
+									if (!editor) {
+										editor = edition.creators.find((c) => Boolean(c.lastName));
+									}
+
+									if (!editor) {
+										console.log(edition);
+										console.log('no editor');
+
+										return null;
+									}
+
+									return `${editor.lastName}, ${edition.date}`;
+								})
+								.join('; ')}</span>
+						</div>
+						{#if item.kuehnEdition}
+							<div>
+								<strong class="pico-color-zinc-600">translatio Latina:</strong>
+								<span>{item.latinTitle}, {item.kuehnEdition.date}, vol. {item.kuehnEdition.volume}, pp. {item.kuehnEdition.pages}.</span>
+								<span>{item.kuehnEdition?.extra?.split('\n').find((e) => e.startsWith('CTS URN: '))?.split('CTS URN: ')?.[1]}</span>
+							</div>
+						{/if}
+						{#if item.modernTranslations?.length > 0}
+							<div>
+								<strong class="pico-color-zinc-500">translationes recentiores</strong>
+								<span>{item.modernTranslations.map(translation => {
+									let translator = translation.creators.find((c) => c.creatorType === 'translator');
+
+									if (!translator) {
+										translator = translation.creators.find((c) => Boolean(c.lastName));
+									}
+
+									if (!translator) {
+										console.log(translation);
+										console.log('no translator');
+
+										return null;
+									}
+
+									return `${translator.lastName}, ${translation.date} (${translation.language})`;
+								}).join('; ')}</span>
+							</div>
+						{/if}
 					</section>
 				</article>
 			{/each}

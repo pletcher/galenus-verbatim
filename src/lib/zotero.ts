@@ -37,7 +37,7 @@ export async function fetchOpera(tags: string[] = []) {
 	return data;
 }
 
-interface ZoteroCreator {
+export interface ZoteroCreator {
 	creatorType: 'author' | 'editor' | 'translator';
 	name?: string;
 	firstName?: string;
@@ -76,9 +76,11 @@ export interface RawZoteroItem {
 }
 
 function getCollectionByName(collectionName: string) {
-	return (zoteroJSON as Array<{ data: RawZoteroItem }>).filter(({ data }) => {
-		return data.collections?.includes(COLLECTION_NAMES_TO_IDS[collectionName]);
-	});
+	return (zoteroJSON as Array<{ data: RawZoteroItem }>)
+		.filter(({ data }) => {
+			return data.collections?.includes(COLLECTION_NAMES_TO_IDS[collectionName]);
+		})
+		.map((item) => item.data);
 }
 
 /** (pseudo-fields are fields stored under the `extra` value
@@ -141,9 +143,9 @@ const allAttachments = (zoteroJSON as Array<{ data: RawZoteroItem }>)
 	.filter(({ data }) => data.itemType === 'attachment')
 	.map((i) => i.data);
 
-const allNotes = (zoteroJSON as Array<{ data: RawZoteroItem }>).filter(
-	({ data }) => data.itemType === 'note'
-);
+const allNotes = (zoteroJSON as Array<{ data: RawZoteroItem }>)
+	.filter(({ data }) => data.itemType === 'note')
+	.map((n) => n.data);
 
 type ZoteroAttachment = {
 	parentItem: string;
@@ -158,7 +160,7 @@ type ZoteroAttachment = {
 export interface ZoteroItem {
 	ancientEdition: RawZoteroItem;
 	attachments: ZoteroAttachment[];
-	criticalEdition: RawZoteroItem;
+	criticalEditions: RawZoteroItem[];
 	bookTitle?: string;
 	callNumber?: string;
 	collections?: Array<string>;
@@ -169,6 +171,8 @@ export interface ZoteroItem {
 	englishTitle?: string;
 	englishShortTitle?: string;
 	extra?: string;
+	fichtnerNumber: string;
+	fichtnerURL?: string;
 	frenchTitle?: string;
 	galLatURL?: string;
 	greekTitle?: string;
@@ -196,30 +200,27 @@ export interface ZoteroItem {
 	title: string;
 	url?: string;
 	volume?: string;
-	verbatimEdition: RawZoteroItem;
+	verbatimEdition: RawZoteroItem[];
 }
 
 export function readZoteroJSON() {
-	return opera.map(({ data }) => {
-		const attachments = allAttachments.filter((item) => item.parentItem === data.key);
-		const fichtnerNumber = data.callNumber;
-		const ancientEdition = editionesVeterae.find(({ data }) => data.callNumber === fichtnerNumber);
-		const author = data.creators.find((c) => c.creatorType === 'author');
-		const criticalEdition = editionesCriticae.find(
-			({ data }) => data.callNumber === fichtnerNumber
-		);
+	return opera.map((opus) => {
+		const attachments = allAttachments.filter((item) => item.parentItem === opus.key);
+		const fichtnerNumber = opus.callNumber;
+		const fichtnerURL = attachments.find((a) => a.title === 'Fichtner Bibliographie')?.url;
+		const ancientEdition = editionesVeterae.find((item) => item.callNumber === fichtnerNumber);
+		const author = opus.creators.find((c) => c.creatorType === 'author');
+		const criticalEditions = editionesCriticae.filter((item) => item.callNumber === fichtnerNumber);
 		const kuehnEdition = translationesVerbatim.find(
-			({ data }) =>
-				data.callNumber === fichtnerNumber && data.creators.some((c) => c.lastName === 'Kühn')
+			(item) =>
+				item.callNumber === fichtnerNumber && item.creators.some((c) => c.lastName === 'Kühn')
 		);
 		const modernTranslations = translationesRecentiores.filter(
-			({ data }) => data.callNumber === fichtnerNumber
+			(item) => item.callNumber === fichtnerNumber
 		);
-		const notes = allNotes.filter((note) => note.data.parentItem === data.key);
-		const verbatimEdition = editionesVerbatim.find(
-			({ data }) => data.callNumber === fichtnerNumber
-		);
-		const extra = data.extra?.split('\n').reduce(
+		const notes = allNotes.filter((note) => note.parentItem === opus.key);
+		const verbatimEditions = editionesVerbatim.filter((item) => item.callNumber === fichtnerNumber);
+		const extra = opus.extra?.split('\n').reduce(
 			(acc, line) => {
 				const [k, v] = line.split(': ').map((s) => s.trim());
 
@@ -233,30 +234,31 @@ export function readZoteroJSON() {
 		const galLatURL = attachments.find((a) => a.title === 'Galeno Latino')?.url;
 
 		return {
-			...data,
+			...opus,
 			ancientEdition,
 			attachments,
 			author,
-			criticalEdition,
+			criticalEditions,
 			ctsURN: extra?.['CTS URN'],
 			englishTitle: extra?.['English Title'],
 			englishShortTitle: extra?.['English Short Title'],
 			extra,
 			fichtnerNumber,
+			fichtnerURL,
 			frenchTitle: extra?.['French Title'],
 			galLatURL,
 			greekTitle: extra?.['Original Title'],
 			kuehnEdition,
-			kuehnEditionKey: kuehnEdition?.data.key,
-			kuehnEditionTitle: kuehnEdition?.data.title,
-			kuehnEditionPages: kuehnEdition?.data.pages,
-			kuehnEditionVolume: kuehnEdition?.data.volume,
-			latinAbbreviatedTitle: data.shortTitle,
-			latinTitle: kuehnEdition?.data.title,
+			kuehnEditionKey: kuehnEdition?.key,
+			kuehnEditionTitle: kuehnEdition?.title,
+			kuehnEditionPages: kuehnEdition?.pages,
+			kuehnEditionVolume: kuehnEdition?.volume,
+			latinAbbreviatedTitle: opus.shortTitle,
+			latinTitle: kuehnEdition?.title,
 			modernTranslations,
 			notes,
-			tags: data.tags.map((tag) => tag.tag),
-			verbatimEdition
+			tags: opus.tags.map((tag) => tag.tag),
+			verbatimEditions
 		};
 	});
 }
