@@ -8,7 +8,13 @@ As of 2025-09-22
 
 - Rewrite search index using ElasticLunr and Svelte
 - Rewrite site in Javascript using SvelteKit
--
+
+## TODO:
+
+- Fix background color not extending to bottom of page
+- Add links to side navigation
+- Fix empty French titles
+- Clean up parts of /titres page (make sure everything mostly works)
 
 ## Creating a project
 
@@ -44,7 +50,6 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-
 
 # License
 

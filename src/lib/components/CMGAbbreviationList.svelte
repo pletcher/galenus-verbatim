@@ -13,8 +13,10 @@
 </script>
 
 {#each items as item (item.key)}
-	<div>
-		<span class="italic text-zinc-500">{item.latinAbbreviatedTitle}</span>
-		<span class="text-sm">[{item.callNumber}]</span>
+	<div class="hover:bg-neutral-50">
+		<a href={`#${item.ctsURN}`}>
+			<span class="italic text-zinc-500">{item.latinAbbreviatedTitle}</span>
+			<span class="text-sm">[{item.callNumber}]</span>
+		</a>
 	</div>
 {/each}

@@ -14,8 +14,10 @@
 </script>
 
 {#each items as item (item.key)}
-	<div>
-		<span class="italic text-zinc-500">{item.greekTitle}</span>
-		<span class="font-bold">[{item.callNumber}]</span>
+	<div class="hover:bg-neutral-50">
+		<a href={`#${item.ctsURN}`}>
+			<span class="italic text-zinc-500">{item.greekTitle}</span>
+			<span class="font-bold">[{item.callNumber}]</span>
+		</a>
 	</div>
 {/each}

@@ -16,9 +16,13 @@
 </script>
 
 {#each items as item (item.key)}
-	<div class="text-zinc-900">
-		<span class="font-bold">{item.kuehnEditionVolume}.{item.kuehnEditionPages?.split('-')[0]}</span>
-		<span class="text-sm">[{item.callNumber} Ficht.]</span>
-		<span class="italic text-zinc-500">{item.latinTitle}</span>
+	<div class="text-zinc-900 hover:bg-neutral-50">
+		<a href={`#${item.ctsURN}`}>
+			<span class="font-bold"
+				>{item.kuehnEditionVolume}.{item.kuehnEditionPages?.split('-')[0]}</span
+			>
+			<span class="text-sm">[{item.callNumber} Ficht.]</span>
+			<span class="italic text-zinc-500">{item.latinTitle}</span>
+		</a>
 	</div>
 {/each}

@@ -129,24 +129,6 @@ b.mark:target {
   background-color: #ffffee;
 }
 
-article a {
-  background-color: transparent;
-  text-decoration: none;
-  color: #339;
-}
-
-article a:hover {
-  background-color: rgba(255, 255, 255, 0.3);
-  color: #000;
-  border-color: inherit;
-  text-decoration: none;
-}
-
-article a:active,
-article a:hover {
-  outline: 0;
-}
-
 a img {
   border: none;
 }
@@ -2842,24 +2824,6 @@ b.mark:target {
 .marginnote:target,
 .l:target {
   background-color: #ffffee;
-}
-
-article a {
-  background-color: transparent;
-  text-decoration: none;
-  color: #339;
-}
-
-article a:hover {
-  background-color: rgba(255, 255, 255, 0.3);
-  color: #000;
-  border-color: inherit;
-  text-decoration: none;
-}
-
-article a:active,
-article a:hover {
-  outline: 0;
 }
 
 a img {
@@ -5750,49 +5714,6 @@ div.banner .moto {
   padding: 1rem 0 1rem 1rem;
 }
 
-/*
-main article {
-    width: 100%;
-}
-#main {
-    background-color: var(--bg);
-    color: var(--text);
-    position: relative;
-}
-
-#main>header {
-    padding: 1rem;
-    background-color: var(--link);
-    color: var(--bg);
-    position: relative;
-    position: -webkit-sticky;
-    position: sticky;
-}
-
-#main>header h1 {
-    margin: 0;
-}
-
-.tlg article {
-    padding: 0;
-}
-
-main>article.text {
-    padding: 3vw;
-}
-*/
-
-/** simple tags */
-
-a {
-  color: var(--link);
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 #tabs {
   position: sticky;
   top: 0;
@@ -6901,12 +6822,6 @@ li.label {
 .editors .surname {
   color: var(--text);
   font-weight: bold;
-}
-
-a.opus {
-  display: inline;
-  padding: 0;
-  color: var(--link);
 }
 
 #opera {

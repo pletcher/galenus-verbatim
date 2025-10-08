@@ -42,8 +42,9 @@
 				<select
 					id="afficher"
 					class="rounded-md border border-gray-300 px-3 py-2 text-sm focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+					disabled={true}
 				>
-					<option value="sort-cmg" selected="true">Abbréviation CMG</option>
+					<option value="sort-cmg" selected={true}>Abbréviation CMG</option>
 					<option value="sort-latin">Titre latin</option>
 					<option value="sort-grec">Titre grec</option>
 					<option value="sort-francais">Titre français</option>
@@ -57,10 +58,11 @@
 				<select
 					id="trier"
 					class="rounded-md border border-gray-300 px-3 py-2 text-sm focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+					disabled={true}
 				>
 					<option value="auteur">Par auteur</option>
 					<option value="titre">Par titre</option>
-					<option value="matiere" selected="true">Par matière</option>
+					<option value="matiere" selected={true}>Par matière</option>
 				</select>
 			</div>
 
@@ -69,6 +71,7 @@
 					type="checkbox"
 					id="tout-cocher"
 					class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+					disabled={true}
 				/>
 				<label for="tout-cocher" class="text-sm font-medium text-gray-700">
 					Tout cocher/décocher
@@ -80,6 +83,7 @@
 					type="checkbox"
 					id="ignorer-doublons"
 					class="h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+					disabled={true}
 				/>
 				<label for="ignorer-doublons" class="text-sm font-medium text-gray-700">
 					Ignorer doublons
@@ -163,7 +167,7 @@
 								<a
 									href={edition.cts}
 									title={edition.cts}
-									class="text-indigo-600 hover:text-indigo-900 dark:text-indigo-400 dark:hover:text-indigo-300"
+									class="text-amber-600 hover:text-amber-900 dark:text-amber-400 dark:hover:text-amber-300"
 								>
 									{edition.titles.greek}
 								</a>

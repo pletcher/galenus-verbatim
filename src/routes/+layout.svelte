@@ -1,6 +1,5 @@
 <script lang="ts">
 	import '../app.css';
-	import '$lib/assets/galenus-bundle.css';
 
 	import favicon from '$lib/assets/favicon.svg';
 	import banner from '$lib/assets/theme/galenus-verbatim.jpg';

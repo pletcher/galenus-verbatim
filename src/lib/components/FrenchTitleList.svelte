@@ -14,8 +14,12 @@
 </script>
 
 {#each items as item (item.key)}
-	<div>
-		<span class="italic text-zinc-500">{item.frenchTitle}</span>
-		<span class="font-bold">[{item.callNumber}]</span>
-	</div>
+	{#if item.frenchTitle}
+		<div class="hover:bg-neutral-50">
+			<a href={`#${item.ctsURN}`}>
+				<span class="italic text-zinc-500">{item.frenchTitle}</span>
+				<span>[{item.callNumber}]</span>
+			</a>
+		</div>
+	{/if}
 {/each}

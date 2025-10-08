@@ -58,9 +58,9 @@
 	);
 </script>
 
-<div class="grid">
-	<aside id="navs">
-		<form>
+<div class="flex">
+	<aside id="navs" class="flex-2 max-h-screen overflow-y-scroll">
+		<form class="pt-4">
 			<select name="selnav" id="selnav" bind:value={sortBy}>
 				<option value="titLat">Titre latin</option>
 				<option value="fichtner">&numero; Fichtner</option>
@@ -76,7 +76,7 @@
 		<ListComponent zoteroData={data.zoteroData} />
 	</aside>
 
-	<div id="biblio" class="biblio">
+	<div id="biblio" class="biblio ml-4">
 		<main>
 			{#each items as item (item.key)}
 				<article id={item.ctsURN}>
@@ -86,11 +86,11 @@
 							<em>{item.title} ({item.shortTitle})</em>
 						</strong>
 						<div>
-							<a class="pico-color-pumpkin-500" href={item.fichtnerURL}>
+							<a class="text-amber-600 hover:text-amber-700" href={item.fichtnerURL}>
 								[Nº {item.callNumber} Ficht.]
 							</a>
 							{#if item.galLatURL}
-								<a class="pico-color-pumpkin-500" href={item.galLatURL}>[Gal Lat.]</a>
+								<a class="text-amber-600 hover:text-amber-700" href={item.galLatURL}>[Gal Lat.]</a>
 							{/if}
 						</div>
 						<div>
@@ -109,7 +109,7 @@
 							<VerbatimEditions verbatimEditions={item.verbatimEditions} />
 						</div>
 						<div>
-							<strong class="pico-color-zinc-600">editio(nes) critica(e):</strong>
+							<strong class="text-zinc-600">editio(nes) critica(e):</strong>
 							<span>{item.criticalEditions
 								.map((edition) => {
 									let editor = edition.creators.find((c) => c.creatorType === 'editor');
@@ -131,14 +131,14 @@
 						</div>
 						{#if item.kuehnEdition}
 							<div>
-								<strong class="pico-color-zinc-600">translatio Latina:</strong>
+								<strong class="text-zinc-600">translatio Latina:</strong>
 								<span>{item.latinTitle}, {item.kuehnEdition.date}, vol. {item.kuehnEdition.volume}, pp. {item.kuehnEdition.pages}.</span>
 								<span>{item.kuehnEdition?.extra?.split('\n').find((e) => e.startsWith('CTS URN: '))?.split('CTS URN: ')?.[1]}</span>
 							</div>
 						{/if}
 						{#if item.modernTranslations?.length > 0}
 							<div>
-								<strong class="pico-color-zinc-500">translationes recentiores</strong>
+								<strong class="text-zinc-500">translationes recentiores</strong>
 								<span>{item.modernTranslations.map(translation => {
 									let translator = translation.creators.find((c) => c.creatorType === 'translator');
 

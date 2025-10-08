@@ -12,7 +12,9 @@
 
 {#each items as item (item.key)}
 	<div class="text-zinc-900">
-		<span class="italic text-zinc-500">{item.latinTitle || item.title}</span>
-		<span class="text-sm">[{item.callNumber}]</span>
+		<a href={`#${item.ctsURN}`}>
+			<span class="italic text-zinc-500">{item.latinTitle || item.title}</span>
+			<span class="text-sm">[{item.callNumber}]</span>
+		</a>
 	</div>
 {/each}

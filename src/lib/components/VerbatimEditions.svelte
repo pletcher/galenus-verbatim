@@ -12,7 +12,7 @@
 
 {#each editions as edition (edition.key)}
 	<div>
-		<a class="pico-color-pumpkin-500" href={edition.url}>
+		<a class="text-amber-600 hover:text-amber-700" href={edition.url}>
 			<em>{edition.title}</em>,
 			<span
 				>ed. {edition.creators.find((c: ZoteroCreator) => c.creatorType === 'editor')?.lastName}
