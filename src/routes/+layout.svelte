@@ -11,6 +11,7 @@
 	import umr8167Logo from '$lib/assets/theme/logo_UMR8167.png';
 	import zoteroLogo from '$lib/assets/theme/logo_zotero.png';
 
+	import {base} from '$app/paths';
 	import { page } from '$app/state';
 	import { locales, localizeHref } from '$lib/paraglide/runtime';
 
@@ -26,7 +27,7 @@
 <header id="header" class="nav-down">
 	<div class="banner">
 		<div class="titles">
-			<a href="/">
+			<a href={`${base}/`}>
 				<div class="title">Galenus verbatim</div>
 				<div class="titlesub">Γαληνὸς κατὰ λέξιν</div>
 			</a>
