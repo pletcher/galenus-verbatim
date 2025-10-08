@@ -11,7 +11,7 @@
 	import umr8167Logo from '$lib/assets/theme/logo_UMR8167.png';
 	import zoteroLogo from '$lib/assets/theme/logo_zotero.png';
 
-	import {base} from '$app/paths';
+	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { locales, localizeHref } from '$lib/paraglide/runtime';
 
@@ -56,7 +56,7 @@
 					value=""
 				/>
 			</form>
-			<a href="/opera" class="tab" class:selected={selectedPage === 'opera'}>
+			<a href="{base}/opera" class="tab" class:selected={selectedPage === 'opera'}>
 				I18N template.opera
 			</a>
 
@@ -77,9 +77,9 @@
 					?>*/}
 				-->
 
-			<a href="/titres" class="tab" class:selected={selectedPage === 'titres'}> I18N titres </a>
-			<a href="/de_en" class="tab" class:selected={selectedPage === 'de'}> I18N template.de </a>
-			<a href="/novitates" class="tab" class:selected={selectedPage === 'de_en'}>
+			<a href="{base}/titres" class="tab" class:selected={selectedPage === 'titres'}> I18N titres </a>
+			<a href="{base}/de_en" class="tab" class:selected={selectedPage === 'de'}> I18N template.de </a>
+			<a href="{base}/novitates" class="tab" class:selected={selectedPage === 'de_en'}>
 				I18N Actualités
 			</a>
 
