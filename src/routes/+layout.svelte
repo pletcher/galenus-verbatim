@@ -94,7 +94,7 @@
 					<br />
 					bibliothecam
 				</span>
-				<img height="40px" src={zoteroLogo} alt="Zotero logo" />
+				<img class="h-10" src={zoteroLogo} alt="Zotero logo" />
 			</a>
 		</nav>
 		<div class="container">{@render children?.()}</div>
