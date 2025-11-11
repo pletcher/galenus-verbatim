@@ -9,7 +9,6 @@
 	import LatinTitleList from '$lib/components/LatinTitleList.svelte';
 	import VerbatimEditions from '$lib/components/VerbatimEditions.svelte';
 
-	import type { ZoteroCreator } from '$lib/zotero';
 	import type { PageProps } from './$types';
 
 	const { data }: PageProps = $props();
@@ -119,8 +118,8 @@
 									}
 
 									if (!editor) {
-										console.log(edition);
-										console.log('no editor');
+										console.warn(edition);
+										console.warn('no editor');
 
 										return null;
 									}
@@ -147,8 +146,8 @@
 									}
 
 									if (!translator) {
-										console.log(translation);
-										console.log('no translator');
+										console.warn(translation);
+										console.warn('no translator');
 
 										return null;
 									}

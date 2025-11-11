@@ -11,10 +11,13 @@ As of 2025-09-22
 
 ## TODO:
 
-- Fix background color not extending to bottom of page
-- Add links to side navigation
+- [x] Fix background color not extending to bottom of page
+- [x] Add links to side navigation
 - Fix empty French titles
 - Clean up parts of /titres page (make sure everything mostly works)
+- [ ] Improve search (partial matches without \*)
+- [ ] Improve search links: go directly to line in treatise
+- [ ] Add editor name to search screen
 
 ## Creating a project
 
@@ -30,13 +33,13 @@ npx sv create my-app
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with `pnpm install`, start a development server:
 
 ```sh
-npm run dev
+pnpm dev
 
 # or start the server and open the app in a new browser tab
-npm run dev -- --open
+pnpm dev -- --open
 ```
 
 ## Building
@@ -44,10 +47,10 @@ npm run dev -- --open
 To create a production version of your app:
 
 ```sh
-npm run build
+pnpm build
 ```
 
-You can preview the production build with `npm run preview`.
+You can preview the production build with `pnpm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 

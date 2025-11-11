@@ -1,0 +1,421 @@
+{
+  "textpart_labels": [
+    "book",
+    "chapter"
+  ],
+  "table_of_contents": [
+    {
+      "label": "Book 1",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.8",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 9",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.9",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 10",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.10",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 2",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.8",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 3",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.8",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 4",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.7",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 5",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.7",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 6",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.8",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 7",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.8",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 8",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.8",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 9",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.9",
+          "subtype": "chapter"
+        }
+      ]
+    },
+    {
+      "label": "Book 9",
+      "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9",
+      "subtype": "book",
+      "children": [
+        {
+          "label": "Chapter 1",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.1",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 2",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.2",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 3",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.3",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 4",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.4",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 5",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.5",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 6",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.6",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 7",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.7",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 8",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.8",
+          "subtype": "chapter"
+        },
+        {
+          "label": "Chapter 9",
+          "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.9",
+          "subtype": "chapter"
+        }
+      ]
+    }
+  ]
+}
