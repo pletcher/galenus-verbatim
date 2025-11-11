@@ -12,7 +12,10 @@
 
 {#each editions as edition (edition.key)}
 	<div>
-		<a class="text-amber-600 hover:text-amber-700" href={edition.url}>
+		<a
+			class="text-amber-600 hover:text-amber-700"
+			href={edition.url.replace('https://galenus-verbatim.huma-num.fr', '')}
+		>
 			<em>{edition.title}</em>,
 			<span
 				>ed. {edition.creators.find((c: ZoteroCreator) => c.creatorType === 'editor')?.lastName}
