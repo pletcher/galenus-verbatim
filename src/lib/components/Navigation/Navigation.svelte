@@ -11,7 +11,7 @@
 	let { toc, currentPassageUrn }: Props = $props();
 </script>
 
-<ul class="menu bg-base-200 p-0">
+<ul class="flex flex-1 flex-col gap-y-3" role="list">
 	{#each toc as entry (entry.urn)}
 		<NavigationItem {entry} {currentPassageUrn} />
 	{/each}
