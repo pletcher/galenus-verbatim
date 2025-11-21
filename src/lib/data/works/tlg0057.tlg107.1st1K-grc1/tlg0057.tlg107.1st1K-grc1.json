@@ -7,35 +7,12 @@
     "urn": null
   },
   {
-    "unit": "ms1folio",
-    "n": "120v",
-    "tagname": "milestone",
-    "char_offset": 0,
-    "line": 1,
-    "page": "4",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "n": "1",
     "tagname": "lb",
     "char_offset": 0,
     "page": "4",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 1,
-    "page": "4",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "2",
@@ -230,18 +207,6 @@
     "page": "5",
     "token_offset": "πικρόν”,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
-  },
-  {
-    "unit": "ms1folio",
-    "n": "121r",
-    "tagname": "milestone",
-    "char_offset": 1473,
-    "line": 12,
-    "page": "5",
-    "token_offset": "αἰσθήσεις[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
-    "end_char_offset": 1473,
-    "end_token_offset": "αἰσθήσεις[1]"
   },
   {
     "n": "13",
@@ -759,18 +724,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
   },
   {
-    "unit": "ms1folio",
-    "n": "122r",
-    "tagname": "milestone",
-    "char_offset": 5272,
-    "line": 16,
-    "page": "8",
-    "token_offset": "αὐτοῖς[5]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
-    "end_char_offset": 5272,
-    "end_token_offset": "αὐτοῖς[5]"
-  },
-  {
     "n": "17",
     "tagname": "lb",
     "char_offset": 5280,
@@ -910,6 +863,18 @@
     "page": "9",
     "token_offset": "ἐπεσκεψάμην[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
+  },
+  {
+    "unit": "ms1folio",
+    "n": "122r",
+    "tagname": "milestone",
+    "char_offset": 5272,
+    "line": 16,
+    "page": "8",
+    "token_offset": "αὐτοῖς[5]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
+    "end_char_offset": 6171,
+    "end_token_offset": "...[2]"
   },
   {
     "type": "textpart",
@@ -1930,5 +1895,28 @@
       "..."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
+  },
+  {
+    "unit": "ms1folio",
+    "n": "121r",
+    "tagname": "milestone",
+    "char_offset": 1473,
+    "line": 12,
+    "page": "5",
+    "token_offset": "αἰσθήσεις[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
+    "end_char_offset": 6171,
+    "end_token_offset": "...[2]"
+  },
+  {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
+    "end_char_offset": 6171,
+    "end_token_offset": "...[2]"
   }
 ]

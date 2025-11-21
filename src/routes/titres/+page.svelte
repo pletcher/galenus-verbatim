@@ -27,8 +27,6 @@
 		shownEditions = editions.filter((edition) => {
 			return urns.some((urn) => edition.cts.startsWith(urn));
 		});
-
-		console.log(shownEditions);
 	};
 </script>
 
@@ -133,7 +131,13 @@
 		<div class="inline-block min-w-full py-2 align-middle">
 			<table class="divide-y divide-gray-300 dark:divide-white/15">
 				<thead>
-					<tr>
+          <tr>
+            <th
+              scope="col"
+              class="p-2 text-left text-sm font-semibold text-gray-900 dark:text-white"
+            >
+              Editeur(s)
+            </th>
 						<th
 							scope="col"
 							class="p-2 text-left text-sm font-semibold text-gray-900 dark:text-white"
@@ -163,6 +167,9 @@
 				<tbody class="bg-white dark:bg-gray-900">
 					{#each shownEditions as edition (edition.id)}
 						<tr class="even:bg-gray-50 dark:even:bg-gray-800/50">
+              <td class="px-2 py-1 text-xs text-gray-500 dark:text-gray-400">
+                {edition.editors.split(",")[0]}
+              </td>
 							<td class="px-2 py-1 text-xs text-gray-500 dark:text-gray-400">
 								<a
 									href={edition.cts}

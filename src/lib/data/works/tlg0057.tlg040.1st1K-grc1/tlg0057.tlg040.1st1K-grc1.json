@@ -7,7 +7,6 @@
     "urn": null
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 29,
     "page": "6.832",
@@ -17,12 +16,12 @@
   {
     "tagname": "head",
     "char_offset": 0,
-    "line": 1,
+    "line": 0,
     "page": "6.832",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
-    "end_char_offset": 29,
-    "end_token_offset": "ΕΝΥΠΝΙΩΝ[1]"
+    "end_char_offset": 41,
+    "end_token_offset": "ΔΙΑΓΝΩΣΕΩΣ.[1]"
   },
   {
     "n": "1",
@@ -31,17 +30,6 @@
     "page": "6.832",
     "token_offset": "ΔΙΑΓΝΩΣΕΩΣ.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 41,
-    "line": 2,
-    "page": "6.832",
-    "token_offset": "ΔΙΑΓΝΩΣΕΩΣ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
-    "end_char_offset": 41,
-    "end_token_offset": "ΔΙΑΓΝΩΣΕΩΣ.[1]"
   },
   {
     "n": "2",
@@ -272,18 +260,6 @@
     "page": "6.834",
     "token_offset": "ἐθεάσατο[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1"
-  },
-  {
-    "unit": "ed2page",
-    "n": "6.518",
-    "tagname": "milestone",
-    "char_offset": 1499,
-    "line": 1,
-    "page": "6.834",
-    "token_offset": "ἐθεάσατο[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
-    "end_char_offset": 1499,
-    "end_token_offset": "ἐθεάσατο[1]"
   },
   {
     "n": "2",
@@ -539,6 +515,18 @@
     "page": "6.835",
     "token_offset": "πλεονεξίας[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "6.518",
+    "tagname": "milestone",
+    "char_offset": 1499,
+    "line": 1,
+    "page": "6.834",
+    "token_offset": "ἐθεάσατο[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
+    "end_char_offset": 3244,
+    "end_token_offset": "χυμῶν.[1]"
   },
   {
     "type": "textpart",
@@ -1054,5 +1042,16 @@
       "χυμῶν."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1"
+  },
+  {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 41,
+    "line": 0,
+    "page": "6.832",
+    "token_offset": "ΔΙΑΓΝΩΣΕΩΣ.[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
+    "end_char_offset": 3244,
+    "end_token_offset": "χυμῶν.[1]"
   }
 ]

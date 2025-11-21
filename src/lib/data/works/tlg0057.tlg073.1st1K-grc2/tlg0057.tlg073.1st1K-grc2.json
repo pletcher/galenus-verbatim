@@ -25,23 +25,11 @@
     "end_token_offset": "πότε.[1]"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 0,
     "page": "221",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 10,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "1",
@@ -52,7 +40,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 58,
     "page": "221",
@@ -60,7 +47,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 126,
     "page": "221",
@@ -76,7 +62,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 253,
     "page": "221",
@@ -84,7 +69,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 324,
     "page": "221",
@@ -92,12 +76,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 10,
+    "page": "221",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1",
+    "end_char_offset": 341,
+    "end_token_offset": "οἰκεῖον.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "1",
     "id": "_1.1",
     "content": "Τοὺϲ ὑγιεινὰ τὰ ϲώματα ἔχονταϲ ἐργῶδεϲ καθαίρειν· καὶ γὰρ ἰλιγγιῶϲι καὶ ϲτροφοῦνται, καὶ δυϲχερῶϲ αὐτοῖϲ ἡ κάθαρϲιϲ προχωρεῖ, καὶ πρὸϲ τούτοιϲ ἔτι ταχέωϲ ἐκλύονται· γίνεται δὲ ταῦτα πάντα, τοῦ καθαρτικοῦ φαρμάκου τὸν οἰκεῖον μὲν ἕλκειν ἐφιεμένου χυμόν, τῷ δ᾿ ἀπορεῖν αὐτοῦ τὸ οἷμα καὶ τὰϲ ϲάρκαϲ ϲυντήκοντοϲ, ἵνα ἐξ ἐκείνων ἕλξῃ τὸ οἰκεῖον.",
-    "line": 17,
+    "line": 0,
     "page": "221",
     "tokens": [
       "Τοὺϲ",
@@ -157,7 +152,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.1"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 0,
     "page": "221",
@@ -165,21 +159,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 17,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "cause": "fix",
     "tagname": "add",
     "char_offset": 43,
-    "line": 18,
+    "line": 0,
     "page": "221",
     "token_offset": "δ᾿[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2",
@@ -187,7 +170,6 @@
     "end_token_offset": "ἄν[1]"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 51,
     "page": "221",
@@ -195,7 +177,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 127,
     "page": "221",
@@ -209,6 +190,17 @@
     "page": "221",
     "token_offset": "εἰ[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "221",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2",
+    "end_char_offset": 205,
+    "end_token_offset": "διαφθοράν.[1]"
   },
   {
     "type": "textpart",
@@ -255,11 +247,24 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.2"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 0,
     "page": "221",
     "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 47,
+    "page": "221",
+    "token_offset": "ἀρχομένην[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 110,
+    "page": "221",
+    "token_offset": "τοιαύτηϲ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
   },
   {
@@ -270,24 +275,8 @@
     "page": "221",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 21,
-    "tagname": "lb",
-    "char_offset": 47,
-    "page": "221",
-    "token_offset": "ἀρχομένην[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
-  },
-  {
-    "n": 22,
-    "tagname": "lb",
-    "char_offset": 110,
-    "page": "221",
-    "token_offset": "τοιαύτηϲ[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
+    "end_char_offset": 156,
+    "end_token_offset": "γίνεϲθαι.[1]"
   },
   {
     "type": "textpart",
@@ -295,7 +284,7 @@
     "n": "3",
     "id": "_1.3",
     "content": "ἡμεῖϲ γοῦν καὶ ποδάγραν καὶ ἀρθρῖτιν ἀρχομένην καὶ μήπω περὶ  τοῖϲ ἄρθροιϲ εἰργαϲμένην πώρουϲ ἐκ τῆϲ τοιαύτηϲ κενώϲεωϲ ἐτῶν ἤδη πολλῶν ἐκωλύϲαμεν γίνεϲθαι.",
-    "line": 23,
+    "line": 0,
     "page": "221",
     "tokens": [
       "ἡμεῖϲ",
@@ -325,7 +314,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.3"
   },
   {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 0,
     "page": "221",
@@ -333,18 +321,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.4"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 23,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.4",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 24,
     "tagname": "lb",
     "char_offset": 12,
     "page": "221",
@@ -352,7 +328,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.4"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 81,
     "page": "221",
@@ -366,6 +341,17 @@
     "page": "221",
     "token_offset": "ἐπαύϲαμεν.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.4"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "221",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.4",
+    "end_char_offset": 144,
+    "end_token_offset": "ἐπαύϲαμεν.[1]"
   },
   {
     "type": "textpart",
@@ -408,18 +394,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 25,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 60,
     "page": "221",
@@ -427,7 +401,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 128,
     "page": "221",
@@ -435,12 +408,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 25,
+    "page": "221",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5",
+    "end_char_offset": 199,
+    "end_token_offset": "οὐϲίαν.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "5",
     "id": "_1.5",
     "content": "ἐνίοιϲ μὲν οὖν ϲυμφέρει κενοῦϲθαι τοὺϲ φλεγματώδειϲ χυμούϲ, ἐνίοιϲ δὲ τοὺϲ πικροχόλουϲ, ἐνίοιϲ δὲ τοὺϲ μελαγχολικούϲ, ἐνίοιϲ δ᾿ ὀρῶδεϲ περίττωμα κατὰ τὴν τῶν εἰθιϲμένων αὐτοῖϲ γίνεϲθαι παθῶν οὐϲίαν.",
-    "line": 27,
+    "line": 0,
     "page": "221",
     "tokens": [
       "ἐνίοιϲ",
@@ -475,7 +459,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.5"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 0,
     "page": "221",
@@ -483,18 +466,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.6"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 27,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.6",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 28,
     "tagname": "lb",
     "char_offset": 57,
     "page": "221",
@@ -508,6 +479,17 @@
     "page": "221",
     "token_offset": "φθινοπώρου.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.6"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "221",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.6",
+    "end_char_offset": 126,
+    "end_token_offset": "φθινοπώρου.[1]"
   },
   {
     "type": "textpart",
@@ -550,18 +532,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 30,
-    "page": "221",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 59,
     "page": "221",
@@ -569,7 +539,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 125,
     "page": "221",
@@ -580,7 +549,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 197,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "παραλειφθείη[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
@@ -591,7 +560,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 395,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "K.)[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
@@ -602,7 +571,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 420,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "2[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
@@ -613,7 +582,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 811,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "Dg:[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
@@ -624,7 +593,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 1298,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "N[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
@@ -635,9 +604,20 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 1396,
-    "line": 32,
+    "line": 0,
     "page": "221",
     "token_offset": "N[3]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
+    "end_char_offset": 1417,
+    "end_token_offset": "N[4]"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 30,
+    "page": "221",
+    "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7",
     "end_char_offset": 1417,
     "end_token_offset": "N[4]"
@@ -648,7 +628,7 @@
     "n": "7",
     "id": "_1.7",
     "content": "οὕτωϲ δὲ | καὶ γυναῖκά τινα καθ᾿ ἕκαϲτον ἔτοϲ εἰϲβάλλοντοϲ ἦροϲ ὁμοίωϲ κενῶ, καρκινώδη διάθεϲιν ἐν μαϲτῷ ἔχουϲαν, ἣν ἰαϲάμην ἰϲχυρῶϲ κενώϲαϲ διὰ φαρμάκου καθαίροντοϲ μέλαιναν, καὶ εἰ  παραλειφθείη 10—14 Οrib. Syn. I 16, 1 12—17 Gal.\n                                in Hipp. Aphor comm. I 37 (XVII 2,536—537 K.) 17—p. 222, 13 Gal.\n                                ibid. VI 47 (XVIII 1, 78 —81 K.) 17—19 Orib. Syn. I 16, 2 1 επτέον A 2 ἄν bis AN 3 ποραϲταχθένταϲ A\n                                δεικτικὸν CN ἄλλων codd.: corr. C2 4 ἑλκομένων codd.: corr. Matthaei\n                                ἐκκλητέον AN: εκλητέον C: corr. C² 6 διθώϲει A 7 ϲτράγγοϲ codd.:\n                                corr. Matthaei 8 ἐπιπολέωϲ codd. 12 ὑγεινὰ AC 15.16 τὸ δ᾿ ἀπορρεῖν\n                                codd.: corr. C² Dg: 17 νοϲήϲονταϲ Dg ἄν addidi 18 φθάνειν om. C 19\n                                ἁλίϲκοντο A εἰ (posteriore loco)] ἢ C 21 ἐργαϲμένην C πόρουϲ codd.\n                                22 ἐτῶν C2 Dg: τῶν Codd ἤδη Dg: δὴ codd. 24. 25 ἐπαύϲωμεν A1 26\n                                ἐνίοιϲ (secundo loco) ἐβίοιϲ A1 27 ὀρῶδεϲ A: ὀρῶδε N ἠθιϲμένων codd.\n                                28 μελαγχολίαν codd.: corr. C2 Dg 29 καθαίρων N: καθαίρα A ἦροϲ] ἦ\n                                A1 30 οὕτω N 31 μαϲθῶ C e corr. 32 μέλαιαν A1 : μέλανα Dg post\n                                εἰ add. μὴ A1 N 32 sq. παραληφθείη N",
-    "line": 32,
+    "line": 0,
     "page": "221",
     "tokens": [
       "οὕτωϲ",
@@ -862,7 +842,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.7"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
@@ -870,18 +849,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 1,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 57,
     "page": "222",
@@ -889,7 +856,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 121,
     "page": "222",
@@ -897,7 +863,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 196,
     "page": "222",
@@ -905,12 +870,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8",
+    "end_char_offset": 235,
+    "end_token_offset": "ἐπιϲημαίνει.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "8",
     "id": "_1.8",
     "content": "ποτὲ ἡ κάθαρϲιϲ, ὀδύνη διὰ βάθουϲ αὐτῇ γίνεται. ἐλέφαντα δ᾿ἀρχόμενον ἑτέρῳ τὰ μὲν πρῶτα διά τε φλεβοτομίαϲ καὶ καθάρϲεωϲ ἰαϲάμην· ἑκάϲτου δ᾿ ἔτουϲ αὖθιϲ ἀρκεῖ καὶ τούτω μία κάθαρϲιϲ· ἐκλειφθείϲηϲ δ᾿ αὐτῆϲ, αὐτίκα τὸ πάθοϲ ἐπιϲημαίνει.",
-    "line": 5,
+    "line": 0,
     "page": "222",
     "tokens": [
       "ποτὲ",
@@ -953,23 +929,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 5,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "5",
@@ -980,7 +944,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 78,
     "page": "222",
@@ -988,7 +951,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 141,
     "page": "222",
@@ -996,7 +958,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 205,
     "page": "222",
@@ -1004,12 +965,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9",
+    "end_char_offset": 218,
+    "end_token_offset": "φλεγματικῶν.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "9",
     "id": "_1.9",
     "content": "τὰ μὲν οὖν τοιαῦτα νοϲήματα καθάρϲεωϲ χρῄζει μελάνων χυμῶν, ἐπιληπτικὰ δὲ καὶ ἀποπληκτικὰ καὶ ἀϲθματικὰ τῶν φλεγματωδῶν, ἀρθριτικὰ δὲ τὰ μὲν ἅμα θερμαϲίᾳ πολλῇ τῶν πικροχόλων, τὰ δὲ ϲὺν ὄγκοιϲ ψυχροῖϲ τῶν φλεγματικῶν.",
-    "line": 8,
+    "line": 0,
     "page": "222",
     "tokens": [
       "τὰ",
@@ -1049,7 +1021,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.9"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
@@ -1057,18 +1028,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 8,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 51,
     "page": "222",
@@ -1084,7 +1043,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 178,
     "page": "222",
@@ -1092,7 +1050,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 245,
     "page": "222",
@@ -1100,7 +1057,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 317,
     "page": "222",
@@ -1108,12 +1064,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10",
+    "end_char_offset": 341,
+    "end_token_offset": "κενοῦϲθαι.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "10",
     "id": "_1.10",
     "content": "ἄλλοϲ δέ τιϲ ὥρᾳ θέρουϲ αἰεὶ τριτοίοιϲ ἁλιϲκόμενοϲ πυρετοῖϲ  ἤδη πολλῶν ἐτῶν οὐκ ἐπύρεξε, χολὴν ὠχρὰν | φθάνων ὑφ᾿ ἡμῶν καθαίρεϲθαι κατὰ τὴν τελευτὴν τοῦ ἦροϲ· οὕτωϲ γὰρ ἄμεινόν ἐϲτι τοὺϲ τοιούτουϲ κενοῦν, ὡϲ τούϲ γε ἐπιληπτικοὺϲ ἀρθριτικούϲ τε καὶ μελαγχολικοὺϲ ὅϲοι τε ἄλλοι διὰ παχεῖϲ χυμοὺϲ νοϲοῦϲιν εἰϲβάλλοντοϲ ἦροϲ ἄμεινον κενοῦϲθαι.",
-    "line": 13,
+    "line": 0,
     "page": "222",
     "tokens": [
       "ἄλλοϲ",
@@ -1172,7 +1139,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.10"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
@@ -1180,18 +1146,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 13,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 32,
     "page": "222",
@@ -1207,7 +1161,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 170,
     "page": "222",
@@ -1215,7 +1168,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 231,
     "page": "222",
@@ -1223,7 +1175,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 293,
     "page": "222",
@@ -1231,7 +1182,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 361,
     "page": "222",
@@ -1245,6 +1195,17 @@
     "page": "222",
     "token_offset": "τοῦτο,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11",
+    "end_char_offset": 452,
+    "end_token_offset": "αὐτῶν.[1]"
   },
   {
     "type": "textpart",
@@ -1324,11 +1285,24 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.11"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
     "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 45,
+    "page": "222",
+    "token_offset": "ἀπαντῶϲιν[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 106,
+    "page": "222",
+    "token_offset": "τε[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
   },
   {
@@ -1339,24 +1313,8 @@
     "page": "222",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 21,
-    "tagname": "lb",
-    "char_offset": 45,
-    "page": "222",
-    "token_offset": "ἀπαντῶϲιν[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
-  },
-  {
-    "n": 22,
-    "tagname": "lb",
-    "char_offset": 106,
-    "page": "222",
-    "token_offset": "τε[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
+    "end_char_offset": 156,
+    "end_token_offset": "δυϲκολίαϲ.[1]"
   },
   {
     "type": "textpart",
@@ -1364,7 +1322,7 @@
     "n": "12",
     "id": "_1.12",
     "content": "τοῖϲ δ᾿ ἀμελήϲαϲι τούτων δυϲχερεῖϲ ἀπαντῶϲιν αἱ | καθάρϲειϲ μετὰ ϲτρόφων ἐνίοτε καί τινων ἰλίγγων ἄϲηϲ τε πολλῆϲ καὶ κακοϲφυξίαϲ ἐκλύϲεώϲ τε καὶ δυϲκολίαϲ.",
-    "line": 23,
+    "line": 0,
     "page": "222",
     "tokens": [
       "τοῖϲ",
@@ -1395,7 +1353,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.12"
   },
   {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
@@ -1403,18 +1360,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 23,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 24,
     "tagname": "lb",
     "char_offset": 14,
     "page": "222",
@@ -1422,7 +1367,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 80,
     "page": "222",
@@ -1430,12 +1374,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13",
+    "end_char_offset": 124,
+    "end_token_offset": "ἐμέτων.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "13",
     "id": "_1.13",
     "content": "τοῦ μέλλοντοϲ δ᾿ ἐλλέβορον λήψεϲθαι προπειρᾶϲθαι χρὴ τῆϲ φύϲεωϲ, ὅπωϲ ἔχει πρὸϲ τὰϲ ἄνω καθάρϲειϲ, τουτέϲτι τὰϲ δι᾿ ἐμέτων.",
-    "line": 26,
+    "line": 0,
     "page": "222",
     "tokens": [
       "τοῦ",
@@ -1461,23 +1416,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.13"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 0,
     "page": "222",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 26,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "25",
@@ -1488,7 +1431,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 88,
     "page": "222",
@@ -1496,7 +1438,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 155,
     "page": "222",
@@ -1504,7 +1445,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 220,
     "page": "222",
@@ -1512,7 +1452,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
   },
   {
-    "n": 28,
     "tagname": "lb",
     "char_offset": 283,
     "page": "222",
@@ -1526,6 +1465,17 @@
     "page": "222",
     "token_offset": "τὰ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.14",
+    "end_char_offset": 400,
+    "end_token_offset": "ἀναπαύϲει.[1]"
   },
   {
     "type": "textpart",
@@ -1612,18 +1562,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 30,
-    "page": "222",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 11,
     "page": "222",
@@ -1631,7 +1569,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 76,
     "page": "222",
@@ -1639,18 +1576,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "cause": "fix",
-    "tagname": "add",
-    "char_offset": 71,
-    "line": 31,
-    "page": "222",
-    "token_offset": "πέφυκεν,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
-    "end_char_offset": 76,
-    "end_token_offset": "οὕτω[1]"
-  },
-  {
-    "n": 32,
     "tagname": "lb",
     "char_offset": 142,
     "page": "222",
@@ -1658,7 +1583,17 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "n": 33,
+    "cause": "fix",
+    "tagname": "add",
+    "char_offset": 71,
+    "line": 0,
+    "page": "222",
+    "token_offset": "πέφυκεν,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
+    "end_char_offset": 202,
+    "end_token_offset": "πέφυκεν,[2]"
+  },
+  {
     "tagname": "lb",
     "char_offset": 207,
     "page": "222",
@@ -1669,7 +1604,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 273,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "δριμεῖα[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1680,7 +1615,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 500,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "2,672—673K.)[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1691,7 +1626,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 602,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "Dg[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1702,7 +1637,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 805,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "N[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1713,7 +1648,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 902,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "A[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1724,7 +1659,7 @@
     "reason": "omitted",
     "tagname": "gap",
     "char_offset": 1274,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "οὕτω[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1735,7 +1670,7 @@
     "reason": "omitted",
     "tagname": "gap",
     "char_offset": 1307,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "τροφὴ[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1746,7 +1681,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 1190,
-    "line": 34,
+    "line": 0,
     "page": "222",
     "token_offset": "AN[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
@@ -1761,7 +1696,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1421,
     "page": "223",
@@ -1769,12 +1703,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 30,
+    "page": "222",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15",
+    "end_char_offset": 1444,
+    "end_token_offset": "πικρά.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "15",
     "id": "_1.15",
     "content": "τὸ μὲν οὖν τῆϲ ἀναπαύϲεωϲ δῆλον· ὡϲ γὰρ τὰ γυμνάϲια ξηραίνειν πέφυκεν, οὕτω καὶ ἡ ἀνάπαυϲιϲ, ὅπερ ἐϲτὶν ἡϲυχία τε καὶ ἀγυμναϲία, φυλάττει τὰϲ ὑγρότηταϲ· τροφὴ δ᾿ οὐχ ἁπλῶϲ ἡ | πλείων ὑγραίνειν πέφυκεν, ἀλλ᾿ ἥτιϲ ἄνευ ποιότητοϲ ἰϲχυρᾶϲ ᾖ, τουτέϲτι μήτε ϲτρυφνὴ μήτε δριμεῖα 5—8 Orib. Syn. I 16, 2 13—16 Gal. ibid. 119 (XVII\n                                2,465 K.); Orib Syn. I 16,3 20—22 Gal. ibid II 9 (XVII 2,465 K.)\n                                22—p. 223,1 Gal. ibid. IV 13 (XVII 2,672—673K.) 1 ὐτῆϲ codd.: corr. C2Dg 3. 4 ἐκλειφθείϲηϲ C e\n                                corr.: ἐλλειφθείϲηϲ Dg 4 πιϲημαίνει. τὰ Dg: ἐπιϲημαίνεται codd. 5\n                                μελανοῦν AN: μέλαν οὖν C: corr. Dg χυμὸν codd.: corr. Dg 8 ἀεὶ C 17\n                                τῶν (posteriore loco)] τῶ N 18 δύϲλυτοϲ codd.: corr. C² Dg 19 τὰ] δὲ C 20\n                                προλελυπτυϲμένων A 21 ϲτρόφων C²Dg: ϲφοδρῶν codd ἀϲτῆϲ A 22\n                                κακοϲφυγξίαϲ A: κακοϲφιγξίαϲ CN: corr. Dg 23 ἐλλέβορο N λή ήψεται A1\n                                C προπειρᾶϲθαι om. N ἔχῃ codd.: corr. Dg 27 τοιοῦτον A 28 μὲν om. C\n                                λειψομένου AN 30 πλείω codd.: corr. C2Dg 31 πύφυκεν A 31— 33\n                                οὕτω πέφυκεν add. Dg e Gal., et τροφὴ πέφυκεν add. iam C² 33. 34 ἄλλῃ τιϲ codd.:\n                                ἀλλ᾿ εἴ τιϲ Dg: correxi 34 ἰϲχυράϲη A. μήτε ἁλυκὴ μήτε πικρά.",
-    "line": 2,
+    "line": 0,
     "page": "223",
     "tokens": [
       "τὸ",
@@ -1988,7 +1933,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.15"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -1996,18 +1940,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 2,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 46,
     "page": "223",
@@ -2015,7 +1947,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 106,
     "page": "223",
@@ -2023,12 +1954,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16",
+    "end_char_offset": 167,
+    "end_token_offset": "τοιαύτη.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "16",
     "id": "_1.16",
     "content": "δεδώκαμεν δ᾿ ἐνίοτε ῥαφανῖδαϲ δι᾿ ὀξυμέλιτοϲ, πήξαντεϲ αὐταῖϲ δι᾿ ὅληϲ ἡμέραϲ καὶ νυκτὸϲ ἐλλεβόρου κλῶναϲ λευκοῦ. καὶ εἴη ἂν ἀϲθενὴϲ ἀπ᾿ ἐλλεβόρου κάθαρϲιϲ ἡ τοιαύτη.",
-    "line": 5,
+    "line": 0,
     "page": "223",
     "tokens": [
       "δεδώκαμεν",
@@ -2060,7 +2002,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.16"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2068,18 +2009,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 5,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 6,
     "page": "223",
@@ -2095,7 +2024,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 133,
     "page": "223",
@@ -2103,7 +2031,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 198,
     "page": "223",
@@ -2111,12 +2038,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17",
+    "end_char_offset": 266,
+    "end_token_offset": "ὀργάνοιϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "17",
     "id": "_1.17",
     "content": "οἱ δὲ ϲτενὸν ἔχοντεϲ τὸν θώρακα καὶ διὰ τοῦτο καὶ τὸν πνεύμονα ϲυντεθλιμμένον ἀνεπιτηδειότατοι τυγχάνουϲιν εἰϲ τὰϲ ἐμετικῶν φαρμάκων καθάρϲειϲ τάϲ τε ἄλλαϲ καὶ μάλιϲτα τὴν δι᾿ ἐλλεβόρου τοῦ λευκοῦ· ῥήγνυται γὰρ αὐτοῖϲ ἀγγεῖόν τι τῶν ἐν τοῖϲ ἀναπνευϲτικοῖϲ ὀργάνοιϲ.",
-    "line": 7,
+    "line": 0,
     "page": "223",
     "tokens": [
       "οἱ",
@@ -2163,7 +2101,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.17"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2171,18 +2108,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 7,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 59,
     "page": "223",
@@ -2198,7 +2123,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 201,
     "page": "223",
@@ -2206,12 +2130,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18",
+    "end_char_offset": 212,
+    "end_token_offset": "κάτω.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "18",
     "id": "_1.18",
     "content": "χρὴ δὲ καὶ τὸν μὲν πικρόχολον χυμὸν ἄνω, τὸ δὲ φλέγμα κάτω μᾶλλον κενοῦν· ἔϲθ᾿ ὅτε μὴν ἔμπολιν, εἰ κατὰ μὲν τὴν γαϲτέρα  φλεγματικόϲ, ἐν δὲ τοῖϲ ἐντέροιϲ πικρόχολοϲ ἀθροιϲθείη, τὸν μέντοι μελαγχολικὸν αἰεὶ κάτω.",
-    "line": 11,
+    "line": 0,
     "page": "223",
     "tokens": [
       "χρὴ",
@@ -2253,7 +2188,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.18"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2261,18 +2195,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 11,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 47,
     "page": "223",
@@ -2280,7 +2202,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 104,
     "page": "223",
@@ -2288,12 +2209,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19",
+    "end_char_offset": 111,
+    "end_token_offset": "κάτω.’[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "19",
     "id": "_1.19",
     "content": "γέγραπται δὲ κατὰ τοὺϲ Ἀφοριϲμοὺϲ Ἱπποκράτει | περὶ τῶν ὡρῶν· ‘θέρεοϲ φαρμακεύειν τὰϲ ἄνω, χειμῶνοϲ τὰϲ κάτω.’",
-    "line": 14,
+    "line": 0,
     "page": "223",
     "tokens": [
       "γέγραπται",
@@ -2317,7 +2249,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.19"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2325,18 +2256,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.20"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 14,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.20",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 55,
     "page": "223",
@@ -2350,6 +2269,17 @@
     "page": "223",
     "token_offset": "ἡλικιῶν.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.20"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.20",
+    "end_char_offset": 124,
+    "end_token_offset": "ἡλικιῶν.[1]"
   },
   {
     "type": "textpart",
@@ -2384,11 +2314,24 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.20"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
     "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 60,
+    "page": "223",
+    "token_offset": "κενώϲεωϲ·[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 132,
+    "page": "223",
+    "token_offset": "κοιλίαϲ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
   },
   {
@@ -2399,24 +2342,8 @@
     "page": "223",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 16,
-    "tagname": "lb",
-    "char_offset": 60,
-    "page": "223",
-    "token_offset": "κενώϲεωϲ·[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
-  },
-  {
-    "n": 17,
-    "tagname": "lb",
-    "char_offset": 132,
-    "page": "223",
-    "token_offset": "κοιλίαϲ[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
+    "end_char_offset": 201,
+    "end_token_offset": "ἐλλεβόρου.[1]"
   },
   {
     "type": "textpart",
@@ -2424,7 +2351,7 @@
     "n": "21",
     "id": "_1.21",
     "content": "καὶ μὴν καὶ τὸ ἔθοϲ οὐ ϲμικρὰ μοῖρα πρὸϲ ἔνδειξιν κενώϲεωϲ· οἱ μὲν γὰρ ἐμεῖν εἰθιϲμένοι φέρουϲιν ἀλυπότερον τὰϲ διὰ τῆϲ ἄνω κοιλίαϲ καθάρϲειϲ· οἱ δ᾿ ἀήθειϲ οὐκ ἄνευ κινδύνου, καὶ μᾶλλον ἐπ᾿ ἐλλεβόρου.",
-    "line": 18,
+    "line": 0,
     "page": "223",
     "tokens": [
       "καὶ",
@@ -2465,7 +2392,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.21"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2473,18 +2399,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 18,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 55,
     "page": "223",
@@ -2500,7 +2414,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 182,
     "page": "223",
@@ -2508,7 +2421,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22"
   },
   {
-    "n": 21,
     "tagname": "lb",
     "char_offset": 243,
     "page": "223",
@@ -2516,12 +2428,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22",
+    "end_char_offset": 287,
+    "end_token_offset": "παραληψόμεθα.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "22",
     "id": "_1.22",
     "content": "καὶ τὸ τοῦ νοϲήματοϲ δ᾿ εἶδοϲ ϲκοπεῖϲθαι προϲῆκεν· ἐπὶ μὲν γὰρ τοῦ λευκοφλεγματίου ὑδέρου φλέγματοϲ ἀγωγῷ χρηϲόμεθα φαρμάκῳ, πρότερον μὲν διὰ τῆϲ κάτω γαϲτρόϲ, εἶτα δι᾿ ἐμέτων, εἶτα δι᾿ἀποφλεγματιϲμῶν· δι᾿ ὅλου γὰρ τοῦ ϲώματοϲ ἐκτεταμένου τοῦ πλεονάζοντοϲ, ἁπάϲαϲ κενώϲειϲ παραληψόμεθα.",
-    "line": 22,
+    "line": 0,
     "page": "223",
     "tokens": [
       "καὶ",
@@ -2568,7 +2491,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.22"
   },
   {
-    "n": 22,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2576,18 +2498,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.23"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 22,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.23",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 21,
     "page": "223",
@@ -2609,6 +2519,17 @@
     "page": "223",
     "token_offset": "πολυειδῶϲ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.23"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.23",
+    "end_char_offset": 220,
+    "end_token_offset": "ῥινῶν.[1]"
   },
   {
     "type": "textpart",
@@ -2662,7 +2583,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.23"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2670,18 +2590,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 25,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 61,
     "page": "223",
@@ -2689,7 +2597,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 119,
     "page": "223",
@@ -2697,7 +2604,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24"
   },
   {
-    "n": 28,
     "tagname": "lb",
     "char_offset": 181,
     "page": "223",
@@ -2711,6 +2617,17 @@
     "page": "223",
     "token_offset": "χυμὸν[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 25,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.24",
+    "end_char_offset": 287,
+    "end_token_offset": "αὐτόν.[1]"
   },
   {
     "type": "textpart",
@@ -2779,18 +2696,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 30,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 23,
     "page": "223",
@@ -2798,7 +2703,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 87,
     "page": "223",
@@ -2806,7 +2710,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25"
   },
   {
-    "n": 32,
     "tagname": "lb",
     "char_offset": 154,
     "page": "223",
@@ -2814,12 +2717,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 30,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25",
+    "end_char_offset": 191,
+    "end_token_offset": "κυριτοῖϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "25",
     "id": "_1.25",
     "content": "ἀμέλει καὶ τῶν κατὰ τὸ ἧπαρ φλεγμαινόντων, ὅταν πεφθῶϲι, τὴν ἀποκάθαρϲιν ποιούμεθα διὰ μὲν τῆϲ κάτω γαϲτρόϲ, ὅταν ἐν τοῖϲ ϲιμοῖϲ αὐτοῦ γένηται τὸ πάθημα, δι᾿ οὔρων δέ, ὅταν ἐν τοῖϲ κυριτοῖϲ.",
-    "line": 33,
+    "line": 0,
     "page": "223",
     "tokens": [
       "ἀμέλει",
@@ -2858,7 +2772,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.25"
   },
   {
-    "n": 33,
     "tagname": "lb",
     "char_offset": 0,
     "page": "223",
@@ -2866,18 +2779,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 33,
-    "page": "223",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 34,
     "tagname": "lb",
     "char_offset": 33,
     "page": "223",
@@ -2888,7 +2789,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 89,
-    "line": 35,
+    "line": 0,
     "page": "223",
     "token_offset": "οὗ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
@@ -2899,7 +2800,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 379,
-    "line": 35,
+    "line": 0,
     "page": "223",
     "token_offset": "K.)[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
@@ -2910,7 +2811,7 @@
     "reason": "omitted",
     "tagname": "gap",
     "char_offset": 1161,
-    "line": 35,
+    "line": 0,
     "page": "223",
     "token_offset": "διὰ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
@@ -2921,7 +2822,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 749,
-    "line": 35,
+    "line": 0,
     "page": "223",
     "token_offset": "A1[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
@@ -2936,7 +2837,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1250,
     "page": "224",
@@ -2944,7 +2844,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1312,
     "page": "224",
@@ -2952,7 +2851,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1377,
     "page": "224",
@@ -2963,15 +2861,14 @@
     "cause": "fix",
     "tagname": "add",
     "char_offset": 1360,
-    "line": 3,
+    "line": 0,
     "page": "224",
     "token_offset": "τρόπον[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
-    "end_char_offset": 1377,
-    "end_token_offset": "καὶ[6]"
+    "end_char_offset": 1387,
+    "end_token_offset": "τόπον[1]"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1442,
     "page": "224",
@@ -2987,7 +2884,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1572,
     "page": "224",
@@ -2995,12 +2891,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "223",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26",
+    "end_char_offset": 1617,
+    "end_token_offset": "χολῆϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "26",
     "id": "_1.26",
     "content": "οὕτωϲ δὲ κἀπὶ τῶν ἄλλων ἐπιϲκέψῃ τόν τε πλεονάζοντα χυμὸν καὶ τὸν πεπονθότα τόπον, ἐξ οὗ 1 — 3 Gal. in Hipp.\n                                de fract. comm. III 48 (XVIII 2, 607 K.) 11—13 Hipp. Aphor. IV 4 (IV\n                                502 L.) 15—28 Gal. in Hipp. de hum. comm. I 12 (XVI 124 —125 K.)\n                                28—p. 224, 6 Gal. ibid. I 2 (XVI 63 K.) 3 ευκούϲ codd.: corr. Dg ἀϲθενεῖϲ A τοαύτη A 4\n                                πνεύμονα] πνεύ A 6 δι᾿ om. A1 7 ἀναπνευμαϲτικοῖϲ N 8 τῶν μὲν\n                                πικροχόλων χυμῶν AN 9 ἔμπαριν A 10 ἀθροιϲθέη) C 10. 11 τῶν μέντοι\n                                μελαγ- χολικῶν AN 11 ἀεὶ C 16 ἡμεῖν A ἠθιϲμένοι CN A2: ἡθευμένοι\n                                A1 18 ἐλλεβόρῳ codd.: corr. C2Dg 19 λευκῷ φλέγματι\n                                codd.: λευκοφλεγματίαϲ C²: corr. Dg 20 γαρϲτρόϲ A 23 δώϲωμεν codd.:\n                                corr. Dg 24 ἰκτερίων codd.: correxi e Gal.: ἰκτεριώντων Dg τῶν\n                                χολαγωγῶν] χολαγωγόν Dg καὶ om. C 26 οῦτοϲ A καὶ ὁ μελικὸϲ πλεονάϲει\n                                N ὃϲ AN 30 τῶν] τὸν ACN1 31. 32 διὰ πάθημα\n                                om. N 32 ϲιμαῖϲ fortasse A1C1 33. 34 ἐπιϲκέψαι A1 καθάπερ ἑϲτίαϲ τινὸϲ ὁρμᾶται τὸ νόϲημα· ταῦτα γάρ ϲοι καὶ τὸν κενωθηϲόμενον ἐνδείξεται | χυμὸν καὶ τὸν τρόπον τῆϲ κενώϲεωϲ καὶ τὸν τόπον δι᾿ οὗ χρὴ κενῶϲαι, καὶ πρὸϲ τούτοιϲ ἅπαϲι τὸν καιρόν· ἐν ἀρχῇ μὲν γὰρ τοὺϲ ὀρώδειϲ τε καὶ λεπτοὺϲ κενώϲειϲ χυμούϲ, ἀναμενεῖϲ δὲ πέψιν ἐπὶ τῶν παχέων καὶ γλίϲχρων, οἷοι τὴν φύϲιν εἰϲὶν ὅ τε τοῦ φλέγματοϲ καὶ ὁ τῆϲ μελαίνηϲ χολῆϲ.",
-    "line": 6,
+    "line": 0,
     "page": "224",
     "tokens": [
       "οὕτωϲ",
@@ -3248,7 +3155,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.26"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 0,
     "page": "224",
@@ -3256,18 +3162,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 6,
-    "page": "224",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 23,
     "page": "224",
@@ -3275,7 +3169,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 80,
     "page": "224",
@@ -3283,7 +3176,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 144,
     "page": "224",
@@ -3299,7 +3191,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 281,
     "page": "224",
@@ -3307,7 +3198,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 342,
     "page": "224",
@@ -3315,12 +3205,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "224",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27",
+    "end_char_offset": 342,
+    "end_token_offset": "ἀποκρινομένων.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "27",
     "id": "_1.27",
     "content": "καὶ ἀπὸ τῶν παροξυϲμῶν δὲ ϲκοπὸν εἰϲ ἔνδειξιν τρόπου κενώϲεωϲ ἕξειϲ, ἐκ μὲν τῶν ἄνω ποιούμενοϲ τὰϲ κενώϲειϲ ἐν τοῖϲ παροξυϲμοῖϲ, ἐκ δὲ τῶν κάτω κατὰ τὰϲ καλουμέναϲ ἀνέϲειϲ· καὶ γὰρ καὶ αὐτόματα οὕτωϲ ὠφελεῖ, ἐν μὲν τοῖϲ παροξυϲμοῖϲ ἐμούντων τε πολλῶν καὶ διὰ ῥινῶν αἱμορραγούντων, ἐν δὲ ταῖϲ ἀνέϲεϲιν σὔρων τε καὶ διαχωρημάτων ἀποκρινομένων.",
-    "line": 12,
+    "line": 0,
     "page": "224",
     "tokens": [
       "καὶ",
@@ -3382,7 +3283,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.27"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 0,
     "page": "224",
@@ -3390,18 +3290,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.28"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 12,
-    "page": "224",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.28",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 55,
     "page": "224",
@@ -3409,7 +3297,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.28"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 119,
     "page": "224",
@@ -3423,6 +3310,17 @@
     "page": "224",
     "token_offset": "φαρμάκου[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.28"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "224",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.28",
+    "end_char_offset": 212,
+    "end_token_offset": "ἐμποδιϲθήϲεται.[1]"
   },
   {
     "type": "textpart",
@@ -3476,18 +3374,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 15,
-    "page": "224",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 37,
     "page": "224",
@@ -3495,7 +3381,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 103,
     "page": "224",
@@ -3503,7 +3388,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 170,
     "page": "224",
@@ -3511,7 +3395,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 235,
     "page": "224",
@@ -3527,7 +3410,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 368,
     "page": "224",
@@ -3535,7 +3417,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 21,
     "tagname": "lb",
     "char_offset": 432,
     "page": "224",
@@ -3543,12 +3424,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 15,
+    "page": "224",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29",
+    "end_char_offset": 489,
+    "end_token_offset": "ψυχόντων.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "29",
     "id": "_1.29",
     "content": "ἐπὶ δὲ τῶν ἤδη νοϲούντων ἐν μὲν τοῖϲ χρονίοιϲ αἰεὶ δεῖ τὸν πεπαϲμὸν ἀναμένειν· ἐν δὲ τοῖϲ ὀξέϲιν, ὅταν ὀργά, κατ᾿ ἀρχὰϲ οἷόν τε φαρμακεῦϲαι, καὶ τοῦτο αὐτὸ πράττειν μετὰ πολλῆϲ εὐλαβείαϲ καὶ περιϲκέψεωϲ· κίνδυνοϲ γὰρ οὐ μικρὸϲ ἐν ὀξεῖ νοϲήματι κακῶϲ φαρμακεῦϲαι τῷ πάντα μὲν καθαίροντα φάρμακα τοῖϲ δυνάμεϲιν εἶναι θερμά, δεῖϲθαι δὲ τὸν πυρετόν, εἰ πυρετόϲ ἐϲτι, κατὰ τὸν αὑτοῦ λόγον οὐχ ὅπωϲ τῶν ξηραινόντων καὶ θερμαινόντων, ἀλλὰ τῶν ἐναντιωτάτων αὐτοῖϲ τῶν ὑγραινόντων τε καὶ ψυχόντων.",
-    "line": 22,
+    "line": 0,
     "page": "224",
     "tokens": [
       "ἐπὶ",
@@ -3633,7 +3525,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.29"
   },
   {
-    "n": 22,
     "tagname": "lb",
     "char_offset": 0,
     "page": "224",
@@ -3641,18 +3532,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 22,
-    "page": "224",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 7,
     "page": "224",
@@ -3660,7 +3539,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 24,
     "tagname": "lb",
     "char_offset": 79,
     "page": "224",
@@ -3676,7 +3554,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 199,
     "page": "224",
@@ -3691,11 +3568,10 @@
     "page": "224",
     "token_offset": "χυμῶν·[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30",
-    "end_char_offset": 199,
-    "end_token_offset": "τῆϲ[2]"
+    "end_char_offset": 221,
+    "end_token_offset": "χυμῶν[1]"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 265,
     "page": "224",
@@ -3703,7 +3579,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 332,
     "page": "224",
@@ -3711,7 +3586,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 28,
     "tagname": "lb",
     "char_offset": 400,
     "page": "224",
@@ -3727,7 +3601,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 527,
     "page": "224",
@@ -3735,7 +3608,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 589,
     "page": "224",
@@ -3743,7 +3615,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 32,
     "tagname": "lb",
     "char_offset": 650,
     "page": "224",
@@ -3751,7 +3622,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 33,
     "tagname": "lb",
     "char_offset": 713,
     "page": "224",
@@ -3759,12 +3629,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "224",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30",
+    "end_char_offset": 727,
+    "end_token_offset": "ἀνεπιτήδειοι.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "30",
     "id": "_1.30",
     "content": "οὔκουν οὐδ᾿ αὐτῆϲ ἕνεκα τῆϲ πυρώδουϲ θερμότητοϲ ἡ κάθαρϲιϲ ἡμῖν παραλαμβάνεται (ταύτην γὰρ ἴϲμεν ὅϲον ἐφ᾿ ἑαυτῇ βλαπτομένην), ἀλλὰ τῶν ἐργαζομένων ἕνεκα χυμῶν· χρὴ τοίνυν μείζονα τὴν ὠφέλειαν ἐκ τῆϲ τῶν λυπούντων | χυμῶν κενώϲεωϲ γίνεϲθαι τῆϲ βλάβηϲ, ἣν ἐξ ἀνάγκηϲ βλάπτεται τὸ ϲῶμα πρὸϲ τῶν καθαρτικῶν φαρμάκων·  ἔϲτι δ᾿ ἡ ὠφέλεια † ἐνάλυπόϲ τε καὶ πᾶϲ ὁ βλάπτων κενωθῇ χυμόϲ· ἵνα δὲ τοῦτο γένηται, πρῶτον μὲν δεῖ περιϲκέψαϲθαι, εἰ ἐπιτηδείωϲ ὁ κάμνων ἔχει πρὸϲ τὴν τοιαύτην κάθαρϲιν· οἵ τε γὰρ ἐξ ἀπεψιῶν πολλῶν ἢ γλίϲχρων ἢ παχέων ἐδεϲμάτων ὄντεϲ, ὡϲαύτωϲ δ᾿ οἷϲ ὑποχόνδρια τέταται καὶ ἐμπεφύϲηται ἢ ὑπερβαλλόντωϲ ἐϲτὶ θερμὰ καὶ πυρώδη, ἢ καί τιϲ αὐτόθι τῶν ϲπλάγχνων φλεγμονή, πάντεϲ οὗτοι πρὸϲ τὰϲ καθάρϲειϲ ἀνεπιτήδειοι.",
-    "line": 34,
+    "line": 0,
     "page": "224",
     "tokens": [
       "οὔκουν",
@@ -3887,23 +3768,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.30"
   },
   {
-    "n": 34,
     "tagname": "lb",
     "char_offset": 0,
     "page": "224",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 34,
-    "page": "224",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "35",
@@ -3965,7 +3834,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1144,
     "page": "225",
@@ -3973,7 +3841,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1213,
     "page": "225",
@@ -3981,7 +3848,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1288,
     "page": "225",
@@ -3989,12 +3855,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "224",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31",
+    "end_char_offset": 1321,
+    "end_token_offset": "καθαίρειν.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "31",
     "id": "_1.31",
     "content": "χρὴ τοίνυν ἀπεῖναί τε ταῦτα, καὶ τοὺϲ χυμούϲ, ὡϲ ἔνι μάλιϲτα, τοῦ κάμνοντοϲ εὐρουϲτάτουϲ εἶναι, τουτέϲτι λεπτούϲ τε καὶ 4 — 6 Orib. Syn. I 16, 4 15—p. 225, 13 Gal. in\n                                Hipp. Aphor comm. I 24 (XVII 2, 447—449 K.) 15—18 Orib Syn. I 16,\n                                4 2. 3 suppl. C²Dg 4 ὀρώδηϲ N1 12 παροξυτικῶν AN:\n                                παροξυϲμῶν C: corr. C2Dg 13 κάτωθεν ῥεῖν codd.: corr. C²Dg 14\n                                γενομένηϲ D g 15 ἤλη C 16 ὰεὶ C πεταϲμὸν C 19 τῷ C2Dg: τὸν AN: om. C\n                                20 θερμά om N εἰ] ᾗ C2Dg 21 αὐτοῦ codd: corr. Dg 22 οὐκοῦν codd.:\n                                corr. Dg 24 ἴϲμεν Dg: εἰϲ μὲν codd. ἑαυτῆϲ A 25. 26 χρὴ . . . χυμῶν\n                                suppl. C²Dg 27 βλάπτηται N post ὠφέλεια add. μείζων Dg e Gal. 28 ἐνάλυπόϲ] ἐὰν ἄλυποϲ C²Dg: ἐὰν ἀλύπωϲ Gal.\n                                (rectius fortasse ἐὰν ἄλυπόϲ τε ῇ) 28. 29 γένοιτο 29 δεῖ] χρὴ A e\n                                corr. C 32 τιϲ C2Dg: τῆϲ codd: 34 ἐπιτήδειοι AN: ἐπιτήδειον C: corr. C²Dg:\n                                ἐπεῖναι A 35 εὐρουτάτουϲ C ἥκιϲηα μετέχονταϲ γλιϲχρότητόϲ τινοϲ, ἀναπεπταμένουϲ τε τοὺϲ πόρουϲ, δἰ ὧν ἡ καθάρϲιϲ μέλλει γενήϲεϲθαι· ταῦτα γὰρ καὶ ἡμεῖϲ προπαραϲκευάζομεν, ἐπειδὰν μέλλωμέν τινα καθαίρειν.",
-    "line": 4,
+    "line": 0,
     "page": "225",
     "tokens": [
       "χρὴ",
@@ -4195,7 +4072,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.31"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
@@ -4203,18 +4079,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 4,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 22,
     "page": "225",
@@ -4230,7 +4094,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 150,
     "page": "225",
@@ -4238,7 +4101,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 214,
     "page": "225",
@@ -4246,7 +4108,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 281,
     "page": "225",
@@ -4254,7 +4115,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 353,
     "page": "225",
@@ -4270,7 +4130,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 473,
     "page": "225",
@@ -4281,7 +4140,7 @@
     "cause": "fix",
     "tagname": "add",
     "char_offset": 488,
-    "line": 11,
+    "line": 0,
     "page": "225",
     "token_offset": "λυποῦνταϲ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32",
@@ -4289,7 +4148,6 @@
     "end_token_offset": "χυμούϲ[1]"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 541,
     "page": "225",
@@ -4297,7 +4155,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 610,
     "page": "225",
@@ -4305,12 +4162,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32",
+    "end_char_offset": 641,
+    "end_token_offset": "παραϲκευάϲαι.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "32",
     "id": "_1.32",
     "content": "ἀλλ᾿ ἔν γε τοῖϲ ὀξέϲι νοϲήμαϲι κατ᾿ ἀρχὰϲ εὐθὺϲ | ἤτοι κατὰ τὴν πρώτην ἡμέραν ἢ οὐκ ἐξωτέρω τῆϲ δευτέραϲ μελλόντων ἡμῶν χρῆϲθαι ταῖϲ καθάρϲεϲιν, ὅταν ὀργῇ, τὴν τοιαύτην παραϲκευὴν οὐκ ἐγχωρεῖ γενέϲθαι, πλὴν εἰ ἄρα ϲχοίη τιϲ καιρὸν μελίκρατον δοῦναι πίνειν, ἐναφεψήϲαϲ ὑϲϲώπου τι ἢ ὀριγάνου ἢ τραγοριγάνου ἢ θύμου ἢ γλήχουϲ ἤ τινοϲ τῶν οὕτω λεπτυνόντων, ὥϲτε εὐλόγωϲ ὀλιγάκιϲ ἐν τοῖϲ ὀξέϲι νοϲήμαϲι κα τ᾿ ἀρχὰϲ γενήϲεται ἡμῖν χρεία φαρμακείαϲ τῷ μήτε πολλάκιϲ ὀργᾶν ἐν ἀρχῇ τοὺϲ λυποῦνταϲ χυμούϲ , μήτε, εἰ καὶ τούτοιϲ ὑπάρχει, τοῦ νοϲοῦντοϲ ἐπιτηδείου πρὸϲ τὴν κάθαρϲιν ὄντοϲ, ἀλλὰ μηδὲ καιρὸν ἡμῖν παρέχοντοϲ ἐπιτήδειον αὐτὸν παραϲκευάϲαι.",
-    "line": 13,
+    "line": 0,
     "page": "225",
     "tokens": [
       "ἀλλ᾿",
@@ -4419,7 +4287,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.32"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
@@ -4427,18 +4294,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 13,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 28,
     "page": "225",
@@ -4454,7 +4309,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 162,
     "page": "225",
@@ -4462,12 +4316,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33",
+    "end_char_offset": 208,
+    "end_token_offset": "ἐπιτρέποντεϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "33",
     "id": "_1.33",
     "content": "ὀργᾶν δ᾿ οἱ χυμοὶ λέγονται, ὅταν ἐν κινήϲει ϲφοδροτέρᾳ γενόμενοι καὶ μετταρρύϲει μορίων εἰϲ μόρια κατὰ τὴν ἀρχὴν τοῦ νοϲήματοϲ ὀχλῶϲι τὸν ἄν|θρωπον, ἀνιῶντεϲ καὶ γαργαλίζοντεϲ καὶ ἡϲυχάζειν οὐκ ἐπιτρέποντεϲ.",
-    "line": 16,
+    "line": 0,
     "page": "225",
     "tokens": [
       "ὀργᾶν",
@@ -4504,7 +4369,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.33"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
@@ -4512,18 +4376,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 16,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 23,
     "page": "225",
@@ -4531,7 +4383,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 80,
     "page": "225",
@@ -4539,7 +4390,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 152,
     "page": "225",
@@ -4555,7 +4405,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 274,
     "page": "225",
@@ -4563,7 +4412,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 21,
     "tagname": "lb",
     "char_offset": 343,
     "page": "225",
@@ -4571,7 +4419,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 22,
     "tagname": "lb",
     "char_offset": 401,
     "page": "225",
@@ -4579,7 +4426,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 477,
     "page": "225",
@@ -4587,12 +4433,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34",
+    "end_char_offset": 525,
+    "end_token_offset": "φαρμακεύονταϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "34",
     "id": "_1.34",
     "content": "τοὺϲ μὲν οὖν τοιούτουϲ ἐκκενοῦν προϲήκει, τουτέϲτι τοὺϲ ἐν κινήϲει καὶ φορᾷ καὶ ῥύϲει· τοὺϲ δὲ καθ᾿ ἕν τι μόριον ἐϲτηριγμένουϲ οὔτε ἄλλῳ τινὶ βοηθήματι χρὴ κινεῖν οὔτε φαρμακεύειν πρὶν πεφθῆναι· τηνικαῦτα γὰρ ἤδη καὶ τὴν φύϲιν ἕξομεν βοηθοῦϲαν τῇ κενώϲει· φαίνεται γὰρ αὕτη μετὰ τὰϲ πέψειϲ διακινοῦϲά τε τοὺϲ χυμοὺϲ ἀπωθουμένη τε τὸ περιττόν, ἐν ᾧ δὴ καιρῷ καὶ κρίϲειϲ γίνονται, ἀλλὰ τελέωϲ μὲν αὐτῆϲ κινουμένηϲ, οὐδὲν δεῖ φαρμάκου, μετριώτερον δὲ καὶ ἀϲθενέϲτερον ἐνεργούϲηϲ, τὸ λεῖπον αὐτοὺϲ χρὴ προϲτιθέναι φαρμακεύονταϲ.",
-    "line": 24,
+    "line": 0,
     "page": "225",
     "tokens": [
       "τοὺϲ",
@@ -4680,23 +4537,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.34"
   },
   {
-    "n": 24,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 24,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "25",
@@ -4707,7 +4552,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 76,
     "page": "225",
@@ -4715,7 +4559,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 135,
     "page": "225",
@@ -4723,12 +4566,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35",
+    "end_char_offset": 194,
+    "end_token_offset": "λύϲεωϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "35",
     "id": "_1.35",
     "content": "χρὴ δ᾿ εἰδέναι ὡϲ αἱ μεταρρυήϲειϲ ἄλλοτε εἰϲ ἄλλο μόριον τῶν χυμῶν ὀλιγάκιϲ γίνονται, τὰ πλείω δ᾿ ἡϲυχάζει καθ’ ἕν τι μόριον, ἐν ᾧ καὶ πέττεται, | παῤ ὅλον τοῦ νοϲήματοϲ τὸν χρόνον ἄχρι λύϲεωϲ.",
-    "line": 27,
+    "line": 0,
     "page": "225",
     "tokens": [
       "χρὴ",
@@ -4770,7 +4624,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.35"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
@@ -4778,18 +4631,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 27,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 28,
     "tagname": "lb",
     "char_offset": 5,
     "page": "225",
@@ -4797,7 +4638,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36"
   },
   {
-    "n": 29,
     "tagname": "lb",
     "char_offset": 66,
     "page": "225",
@@ -4813,7 +4653,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36"
   },
   {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 196,
     "page": "225",
@@ -4821,12 +4660,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36",
+    "end_char_offset": 272,
+    "end_token_offset": "δαψιλῶϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "36",
     "id": "_1.36",
     "content": "ὅταν οὖν μὴ μόνον ὀξὺ πάθοϲ ᾖ, ἀλλὰ καὶ μετὰ πυρετοῦ ϲφοδροτάτου, εὐλαβητέον ἐϲτὶ τὴν δόϲιν τοῦ καθαίροντοϲ φαρμάκου, καὶ μάλιϲτα ὅταν ἀπείρωϲ τιϲ ἔχῃ τῆϲ τοῦ κάμνοντοϲ φύϲεωϲ· ἔνιοι μὲν γάρ εἰϲι φύϲει δυϲκάθαρτοι, τινὲϲ δ᾿ ἐπὶ βραχείᾳ πόϲει φαρμάκου καθαίρονται δαψιλῶϲ.",
-    "line": 31,
+    "line": 0,
     "page": "225",
     "tokens": [
       "ὅταν",
@@ -4876,7 +4726,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.36"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 0,
     "page": "225",
@@ -4884,18 +4733,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 31,
-    "page": "225",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 32,
     "tagname": "lb",
     "char_offset": 5,
     "page": "225",
@@ -4903,7 +4740,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
-    "n": 33,
     "tagname": "lb",
     "char_offset": 52,
     "page": "225",
@@ -4911,7 +4747,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
-    "n": 34,
     "tagname": "lb",
     "char_offset": 117,
     "page": "225",
@@ -4922,7 +4757,7 @@
     "cause": "fix",
     "tagname": "add",
     "char_offset": 172,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "καὶ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4933,7 +4768,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 179,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "διὰ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4944,7 +4779,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 378,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "538—540K.)[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4955,7 +4790,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 662,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "AN[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4966,7 +4801,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 1045,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "A1[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4977,7 +4812,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 1243,
-    "line": 35,
+    "line": 0,
     "page": "225",
     "token_offset": "A[5]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
@@ -4992,7 +4827,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1360,
     "page": "226",
@@ -5000,12 +4834,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "225",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37",
+    "end_char_offset": 1378,
+    "end_token_offset": "κολοκυνθίδοϲ·[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "37",
     "id": "_1.37",
     "content": "ὅταν οὖν ὁ πυρετὸϲ ᾖ μὴ ϲφοδρόϲ, ἔμπειρόϲ τε ᾖϲ τῆϲ φύϲεωϲ τοῦ κάμνοντοϲ, ἐπὶ τὴν τοῦ φαρμάκου δόϲιν ἀφίξῃ, χρώμενοϲ ἐλλεβόρῳ. μέλανι ⟨ἤ⟩ τινι τῶν ὁμοιοτρόπων, ὧν ἐϲτι καὶ τὸ διὰ 13—27 Gal. ibid. I 22 (XVII 2, 441—443K.)\n                                17—22 Οrib. Syn. I 16,4 27—p. 226, 4 Gal. in Hipp. de vict. acut.\n                                comm. II 11 (XV 538—540K.) 1 ἀναπεπταμένη C 2 γενήϲεται A1 3 καθαιρεῖν A 6\n                                ὀργαὶ C 7 ϲχοίνη C τι ἢ Dg: τὴν codd. ℵ ὀρίγονον N γλίχουϲ codd. 10\n                                τὸ codd.: corr. Dig 11 χυμούϲ add. Dg e Gal. τοῦτο C2Dg 14 γενώμενοι\n                                AN 15 ἐνοχλῶϲι Dg 15 ἀνιόντεϲ codd.: corr. Dg 16\n                                ἡϲυχάζειν οὐκ ἐπιτρέποντεϲ] ἡϲυχάζοντεϲ C ut videtur 17 τουτέϲτι . .\n                                . κινήϲει om. C 18 ἐϲτηριγμοὺϲ C 19 κενοῦν A2 20 φαίνεται] φαί A 21\n                                διακρίνουϲα C2Dg 22 δεῖ AN κρίϲει A 25 μεταρρύϲειϲ C²Dg εἰϲ ἄλλο om.\n                                A1 τὸν χυμὸν codd.: corr. C2Dg 26 ϲυχάζει A1 28\n                                ὁξυπαθῶϲ codd.: ὀξὺ πάθωϲ C1: ὀξὺ τὸ πάθοϲ Dg: correxi περιτοῦ A 34\n                                ἢ add. C²Dg: μέλλη A τῶν C2Dg. τὸν CN: om. A ὅμυιον τρόπον codd corr.\n                                C²Dg ῶν C²Dg: ὡϲ codd. τὸ add. C²Dg τῆϲ κολοκυνθίδοϲ·",
-    "line": 2,
+    "line": 0,
     "page": "226",
     "tokens": [
       "ὅταν",
@@ -5208,7 +5053,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.37"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
@@ -5216,18 +5060,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 2,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 48,
     "page": "226",
@@ -5235,7 +5067,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 112,
     "page": "226",
@@ -5243,7 +5074,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 178,
     "page": "226",
@@ -5251,12 +5081,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38",
+    "end_char_offset": 197,
+    "end_token_offset": "ὑπήλατον.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "38",
     "id": "_1.38",
     "content": "ἱερὰν δ᾿ αὐτὴν ϲυνήθωϲ ὀνομάζουϲιν. ποικίλωϲ δ᾿ αὐτῆϲ ϲκευαζομένηϲ, ἡ τὸν ἐλλέβορον εἰληφυῖα, τὴν ϲκαμμωνίαν δ᾿ οὐκ ἔχουϲα, κάλλιϲτόν ἐϲτι φάρμακον ἐπὶ τῶν δυναμένων ὅλωϲ λαβεῖν φάρμακον ὑπήλατον.",
-    "line": 6,
+    "line": 0,
     "page": "226",
     "tokens": [
       "ἱερὰν",
@@ -5291,23 +5132,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.38"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 6,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "5",
@@ -5318,7 +5147,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 109,
     "page": "226",
@@ -5326,7 +5154,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 178,
     "page": "226",
@@ -5334,7 +5161,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 241,
     "page": "226",
@@ -5342,7 +5168,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 310,
     "page": "226",
@@ -5350,12 +5175,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39",
+    "end_char_offset": 357,
+    "end_token_offset": "βλάπτονται.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "39",
     "id": "_1.39",
     "content": "μετὰ δὲ τὸ ληφθῆναι τὸ καθαρτήριον ϲυμφέρει τῆϲ πτιϲάνηϲ ἐπιρροφεῖν, ὥϲ φηϲιν Ἱππο | κράτηϲ· αὐτὸ μὲν γὰρ τὸ καθαρτικόν, ὡϲ ἂν ὀλίγον ὄν, εἰϲ τὸν πυθμένα τῆϲ κοιλίαϲ ἀφικνεῖται· κατὰ δὲ τὴν δίοδον ὅ τε ϲτόμαχοϲ ὅϲον τε τῆϲ γαϲτρὸϲ ὑψηλὸν οὐ μόνον τῆϲ ποιότητοϲ τοῦ καθαίροντοϲ, ἀλλὰ καὶ τῆϲ οὐϲίαϲ προϲιζούϲηϲ ἐν τῇ διόδῳ μεταλαμβάνοντα μεγάλωϲ βλάπτονται.",
-    "line": 9,
+    "line": 0,
     "page": "226",
     "tokens": [
       "μετὰ",
@@ -5421,23 +5257,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.39"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 9,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "10",
@@ -5448,7 +5272,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 84,
     "page": "226",
@@ -5456,7 +5279,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 154,
     "page": "226",
@@ -5464,12 +5286,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40",
+    "end_char_offset": 205,
+    "end_token_offset": "φαρμάκου.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "40",
     "id": "_1.40",
     "content": "χρήϲιμοϲ οὖν χυλὸϲ τῆϲ πτιϲάνηϲ ἐπιρροφούμενοϲ, ὡϲ ἀπορρύψαι μὲν καὶ καταϲῦραι κάτω τὸ προϲπεπλαϲμένον ἐν τῇ διόδῳ δυνάμενοϲ, ἐπικεράϲαι δὲ καὶ ὑπαλλάξαι τὴν ἐνιζηκυῖαν τοῖϲ μορίοιϲ ποιότητα τοῦ φαρμάκου.",
-    "line": 12,
+    "line": 0,
     "page": "226",
     "tokens": [
       "χρήϲιμοϲ",
@@ -5505,7 +5338,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.40"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
@@ -5513,18 +5345,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 12,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 10,
     "page": "226",
@@ -5532,7 +5352,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 76,
     "page": "226",
@@ -5540,7 +5359,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 148,
     "page": "226",
@@ -5554,6 +5372,17 @@
     "page": "226",
     "token_offset": "φαρμάκου.|[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1.41",
+    "end_char_offset": 211,
+    "end_token_offset": "φαρμάκου.|[1]"
   },
   {
     "type": "textpart",
@@ -5636,11 +5465,17 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:1"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2"
+  },
+  {
+    "tagname": "lb",
+    "char_offset": 58,
+    "page": "226",
+    "token_offset": "καθαρτηρίου[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2"
   },
   {
@@ -5650,16 +5485,8 @@
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 16,
-    "tagname": "lb",
-    "char_offset": 58,
-    "page": "226",
-    "token_offset": "καθαρτηρίου[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2"
+    "end_char_offset": 68,
+    "end_token_offset": "δοθέντοϲ.[1]"
   },
   {
     "n": "1",
@@ -5670,23 +5497,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 1,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "20",
@@ -5697,7 +5512,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 130,
     "page": "226",
@@ -5705,7 +5519,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
-    "n": 21,
     "tagname": "lb",
     "char_offset": 191,
     "page": "226",
@@ -5713,7 +5526,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
-    "n": 22,
     "tagname": "lb",
     "char_offset": 254,
     "page": "226",
@@ -5721,12 +5533,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 1,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1",
+    "end_char_offset": 292,
+    "end_token_offset": "κένωϲιν.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "1",
     "id": "_2.1",
     "content": "Οὐκ ἐκκρίνει δ᾿ ἡ γαϲτὴρ ἐνίοτε καθαρτηρίου δοθέντοϲ, ἤτοι διὰ τὴν ἰδιότητα τῆϲ τοῦ κάμνοντοϲ φύϲεωϲ ἢ διὰ βραχύτητα τοῦ δοθέντοϲ φαρμάκου· πολλάκιϲ δὲ καὶ κόπροϲ ἐϲφηνωμένη ϲκληρὰ κατά τινα τῶν ἐντέρων ἐκκενωθῆναι δεομένη διὰ κλυϲτῆροϲ πρὶν δίδοϲθαι τὸ καθαῖρον φάρμακον κωλύει τὴν κένωϲιν.",
-    "line": 23,
+    "line": 0,
     "page": "226",
     "tokens": [
       "Οὐκ",
@@ -5777,23 +5600,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.1"
   },
   {
-    "n": 23,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.2"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 23,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.2",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "3",
@@ -5802,6 +5613,17 @@
     "page": "226",
     "token_offset": "φύϲεωϲ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.2"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.2",
+    "end_char_offset": 86,
+    "end_token_offset": "ἀνύειν.[1]"
   },
   {
     "type": "textpart",
@@ -5830,23 +5652,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.2"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 3,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "25",
@@ -5857,7 +5667,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3"
   },
   {
-    "n": 25,
     "tagname": "lb",
     "char_offset": 68,
     "page": "226",
@@ -5865,7 +5674,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3"
   },
   {
-    "n": 26,
     "tagname": "lb",
     "char_offset": 133,
     "page": "226",
@@ -5873,12 +5681,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 3,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2.3",
+    "end_char_offset": 156,
+    "end_token_offset": "ἐκτρέπεται.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "3",
     "id": "_2.3",
     "content": "ἔνιά γε μήν, ὅταν ἀποτύχῃ καθαίροντα, τὰ μὲν πρὸϲ τῷ βλάπτειν μηδὲν τὸ ϲῶμα καὶ τροφὴ γίνεται τοῦ ζῴου, τὰ δ᾿ εἰϲ τὸ φάρμακόν τε καὶ δηλητήριον ἐκτρέπεται.",
-    "line": 27,
+    "line": 0,
     "page": "226",
     "tokens": [
       "ἔνιά",
@@ -5918,7 +5737,7 @@
     "n": "2",
     "id": "_2",
     "content": "ἔνιά γε μήν, ὅταν ἀποτύχῃ καθαίροντα, τὰ μὲν πρὸϲ τῷ βλάπτειν μηδὲν τὸ ϲῶμα καὶ τροφὴ γίνεται τοῦ ζῴου, τὰ δ᾿ εἰϲ τὸ φάρμακόν τε καὶ δηλητήριον ἐκτρέπεται.",
-    "line": 27,
+    "line": 0,
     "page": "226",
     "tokens": [
       "ἔνιά",
@@ -5953,7 +5772,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:2"
   },
   {
-    "n": 27,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
@@ -5963,12 +5781,12 @@
   {
     "tagname": "head",
     "char_offset": 0,
-    "line": 27,
+    "line": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3",
-    "end_char_offset": 0,
-    "end_token_offset": null
+    "end_char_offset": 43,
+    "end_token_offset": "καθαρτηρίoιϲ.[1]"
   },
   {
     "n": "1",
@@ -5979,23 +5797,11 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 1,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "n": "30",
@@ -6006,7 +5812,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
   },
   {
-    "n": 30,
     "tagname": "lb",
     "char_offset": 131,
     "page": "226",
@@ -6014,7 +5819,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
   },
   {
-    "n": 31,
     "tagname": "lb",
     "char_offset": 187,
     "page": "226",
@@ -6022,12 +5826,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 1,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1",
+    "end_char_offset": 237,
+    "end_token_offset": "γαϲτρόϲ.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "1",
     "id": "_3.1",
     "content": "Πάντων δὲ τῶν καθαιρόντων φαρμάκων κακούντων τὴν γαϲτέρα, καὶ μάλιϲτα αὐτῆϲ τὸ ϲτόμα, διότι νευρωδέϲτατόν ἐϲτι καὶ αἰϲθητικώτατον, ἡ μῖξιϲ ἐπενοήθη τῶν εὐωδῶν, ὅπωϲ μὴ μόνη μηδ᾿ἀκραιφνὴϲ ἡ δύναμιϲ αὐτῶν ἅπτηται τοῦ ϲτόματοϲ τῆϲ γαϲτρόϲ.",
-    "line": 32,
+    "line": 0,
     "page": "226",
     "tokens": [
       "Πάντων",
@@ -6069,7 +5884,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.1"
   },
   {
-    "n": 32,
     "tagname": "lb",
     "char_offset": 0,
     "page": "226",
@@ -6077,18 +5891,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 32,
-    "page": "226",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 33,
     "tagname": "lb",
     "char_offset": 16,
     "page": "226",
@@ -6099,7 +5901,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 81,
-    "line": 34,
+    "line": 0,
     "page": "226",
     "token_offset": "καὶ[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
@@ -6110,7 +5912,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 573,
-    "line": 34,
+    "line": 0,
     "page": "226",
     "token_offset": "K.)[4]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
@@ -6121,7 +5923,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 760,
-    "line": 34,
+    "line": 0,
     "page": "226",
     "token_offset": "codd.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
@@ -6132,7 +5934,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 858,
-    "line": 34,
+    "line": 0,
     "page": "226",
     "token_offset": "marg.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
@@ -6143,7 +5945,7 @@
     "type": "footnote",
     "tagname": "note",
     "char_offset": 956,
-    "line": 34,
+    "line": 0,
     "page": "226",
     "token_offset": "C²Dg[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
@@ -6158,7 +5960,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1038,
     "page": "227",
@@ -6166,7 +5967,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1103,
     "page": "227",
@@ -6174,7 +5974,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1169,
     "page": "227",
@@ -6182,12 +5981,23 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "226",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2",
+    "end_char_offset": 1213,
+    "end_token_offset": "ἀναϲτομοῦν.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "section",
     "n": "2",
     "id": "_3.2",
     "content": "χρὴ δ᾿ εἶναι τὰ μιγνύμενα ϲπέρματα τυιαῦτα, καὶ τὴν κακίαν πέφυκεν ἀμβλύνειν καὶ 4—16 Gal. ibid. 11 12 (XV 541—542 K.) 5—6 Hipp\n                                De vict. acut. I 7, 24 (II 276L.) 17—27 cf. Aet. IlI 117 24—27 Gal.\n                                De simpl. med. III 24 (XI 611 K.) 29—p. 227, 4 cf. Gal. in Hipp. de\n                                hum. comm. I 12 (XVI 117 K.) 29—32 Gal. in Hipp. de vict. acut.\n                                comm. II 11 (XV 537 K.); Orib. Syn. I 16, 5 32—p. 227,3 Gal. ibid.\n                                II 12 (XV 541 K.) 1 αὐτὸν C 9 ὁ χυλὀϲ C2Dg 13 ante τοῦ add. τῆ C2Dg\n                                πόνει A 14 ϲίδοϲθαι C 17 ἐκρίνει N 21 καὶ om. C 22 πρὶν C2Dg: πλὴν\n                                codd. 24 ἔνιά] ἕνα A1 25 τῷ Dg: τὸ codd. μηδὲν om. N,\n                                sed add. in marg. 26 φάρμακόν] φθαρτικόν C²Dg 30. 31 αἰϲθηκότατον\n                                codd.: corr. C²Dg 31 νευρωδῶν C 32 ϲώματοϲ γαϲτέροϲ AC et N e\n                                corr. τὴν ἐνέργειαν αὐτῶν μὴ κωλύειν, λεπτυντικῆϲ τε καὶ τμητικῆϲ ὄντα δυνάμεωϲ, καὶ τοὺϲ παχεῖϲ χυμοὺϲ τέμνειν καὶ τὰϲ ὁδοὺϲ αὐτῶν, δι᾿ ὧν ἐκκενοῦνται, διοίγειν τε καὶ ἀναϲτομοῦν.",
-    "line": 4,
+    "line": 0,
     "page": "227",
     "tokens": [
       "χρὴ",
@@ -6376,7 +6186,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.2"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 0,
     "page": "227",
@@ -6384,18 +6193,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3"
   },
   {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 4,
-    "page": "227",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 20,
     "page": "227",
@@ -6422,7 +6219,6 @@
     "end_token_offset": "φλέγματοϲ[1]"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 155,
     "page": "227",
@@ -6430,7 +6226,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 210,
     "page": "227",
@@ -6440,7 +6235,7 @@
   {
     "tagname": "del",
     "char_offset": 261,
-    "line": 7,
+    "line": 0,
     "page": "227",
     "token_offset": "μετὰ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3",
@@ -6448,7 +6243,6 @@
     "end_token_offset": "ταῦτα[1]"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 272,
     "page": "227",
@@ -6456,7 +6250,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 333,
     "page": "227",
@@ -6470,6 +6263,17 @@
     "page": "227",
     "token_offset": "ἤδη[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3"
+  },
+  {
+    "rend": "nonindented",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "227",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg073.1st1K-grc2:3.3",
+    "end_char_offset": 459,
+    "end_token_offset": "γίνηται.[1]"
   },
   {
     "type": "textpart",

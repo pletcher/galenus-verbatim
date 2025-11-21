@@ -7,31 +7,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "1.49",
-    "tagname": "milestone",
-    "char_offset": 0,
-    "line": 1,
-    "page": "19.49",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "unit": "ed1page",
-    "n": "4.368",
-    "tagname": "milestone",
-    "char_offset": 0,
-    "line": 1,
-    "page": "19.49",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 23,
     "page": "19.49",
@@ -39,22 +14,21 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
   },
   {
-    "tagname": "head",
-    "char_offset": 0,
-    "line": 1,
-    "page": "19.49",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 23,
-    "end_token_offset": "ΤΑΞΕΩΣ[1]"
-  },
-  {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 38,
     "page": "19.49",
     "token_offset": "ΠΡΟΣ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
+  },
+  {
+    "tagname": "head",
+    "char_offset": 0,
+    "line": 0,
+    "page": "19.49",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
+    "end_char_offset": 50,
+    "end_token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]"
   },
   {
     "n": "1",
@@ -63,29 +37,6 @@
     "page": "19.49",
     "token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 50,
-    "line": 3,
-    "page": "19.49",
-    "token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 50,
-    "end_token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]"
-  },
-  {
-    "unit": "ed2page",
-    "n": "1.49",
-    "tagname": "milestone",
-    "char_offset": 50,
-    "line": 1,
-    "page": "19.49",
-    "token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 50,
-    "end_token_offset": "ΕΥΓΕΝΙΑΝΟΝ.[1]"
   },
   {
     "n": "2",
@@ -390,18 +341,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "1.50",
-    "tagname": "milestone",
-    "char_offset": 2012,
-    "line": 13,
-    "page": "19.51",
-    "token_offset": "γεγονέναι[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 2012,
-    "end_token_offset": "γεγονέναι[1]"
-  },
-  {
     "n": "14",
     "tagname": "lb",
     "char_offset": 2062,
@@ -471,18 +410,6 @@
     "page": "19.52",
     "token_offset": "ἐξελέγχωνται,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
-  },
-  {
-    "unit": "ed1page",
-    "n": "4.369",
-    "tagname": "milestone",
-    "char_offset": 2469,
-    "line": 3,
-    "page": "19.52",
-    "token_offset": "μηδὲν[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 2469,
-    "end_token_offset": "μηδὲν[1]"
   },
   {
     "n": "4",
@@ -946,18 +873,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "1.51",
-    "tagname": "milestone",
-    "char_offset": 5485,
-    "line": 5,
-    "page": "19.55",
-    "token_offset": "τε[10]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 5485,
-    "end_token_offset": "τε[10]"
-  },
-  {
     "n": "6",
     "tagname": "lb",
     "char_offset": 5521,
@@ -1195,18 +1110,6 @@
     "page": "19.56",
     "token_offset": "τοῦ[6]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
-  },
-  {
-    "unit": "ed1page",
-    "n": "4.370",
-    "tagname": "milestone",
-    "char_offset": 7064,
-    "line": 16,
-    "page": "19.56",
-    "token_offset": "*[3]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 7064,
-    "end_token_offset": "*[3]"
   },
   {
     "n": "17",
@@ -1495,18 +1398,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "1.52",
-    "tagname": "milestone",
-    "char_offset": 8856,
-    "line": 14,
-    "page": "19.58",
-    "token_offset": "πραγματείας.[2]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 8856,
-    "end_token_offset": "πραγματείας.[2]"
-  },
-  {
     "n": "15",
     "tagname": "lb",
     "char_offset": 8895,
@@ -1648,18 +1539,6 @@
     "page": "19.59",
     "token_offset": "τὴν[23]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
-  },
-  {
-    "unit": "ed1page",
-    "n": "4.371",
-    "tagname": "milestone",
-    "char_offset": 9823,
-    "line": 14,
-    "page": "19.59",
-    "token_offset": "θεωρημάτων[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
-    "end_char_offset": 9823,
-    "end_token_offset": "θεωρημάτων[1]"
   },
   {
     "n": "15",
@@ -1986,6 +1865,18 @@
     "page": "19.61",
     "token_offset": "πρώτην[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
+  },
+  {
+    "unit": "ed1page",
+    "n": "4.371",
+    "tagname": "milestone",
+    "char_offset": 9823,
+    "line": 14,
+    "page": "19.59",
+    "token_offset": "θεωρημάτων[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
+    "end_char_offset": 11924,
+    "end_token_offset": "ἀναγινώσκειν.[1]"
   },
   {
     "type": "textpart",
@@ -3870,5 +3761,29 @@
       "ἀναγινώσκειν."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "1.52",
+    "tagname": "milestone",
+    "char_offset": 8856,
+    "line": 14,
+    "page": "19.58",
+    "token_offset": "πραγματείας.[2]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
+    "end_char_offset": 11924,
+    "end_token_offset": "ἀναγινώσκειν.[1]"
+  },
+  {
+    "unit": "ed1page",
+    "n": "4.370",
+    "tagname": "milestone",
+    "char_offset": 7064,
+    "line": 16,
+    "page": "19.56",
+    "token_offset": "*[3]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
+    "end_char_offset": 11924,
+    "end_token_offset": "ἀναγινώσκειν.[1]"
   }
 ]

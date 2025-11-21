@@ -7,7 +7,6 @@
     "urn": null
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 30,
     "page": "4.703",
@@ -15,17 +14,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "tagname": "head",
-    "char_offset": 0,
-    "line": 1,
-    "page": "4.703",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
-    "end_char_offset": 30,
-    "end_token_offset": "NATVRA[1]"
-  },
-  {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 51,
     "page": "4.703",
@@ -33,7 +21,16 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 3,
+    "tagname": "head",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.703",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
+    "end_char_offset": 58,
+    "end_token_offset": "LIBER.[1]"
+  },
+  {
     "tagname": "lb",
     "char_offset": 58,
     "page": "4.703",
@@ -41,21 +38,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 58,
-    "line": 3,
-    "page": "4.703",
-    "token_offset": "LIBER.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
-    "end_char_offset": 58,
-    "end_token_offset": "LIBER.[1]"
-  },
-  {
     "value": "1",
     "tagname": "num",
     "char_offset": 58,
-    "line": 4,
+    "line": 0,
     "page": "4.703",
     "token_offset": "LIBER.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -66,7 +52,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 58,
-    "line": 4,
+    "line": 0,
     "page": "4.703",
     "token_offset": "LIBER.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -74,7 +60,6 @@
     "end_token_offset": "I.[1]"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 108,
     "page": "4.703",
@@ -82,7 +67,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 166,
     "page": "4.703",
@@ -90,7 +74,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 231,
     "page": "4.703",
@@ -98,7 +81,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 282,
     "page": "4.703",
@@ -106,7 +88,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 338,
     "page": "4.703",
@@ -117,7 +98,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 376,
-    "line": 9,
+    "line": 0,
     "page": "4.703",
     "token_offset": "id[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -125,7 +106,6 @@
     "end_token_offset": "esset[1]"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 402,
     "page": "4.703",
@@ -140,7 +120,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 458,
     "page": "4.704",
@@ -148,7 +127,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 509,
     "page": "4.704",
@@ -156,7 +134,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 561,
     "page": "4.704",
@@ -164,7 +141,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 618,
     "page": "4.704",
@@ -172,7 +148,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 679,
     "page": "4.704",
@@ -180,7 +155,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 732,
     "page": "4.704",
@@ -191,7 +165,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 772,
-    "line": 7,
+    "line": 0,
     "page": "4.704",
     "token_offset": "appositam[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -199,7 +173,6 @@
     "end_token_offset": "dictionem[1]"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 793,
     "page": "4.704",
@@ -207,7 +180,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 842,
     "page": "4.704",
@@ -215,7 +187,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 899,
     "page": "4.704",
@@ -226,7 +197,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 905,
-    "line": 10,
+    "line": 0,
     "page": "4.704",
     "token_offset": "citra[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -234,7 +205,6 @@
     "end_token_offset": "dictionem[2]"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 950,
     "page": "4.704",
@@ -242,7 +212,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1010,
     "page": "4.704",
@@ -250,7 +219,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1069,
     "page": "4.704",
@@ -258,7 +226,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1130,
     "page": "4.704",
@@ -269,7 +236,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1139,
-    "line": 14,
+    "line": 0,
     "page": "4.704",
     "token_offset": "apposita[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -277,7 +244,6 @@
     "end_token_offset": "dictione[1]"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1187,
     "page": "4.704",
@@ -288,7 +254,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1220,
-    "line": 15,
+    "line": 0,
     "page": "4.704",
     "token_offset": "vulnerarentur,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -296,7 +262,6 @@
     "end_token_offset": "fuisse[1]"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1238,
     "page": "4.704",
@@ -304,7 +269,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1296,
     "page": "4.704",
@@ -314,7 +278,7 @@
   {
     "tagname": "sic",
     "char_offset": 1309,
-    "line": 17,
+    "line": 0,
     "page": "4.704",
     "token_offset": "Si[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -324,7 +288,7 @@
   {
     "tagname": "corr",
     "char_offset": 1311,
-    "line": 17,
+    "line": 0,
     "page": "4.704",
     "token_offset": ";[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -334,7 +298,7 @@
   {
     "tagname": "choice",
     "char_offset": 1309,
-    "line": 17,
+    "line": 0,
     "page": "4.704",
     "token_offset": "Si[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -342,7 +306,6 @@
     "end_token_offset": ",[2]"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1356,
     "page": "4.704",
@@ -350,7 +313,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1409,
     "page": "4.704",
@@ -358,7 +320,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 1467,
     "page": "4.704",
@@ -373,7 +334,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1533,
     "page": "4.705",
@@ -381,7 +341,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1582,
     "page": "4.705",
@@ -389,7 +348,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1629,
     "page": "4.705",
@@ -400,7 +358,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1640,
-    "line": 4,
+    "line": 0,
     "page": "4.705",
     "token_offset": "ipsum[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -408,7 +366,6 @@
     "end_token_offset": "sanguinem[1]"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1682,
     "page": "4.705",
@@ -416,7 +373,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1741,
     "page": "4.705",
@@ -427,7 +383,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1757,
-    "line": 6,
+    "line": 0,
     "page": "4.705",
     "token_offset": "demonstrationem[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
@@ -435,7 +391,6 @@
     "end_token_offset": "medicis[1]"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1801,
     "page": "4.705",
@@ -443,7 +398,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1854,
     "page": "4.705",
@@ -451,7 +405,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1910,
     "page": "4.705",
@@ -459,7 +412,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1966,
     "page": "4.705",
@@ -467,7 +419,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2024,
     "page": "4.705",
@@ -475,7 +426,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2082,
     "page": "4.705",
@@ -483,7 +433,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2143,
     "page": "4.705",
@@ -491,7 +440,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2191,
     "page": "4.705",
@@ -499,7 +447,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2249,
     "page": "4.705",
@@ -507,7 +454,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2300,
     "page": "4.705",
@@ -515,7 +461,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2350,
     "page": "4.705",
@@ -523,7 +468,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2405,
     "page": "4.705",
@@ -531,7 +475,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2465,
     "page": "4.705",
@@ -546,7 +489,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2515,
     "page": "4.706",
@@ -554,7 +496,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2567,
     "page": "4.706",
@@ -562,7 +503,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2627,
     "page": "4.706",
@@ -570,7 +510,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2673,
     "page": "4.706",
@@ -578,7 +517,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2729,
     "page": "4.706",
@@ -586,11 +524,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 58,
+    "line": 0,
+    "page": "4.703",
+    "token_offset": "LIBER.[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1",
+    "end_char_offset": 2759,
+    "end_token_offset": "asserere.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "1",
     "content": "GALENI, AN IN ARTERIIS NATVRA SANGVIS CONTINEATVR, LIBER. Cap. I. Quum, quoties vulneratur arteria quaevis, sanguis evacuari conspiciatur, duorum alterum sit necesse est, aut in ipsis illum arteriis contineri, aut alibi transsumi. At si alibi transsumatur, cuique jam constat, quum secundum naturam arteriae sese haberent, spiritum solum in ipsis conclusum fuisse. Si vero id ita esset , in vulneratis oporteret priorem sanguine spiritum evacuari; nequaquam tamen conspicitur; non itaque prius solus spiritus in arteriis continebatur. Atque breviori id ratione hoc pacto demonstrabitur. Si, quum vulnerantur arteriae, sanguis quamprimum vacuari videatur, erat utique in arteriis sanguis etiam prius, quam ipsae vulnerarentur. Patet etenim, hac in ratiocinatione appositam dictionem quamprimum veram efficere consequentis ad antecedentem, cui conjunctum est, consequentiam. Etenim simpliciter dictum citra dictionem quamprimum hoc modo, si vulneratis arteriis sanguis vacuari appareat, consequens habebit, quod per initia statim dictum est: nimirum etiam prius in ipsis arteriis sanguis continebatur, vel alibi transsumitur. Verum apposita dictione quamprimum consequens est, in arteriis etiam prius, quam vulnerarentur, fuisse sanguinem, composita nimirum tota ratiocinatione, quae hunc in modum procedit. Si ; , quum vulnerantur arteriae, sanguis vacuari conspiciatur, vel is in ipsis arteriis continebatur, vel alibi transsumitur: atqui, quum vulnerantur arteriae, sanguis vacuari conspicitur, non transsumitur, ut demonstrabimus: in ipsis ergo arteriis continebatur. Sed quomodo eum non transsumi probabitur? Nunquid spiritus ante ipsum sanguinem vacuari conspiciebatur? attamen non conspicitur: itaque non transsumitur. Id statis est ad demonstrationem medicis alicui sectae minime praeoccupatis, veras rationes a falsis discernere non ignorantibus. Quum autem non omnes sint hujusmodi, pluribus fortassis adversus eos rationibus opus erit. Nam qui Erasistratum sectantur, contradicunt, asserentes, quod conjunctum est, id falsum esse. Non enim verum esse proferunt, si sanguis transsumatur, quod spiritus ante ipsum vacuari conspiciatur. Potest autem vacuari, non conspici, quum tenuis sit ac levis, proindeque facile emittatur. Rursum igitur, quod non lateat, demonstrare nobis necesse est. At quomodo id demonstramus? Multis sane modis. Atque ut nostra oratio dilucida fiat et ordine progrediatur, operae pretium fuerit eos interrogare, quo ipsi modo velint spiritum evacuari, utrum a seipso impetu feratur, an ab altero quodam impellatur. At omnes eodem modo non respondent. Alii quidem a seipso impetu ferri autumant, alii vero a corde impelli asserunt. Quamobrem nobis quoque separatim utrisque demonstrandum est, quae fieri nequeunt, eos asserere.",
-    "line": 6,
+    "line": 0,
     "page": "4.706",
     "tokens": [
       "GALENI,",
@@ -969,7 +918,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:1"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.706",
@@ -977,21 +925,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 6,
-    "page": "4.706",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "2",
     "tagname": "num",
     "char_offset": 0,
-    "line": 7,
+    "line": 0,
     "page": "4.706",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
@@ -1002,7 +939,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 7,
+    "line": 0,
     "page": "4.706",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
@@ -1010,7 +947,6 @@
     "end_token_offset": "II.[1]"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 54,
     "page": "4.706",
@@ -1018,7 +954,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 106,
     "page": "4.706",
@@ -1026,7 +961,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 167,
     "page": "4.706",
@@ -1034,7 +968,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 218,
     "page": "4.706",
@@ -1042,7 +975,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 262,
     "page": "4.706",
@@ -1050,7 +982,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 314,
     "page": "4.706",
@@ -1058,7 +989,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 367,
     "page": "4.706",
@@ -1066,7 +996,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 419,
     "page": "4.706",
@@ -1074,7 +1003,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 466,
     "page": "4.706",
@@ -1082,7 +1010,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 520,
     "page": "4.706",
@@ -1090,7 +1017,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 579,
     "page": "4.706",
@@ -1098,7 +1024,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 630,
     "page": "4.706",
@@ -1106,7 +1031,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 688,
     "page": "4.706",
@@ -1121,7 +1045,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 740,
     "page": "4.707",
@@ -1129,7 +1052,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 795,
     "page": "4.707",
@@ -1137,7 +1059,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 847,
     "page": "4.707",
@@ -1145,7 +1066,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 903,
     "page": "4.707",
@@ -1153,7 +1073,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 962,
     "page": "4.707",
@@ -1161,7 +1080,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1011,
     "page": "4.707",
@@ -1169,7 +1087,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1072,
     "page": "4.707",
@@ -1177,7 +1094,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1116,
     "page": "4.707",
@@ -1185,7 +1101,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1173,
     "page": "4.707",
@@ -1193,7 +1108,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1229,
     "page": "4.707",
@@ -1201,7 +1115,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1286,
     "page": "4.707",
@@ -1209,7 +1122,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1346,
     "page": "4.707",
@@ -1217,7 +1129,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1411,
     "page": "4.707",
@@ -1225,7 +1136,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1456,
     "page": "4.707",
@@ -1233,7 +1143,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1521,
     "page": "4.707",
@@ -1241,7 +1150,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1589,
     "page": "4.707",
@@ -1249,7 +1157,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1643,
     "page": "4.707",
@@ -1264,7 +1171,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1703,
     "page": "4.708",
@@ -1272,7 +1178,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1754,
     "page": "4.708",
@@ -1280,7 +1185,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1809,
     "page": "4.708",
@@ -1288,7 +1192,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1858,
     "page": "4.708",
@@ -1296,7 +1199,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1917,
     "page": "4.708",
@@ -1304,7 +1206,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1966,
     "page": "4.708",
@@ -1312,7 +1213,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 2024,
     "page": "4.708",
@@ -1320,7 +1220,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2084,
     "page": "4.708",
@@ -1328,7 +1227,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2138,
     "page": "4.708",
@@ -1336,7 +1234,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2195,
     "page": "4.708",
@@ -1344,7 +1241,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2250,
     "page": "4.708",
@@ -1352,7 +1248,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2308,
     "page": "4.708",
@@ -1360,7 +1255,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2367,
     "page": "4.708",
@@ -1368,7 +1262,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2416,
     "page": "4.708",
@@ -1376,7 +1269,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2472,
     "page": "4.708",
@@ -1386,7 +1278,7 @@
   {
     "tagname": "sic",
     "char_offset": 2476,
-    "line": 16,
+    "line": 0,
     "page": "4.708",
     "token_offset": "sit[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
@@ -1396,7 +1288,7 @@
   {
     "tagname": "corr",
     "char_offset": 2487,
-    "line": 16,
+    "line": 0,
     "page": "4.708",
     "token_offset": "sequuturus[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
@@ -1406,7 +1298,7 @@
   {
     "tagname": "choice",
     "char_offset": 2476,
-    "line": 16,
+    "line": 0,
     "page": "4.708",
     "token_offset": "sit[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
@@ -1414,7 +1306,6 @@
     "end_token_offset": "secuturus[1]"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2540,
     "page": "4.708",
@@ -1422,7 +1313,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2590,
     "page": "4.708",
@@ -1430,7 +1320,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2642,
     "page": "4.708",
@@ -1445,7 +1334,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2707,
     "page": "4.709",
@@ -1453,7 +1341,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2758,
     "page": "4.709",
@@ -1461,7 +1348,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2815,
     "page": "4.709",
@@ -1469,7 +1355,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2874,
     "page": "4.709",
@@ -1477,7 +1362,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2935,
     "page": "4.709",
@@ -1485,7 +1369,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 2983,
     "page": "4.709",
@@ -1493,7 +1376,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3047,
     "page": "4.709",
@@ -1501,7 +1383,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3091,
     "page": "4.709",
@@ -1509,7 +1390,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3152,
     "page": "4.709",
@@ -1517,7 +1397,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3205,
     "page": "4.709",
@@ -1525,7 +1404,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3261,
     "page": "4.709",
@@ -1533,11 +1411,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.706",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2",
+    "end_char_offset": 3294,
+    "end_token_offset": "licebit.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "2",
     "content": "Cap. II. Exordiendum autem est ab illis, qui spiritum dicunt ex arteriis a seipso foras impelli. Vel enim tenuiorem prorsus, ut qui aethereus est, vel alio quodammodo calidiorem ambiente nos aëre ipsum esse concedent. Tertium namque quod proferent haud habebunt spiritus accidens, per quod is foras impelli queat. Enimvero qui spiritus arteriis concluditur, ambiente nos aëre tenuior non est, nt ejus procreatio docet. Procreatur enim Erasistrati sententia ambiente nos aëre, qui in corpus ad eas, quae in pulmone sunt, primas arterias, deinde vero ad cor et ad alias appulerit. Quo igitur in humidioribus corporibus is versatur, eo crassior pinguiorque reddatur par est. Calidior quoque sit, sed ut vapor sursum fertur, qui neque obscuram vacuationem, neque ita citam habiturus est. Praxagoras quidem et crassiorem ipsum et abunde vaporosum esse protulit. Erasistratus vero, quomodo crassitiem habeat, haud definivit. Ex iis tamen, quae de ipso tradit, quisque conjicit, nequaquam congruere ipsum esse tenuem. Arterias enim eo repletas dilatari, eodemque modo musculorum ventres asseverat, quum certe eorum neutrum fieri queat, si absolute sit tenuis. Non enim certe, qui talis est, eum in corporibus detineri, sed egredi magis consentaneum est. Cur igitur is peraeque ac in thoracis, peritonaei et pharyngis vulneribus efflari non conspicitur? Sed risum fortassis movemus ex aliis id argumentis comprobantes, quum liceat eos memorare arterias, quae quum sanguinem affatim ejaculantur, is manifesto efflari conspicitur. Ut enim calidior, sic et magis vaporiferus in arteriis est sanguis, non tamen ipse per se vapor, vel aër, vel aether, vel omnino qui in eo continetur spiritus conspicitur. Si namque tenuissima acu perforetur arteria, haec quamprimum sanguinem ejaculatur. Oportebat autem (arbitror), etsi non magno, mediocri saltem vulnere, non repente, neque extra sensum, sed ampliori tempore spiritum vacuari. Priusquam enim ille vacuatus fuerit, prorsus non excidet per vulnus sanguis, quum Erasistratus ipse dicat, remotissime positas arterias primas transfusione frui. Etsi vero id ab illo scriptum non erat, ea tamen proposita necessario sectatus est. Si namque continuus sibi omnino sit qui arteriis comprehenditur spiritus, motuque adeo facilis ac tenuis, ut pauco tempore procliviter vacuetur, non is quidem solus vacuabitur, qui sectis inest arteriis, sed qui in caeteris omnibus manet. Constat enim, quod priorem sectae arteriae reliquus universus prompte sit sequuturus secuturus . Ac prima in postremis arteriis manifesta fiet vacuatio, quum aliud ipsae non habeant, unde rursum transsumant. In ipsa igitur primum periculum est, ne locus vacuus reddatur, nisi quid substantiae transsumpti spiritus locum repleverit; proptereaque necessario per mutuas anastomoses (ut ipse loquitur) sanguis cursum ei, qui evacuatur, succedentem sequitur, atque tanquam ei, qui postremarum arteriarum extremis est, spiritui alligatus, prior quidem omni alio sanguine, posterior vere arteriarum spiritu vacuabitur. Duo igitur ex hac ratiocinatione absurda maxima contingent: prius quidem, ob foramen acu factum omnem ex arteriis spiritum adeo celeriter emitti, ut sensum fugiat; alterum vero, animal, toto vitali spiritu evacuato, etiamnum vivere. Caeterum ista et paulo post disserere licebit.",
-    "line": 12,
+    "line": 0,
     "page": "4.709",
     "tokens": [
       "Cap.",
@@ -2015,7 +1904,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:2"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.709",
@@ -2023,21 +1911,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 12,
-    "page": "4.709",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "3",
     "tagname": "num",
     "char_offset": 0,
-    "line": 13,
+    "line": 0,
     "page": "4.709",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
@@ -2048,7 +1925,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 13,
+    "line": 0,
     "page": "4.709",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
@@ -2056,7 +1933,6 @@
     "end_token_offset": "III.[1]"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 46,
     "page": "4.709",
@@ -2064,7 +1940,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 99,
     "page": "4.709",
@@ -2072,7 +1947,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 156,
     "page": "4.709",
@@ -2083,7 +1957,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 208,
-    "line": 16,
+    "line": 0,
     "page": "4.709",
     "token_offset": "vult[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
@@ -2091,7 +1965,6 @@
     "end_token_offset": "id[1]"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 211,
     "page": "4.709",
@@ -2099,7 +1972,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 266,
     "page": "4.709",
@@ -2114,7 +1986,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 319,
     "page": "4.710",
@@ -2125,7 +1996,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 319,
-    "line": 2,
+    "line": 0,
     "page": "4.710",
     "token_offset": "est,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
@@ -2133,7 +2004,6 @@
     "end_token_offset": "eas[1]"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 370,
     "page": "4.710",
@@ -2141,7 +2011,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 424,
     "page": "4.710",
@@ -2149,7 +2018,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 484,
     "page": "4.710",
@@ -2157,7 +2025,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 539,
     "page": "4.710",
@@ -2165,7 +2032,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 605,
     "page": "4.710",
@@ -2173,7 +2039,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 646,
     "page": "4.710",
@@ -2181,7 +2046,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 711,
     "page": "4.710",
@@ -2189,7 +2053,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 753,
     "page": "4.710",
@@ -2197,7 +2060,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 812,
     "page": "4.710",
@@ -2205,7 +2067,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 865,
     "page": "4.710",
@@ -2213,7 +2074,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 916,
     "page": "4.710",
@@ -2221,7 +2081,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 969,
     "page": "4.710",
@@ -2229,7 +2088,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1027,
     "page": "4.710",
@@ -2237,7 +2095,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1085,
     "page": "4.710",
@@ -2245,7 +2102,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1142,
     "page": "4.710",
@@ -2253,7 +2109,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1199,
     "page": "4.710",
@@ -2261,7 +2116,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1261,
     "page": "4.710",
@@ -2276,7 +2130,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1307,
     "page": "4.711",
@@ -2284,7 +2137,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1364,
     "page": "4.711",
@@ -2292,7 +2144,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1424,
     "page": "4.711",
@@ -2300,7 +2151,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1475,
     "page": "4.711",
@@ -2308,7 +2158,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1528,
     "page": "4.711",
@@ -2316,7 +2165,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1582,
     "page": "4.711",
@@ -2324,7 +2172,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1639,
     "page": "4.711",
@@ -2332,7 +2179,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1694,
     "page": "4.711",
@@ -2340,7 +2186,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1744,
     "page": "4.711",
@@ -2348,7 +2193,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1806,
     "page": "4.711",
@@ -2356,7 +2200,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1854,
     "page": "4.711",
@@ -2364,7 +2207,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1912,
     "page": "4.711",
@@ -2372,7 +2214,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1969,
     "page": "4.711",
@@ -2380,7 +2221,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2025,
     "page": "4.711",
@@ -2388,7 +2228,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2077,
     "page": "4.711",
@@ -2396,7 +2235,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2134,
     "page": "4.711",
@@ -2404,7 +2242,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2193,
     "page": "4.711",
@@ -2412,7 +2249,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2239,
     "page": "4.711",
@@ -2427,7 +2263,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2298,
     "page": "4.712",
@@ -2435,7 +2270,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2352,
     "page": "4.712",
@@ -2443,7 +2277,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2402,
     "page": "4.712",
@@ -2451,11 +2284,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.709",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3",
+    "end_char_offset": 2431,
+    "end_token_offset": "repleat.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "3",
     "content": "Cap. III. Ad eorum autem, quae proposita sunt reliquum redeuntes demonstrabimus, neque, si a corde comprimente spiritus immittatur arteriis, probabile esse ipsum intereidentis sanguinis dogma. Quid enim vult id (prius)? arterias ad extremum usque ex natura solitas, quemadmodum et venas, contrahi, vel, quod verum est, eas adusque quid? Esto prius, quod ad extremum, ut nihil supersit. At si hoc, pravum erit argumentum, et quod divisionis defectu nihil concludet. Neque enim amplius licet dicere, quod, quum evacuatur spiritus, vel locus confertim inanis evadet, vel, quod continuum est, id subsequetur. Sed memoremus id quoque, tertium esse in sectione praetermissum, vas, quod vacuatur, contrahi, proindeque argumentum nihil concludere. Nam assumpta ea, quae vera est, assumptione: Atqui locus vacuus affatim non evadit, haud inde licet istud concludere: Igitur continuum subsequetur. Sed quaenam erit conclusio? Ergo vel continuum subsequetur, vel vas contrahetur. Sic sane prava esse paremptoseos ratio demonstrabitur, si absolute arteria contrahatur; sed si ad aliquantulum quid usque, illa etiamnum ratio prava esse demonstrabitur, si id meminerimus, quod in teneris calamis advertitur, quos insufflantes tantum extendimus, quantum eorum natura patitur; rursus vero ab extremo tantum aëris vacuatur, quantum contrahi suapte natura calamus potest, plus enim calamus ab inflantibus neque extenditur, neque contrahitur. Quantum enim inflaverimus, tantum vacuari duntaxat oportet; quantum vero aëris praecedentis continebat, priusquam inflaremus, tantum postea permanere necesse est. Sic igitur et in arteriis sese res habet. Continent siquidem aliquem spiritum, etiamsi ipsae contrahantur, alter vero a corde repleto amandatur, isque earum quidem cavitates implet, et, quo tempore egreditur, diastolen efficit. Quum vero arteriae vacuantur, vicissim systolen, quantum ab ortu concessum est, efficiunt. Nullo itaque modo nec etiam hac ratione ulla est intereidentis sanguinis necessitas; alias multo etiam vehementius ore calamos inflamus, quam cor arterias. Opus autem est profecto, quod vehementius inflatur, id magis ac citius, evacuari. At si quis calamum omnibus etiam ventis exponat, nullus tamen erit vacuus in calamo locus, sed semper sane viam sibi spatiosam calami cavitatem habiturus est, per quam aëris spiritus fluat, neque vero unquam adeo vacuabitur, ut alio quodam corpore sit opus, quod evacuati locum repleat.",
-    "line": 4,
+    "line": 0,
     "page": "4.712",
     "tokens": [
       "Cap.",
@@ -2802,7 +2646,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:3"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.712",
@@ -2810,21 +2653,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 4,
-    "page": "4.712",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "4",
     "tagname": "num",
     "char_offset": 0,
-    "line": 5,
+    "line": 0,
     "page": "4.712",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -2835,7 +2667,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 5,
+    "line": 0,
     "page": "4.712",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -2843,7 +2675,6 @@
     "end_token_offset": "IV.[1]"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 47,
     "page": "4.712",
@@ -2851,7 +2682,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 101,
     "page": "4.712",
@@ -2859,7 +2689,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 156,
     "page": "4.712",
@@ -2867,7 +2696,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 207,
     "page": "4.712",
@@ -2875,7 +2703,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 253,
     "page": "4.712",
@@ -2883,7 +2710,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 309,
     "page": "4.712",
@@ -2891,7 +2717,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 363,
     "page": "4.712",
@@ -2899,7 +2724,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 421,
     "page": "4.712",
@@ -2907,7 +2731,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 481,
     "page": "4.712",
@@ -2915,7 +2738,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 536,
     "page": "4.712",
@@ -2923,7 +2745,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 593,
     "page": "4.712",
@@ -2931,7 +2752,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 651,
     "page": "4.712",
@@ -2939,7 +2759,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 702,
     "page": "4.712",
@@ -2947,7 +2766,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 754,
     "page": "4.712",
@@ -2962,7 +2780,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 811,
     "page": "4.713",
@@ -2970,7 +2787,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 870,
     "page": "4.713",
@@ -2978,7 +2794,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 924,
     "page": "4.713",
@@ -2989,7 +2804,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 941,
-    "line": 4,
+    "line": 0,
     "page": "4.713",
     "token_offset": "tum[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -2997,7 +2812,6 @@
     "end_token_offset": "superiorem[1]"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 978,
     "page": "4.713",
@@ -3008,7 +2822,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 982,
-    "line": 5,
+    "line": 0,
     "page": "4.713",
     "token_offset": "tum[4]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3016,7 +2830,6 @@
     "end_token_offset": "inferiorem[1]"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1034,
     "page": "4.713",
@@ -3024,7 +2837,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1091,
     "page": "4.713",
@@ -3032,7 +2844,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1149,
     "page": "4.713",
@@ -3040,7 +2851,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1208,
     "page": "4.713",
@@ -3048,7 +2858,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1266,
     "page": "4.713",
@@ -3058,7 +2867,7 @@
   {
     "tagname": "sic",
     "char_offset": 1278,
-    "line": 10,
+    "line": 0,
     "page": "4.713",
     "token_offset": "axillam[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3068,7 +2877,7 @@
   {
     "tagname": "corr",
     "char_offset": 1289,
-    "line": 10,
+    "line": 0,
     "page": "4.713",
     "token_offset": "traiicitur[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3078,7 +2887,7 @@
   {
     "tagname": "choice",
     "char_offset": 1278,
-    "line": 10,
+    "line": 0,
     "page": "4.713",
     "token_offset": "axillam[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3086,7 +2895,6 @@
     "end_token_offset": "trajicitur[1]"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1333,
     "page": "4.713",
@@ -3097,7 +2905,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1345,
-    "line": 11,
+    "line": 0,
     "page": "4.713",
     "token_offset": "altera[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3105,7 +2913,6 @@
     "end_token_offset": "ascendente[1]"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1388,
     "page": "4.713",
@@ -3116,7 +2923,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 1416,
-    "line": 12,
+    "line": 0,
     "page": "4.713",
     "token_offset": "vero[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3124,7 +2931,6 @@
     "end_token_offset": "descendente[1]"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1445,
     "page": "4.713",
@@ -3132,7 +2938,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1499,
     "page": "4.713",
@@ -3140,7 +2945,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1553,
     "page": "4.713",
@@ -3148,7 +2952,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1605,
     "page": "4.713",
@@ -3156,7 +2959,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1662,
     "page": "4.713",
@@ -3164,7 +2966,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1719,
     "page": "4.713",
@@ -3172,7 +2973,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1776,
     "page": "4.713",
@@ -3187,7 +2987,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1826,
     "page": "4.714",
@@ -3195,7 +2994,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1885,
     "page": "4.714",
@@ -3203,7 +3001,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1947,
     "page": "4.714",
@@ -3211,7 +3008,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1990,
     "page": "4.714",
@@ -3219,7 +3015,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2051,
     "page": "4.714",
@@ -3227,7 +3022,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 2105,
     "page": "4.714",
@@ -3235,7 +3029,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 2153,
     "page": "4.714",
@@ -3243,7 +3036,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2205,
     "page": "4.714",
@@ -3251,7 +3043,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2262,
     "page": "4.714",
@@ -3259,7 +3050,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2313,
     "page": "4.714",
@@ -3267,7 +3057,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2365,
     "page": "4.714",
@@ -3275,7 +3064,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2432,
     "page": "4.714",
@@ -3283,7 +3071,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2481,
     "page": "4.714",
@@ -3291,7 +3078,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2530,
     "page": "4.714",
@@ -3299,7 +3085,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2591,
     "page": "4.714",
@@ -3307,7 +3092,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2638,
     "page": "4.714",
@@ -3315,7 +3099,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2692,
     "page": "4.714",
@@ -3330,7 +3113,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2749,
     "page": "4.715",
@@ -3338,7 +3120,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2812,
     "page": "4.715",
@@ -3346,7 +3127,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2867,
     "page": "4.715",
@@ -3354,7 +3134,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2916,
     "page": "4.715",
@@ -3364,7 +3143,7 @@
   {
     "tagname": "sic",
     "char_offset": 2920,
-    "line": 5,
+    "line": 0,
     "page": "4.715",
     "token_offset": "non[5]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3374,7 +3153,7 @@
   {
     "tagname": "corr",
     "char_offset": 2928,
-    "line": 5,
+    "line": 0,
     "page": "4.715",
     "token_offset": "sequuta[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3384,7 +3163,7 @@
   {
     "tagname": "choice",
     "char_offset": 2920,
-    "line": 5,
+    "line": 0,
     "page": "4.715",
     "token_offset": "non[5]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3392,7 +3171,6 @@
     "end_token_offset": "secuta[1]"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2979,
     "page": "4.715",
@@ -3400,7 +3178,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3037,
     "page": "4.715",
@@ -3408,7 +3185,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3092,
     "page": "4.715",
@@ -3416,7 +3192,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3145,
     "page": "4.715",
@@ -3424,7 +3199,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3208,
     "page": "4.715",
@@ -3432,7 +3206,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3258,
     "page": "4.715",
@@ -3440,7 +3213,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3317,
     "page": "4.715",
@@ -3448,7 +3220,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 3376,
     "page": "4.715",
@@ -3456,7 +3227,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 3441,
     "page": "4.715",
@@ -3464,7 +3234,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 3496,
     "page": "4.715",
@@ -3472,7 +3241,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3550,
     "page": "4.715",
@@ -3480,7 +3248,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 3610,
     "page": "4.715",
@@ -3488,7 +3255,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 3668,
     "page": "4.715",
@@ -3503,7 +3269,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 3726,
     "page": "4.716",
@@ -3511,7 +3276,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 3786,
     "page": "4.716",
@@ -3519,7 +3283,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 3840,
     "page": "4.716",
@@ -3527,7 +3290,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 3891,
     "page": "4.716",
@@ -3535,7 +3297,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 3950,
     "page": "4.716",
@@ -3543,7 +3304,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3999,
     "page": "4.716",
@@ -3551,7 +3311,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 4049,
     "page": "4.716",
@@ -3562,7 +3321,7 @@
     "rend": "italic",
     "tagname": "hi",
     "char_offset": 4068,
-    "line": 8,
+    "line": 0,
     "page": "4.716",
     "token_offset": "cutis[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
@@ -3570,7 +3329,6 @@
     "end_token_offset": "inciditur[1]"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 4104,
     "page": "4.716",
@@ -3578,7 +3336,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 4161,
     "page": "4.716",
@@ -3586,7 +3343,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 4213,
     "page": "4.716",
@@ -3594,7 +3350,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 4265,
     "page": "4.716",
@@ -3602,7 +3357,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 4330,
     "page": "4.716",
@@ -3610,7 +3364,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 4384,
     "page": "4.716",
@@ -3618,7 +3371,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 4439,
     "page": "4.716",
@@ -3626,7 +3378,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 4495,
     "page": "4.716",
@@ -3634,7 +3385,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 4553,
     "page": "4.716",
@@ -3642,7 +3392,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 4605,
     "page": "4.716",
@@ -3657,7 +3406,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 4664,
     "page": "4.717",
@@ -3665,7 +3413,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 4719,
     "page": "4.717",
@@ -3673,7 +3420,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 4775,
     "page": "4.717",
@@ -3681,7 +3427,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 4830,
     "page": "4.717",
@@ -3689,7 +3434,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 4885,
     "page": "4.717",
@@ -3697,7 +3441,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 4949,
     "page": "4.717",
@@ -3705,7 +3448,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 4998,
     "page": "4.717",
@@ -3713,11 +3455,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.712",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4",
+    "end_char_offset": 5008,
+    "end_token_offset": "oportere?[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "4",
     "content": "Cap. IV. Quum ergo, quod fuerat propositum, id abunde demonstratum sit, quid prohibet et ex caeteris absurdis quaedam adjicere? omnia namque percurrere vix possum ob ingentem eorum multitudinem. Unum quidem primumque absurdum est, oportere quocunque in vulnere, etiamsi sola cutis tenuiori acu vulnerata sit, universas quidem arterias sanguine repleri, febremque necessario subsequi. Manifestum autem erit, quod dicitur, si nostra demonstratio arteriarum vulneribus aptetur. Mecum igitur cogita, arteriam, quae per axiliam in universam manum distributa est, tenui acu esse punctum. Quid autem ex Erasistrato eveniet? Evacuari nimirum ipsius spiritum, simulque cum eo, qui arteriis inest proximus. Huic autem proximae sunt, tum quae ab hac ortae in manum distribuuntur, tum quae magna a corde prodit, a qua ipsa propagata est. At si haec vacuetur, sinistrum simul cordis sinum huic proximum existentem vacuari utique prorsus necesse est, tum superiorem , quae ad caput ascendit, tum inferiorem , quae ad spinam descendit. Nam si omni, quae evacuatur, parti arteriae, quae vicinae sunt, simul evacuentur, vicinae vero sint ipsius propagines, a quibus etiam ipsa propagatur, perspicuum est, et sinistrum cordis ventriculum, et praedictas arterias utrasque cum ea, quae per axillam traiicitur trajicitur , simul evacuari. Quum itaque ab ipsa altera ascendente tum cervicis, tum capitis omnes propagentur, ab altera vero descendente caeterae reliqui universi corporis ortum trahant, ipsam quoque adusque extrema simul evacuari necesse est. Quum primum autem ad arteriarum extrema spiritus vacuitas pervenerit, per anastomoses sanguinem e venis in arterias transfundi contigerit, eumque duntaxat, quod spiritus evacuetur, ab inferioribus quidem corporis partibus ad arteriam spinae incumbentem et ad cor, atque ita demum ad axiliam pervenire, partim vero a superioribus capitis ad eam, quae prior sursum ascendit, mox vero ad cervicem et ad vulneratam. Atque ita sanguis per omnes manus arterias transsumptus spiritum sequens ad sectam arteriam infunditur, sicque in universa mole sanguis ad arteriae sectionem confluet. At id equidem verissimum. Conspicitur enim, per unam qualemcunque insignem arteriam, nisi fluxum ejus prohibueris, totum universae molis sanguinem evacuari. Id vero (ut monstravimus) haud sanguinem arteriis contineri asserentibus, sed et Erasistrato ejusque sectatoribus ipsas vitalis spiritus organa esse volentibus adversatur. Etenim, acu vulnerata dicta arteria, primum quidem vitalem spiritum, eumque universum evacuari, deinde vero in omnes arterias sanguinem transfundi necesse est, postremo (quod omnium gravissimum est) in ipsum quoque sinistrum cordis ventriculum. Ad haec quo pacto, ipso cordis ventriculo sanguine repleto, non suffocetur animal, vel non prius interierit, quum spiritus vitalis vacuabatur, vel musculorum motus non amiserit, vel arteriarum pulsum non oblaeserit, vel febris non sequuta secuta sit? Haec enim omnia ita contingere necesse erat, ut censet Erasistratus, quum neque arteriarum motus ordinatos permanere posse arbitrabatur, neque spiritus commeatum in omnibus partibus liberum, quod sanguine prorsus vacuatae non sint, febrem quoque necessario succedere, quoties sanguis in arterias inter alas et inguina positas inciderit. Horum attamen nullum animali contigisse videtur. At quicunque voluerit, ipsi licet in eo periculum facere, quod et nos in secta praedicta arteria multoties experti sumus. Neque difficile ipsam comperies, etiam antequam cute nudaveris, ex pulsu conjiciens. Motus enim signo prodit, in macilentis quidem animalibus magis, in pinguibus vero prope articulum cubiti. Hanc igitur, si opus fuerit, vulnerabis directo ac imposito stilo, vel acu, vel aliquo medico scalpello tenui, aut alio quodam simili instrumento, quod angustam possit sectionem facere, ut, quaecunque omnia praedicta sunt, iliis ex eo loco demonstres, et ut neque arteriarum neque musculorum motus oblaedantur. Non itaque solum, quum arteria magna vulneratur, haec accidere necesse est, sed et quum parva est, et quum sola cutis inciditur . Non enim eam vult cutim trium vasorum esse texturam, ut, quamcunque eorum partem tenui acu punxeris, omnia simul tria vasorum genera vulnerentur. Pungatur itaque in brachio cutis, quae arteriae ex axillis prodeunti subjacet; evacuetur dein spiritus, isque per insensibilem, quoad visum, transpirationem, (quod ita fieri vult Erasistratus,) secta arteria; cum eo quoque continuus spiritus evacuetur ex arteria magna subjacente, quae ab alis illuc procedit. Nam quae prorsus corporis partes involvit cutis, quosdam a subjectis arteriis ramulos accipit; quod si etiam ab aliis quibusdam accipiat, nihil mihi ad rem obstat. Nam cute vulnerata evacuabuntur simul, quae cuti continuae fuerint, et cum illis reliquae omnes. Haec siquidem paulo ante a nobis monstrata sunt. Sed quo pacto hoc absurdum non est, si quantumvis tenuissima acu vulnerata sit cutis, statim universas sic arterias repleri sanguine febremque suboriri oportere?",
-    "line": 8,
+    "line": 0,
     "page": "4.717",
     "tokens": [
       "Cap.",
@@ -4432,7 +4185,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:4"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.717",
@@ -4440,21 +4192,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 8,
-    "page": "4.717",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "5",
     "tagname": "num",
     "char_offset": 0,
-    "line": 9,
+    "line": 0,
     "page": "4.717",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5",
@@ -4465,7 +4206,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 9,
+    "line": 0,
     "page": "4.717",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5",
@@ -4473,7 +4214,6 @@
     "end_token_offset": "V.[1]"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 56,
     "page": "4.717",
@@ -4481,7 +4221,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 97,
     "page": "4.717",
@@ -4489,7 +4228,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 156,
     "page": "4.717",
@@ -4497,7 +4235,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 212,
     "page": "4.717",
@@ -4505,7 +4242,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 269,
     "page": "4.717",
@@ -4513,7 +4249,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 318,
     "page": "4.717",
@@ -4521,7 +4256,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 373,
     "page": "4.717",
@@ -4529,7 +4263,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 434,
     "page": "4.717",
@@ -4537,7 +4270,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 483,
     "page": "4.717",
@@ -4545,7 +4277,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 538,
     "page": "4.717",
@@ -4553,7 +4284,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 590,
     "page": "4.717",
@@ -4568,7 +4298,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 645,
     "page": "4.718",
@@ -4576,7 +4305,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 712,
     "page": "4.718",
@@ -4584,7 +4312,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 765,
     "page": "4.718",
@@ -4592,7 +4319,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 825,
     "page": "4.718",
@@ -4600,7 +4326,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 882,
     "page": "4.718",
@@ -4608,7 +4333,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 947,
     "page": "4.718",
@@ -4616,7 +4340,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1006,
     "page": "4.718",
@@ -4624,7 +4347,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1063,
     "page": "4.718",
@@ -4632,7 +4354,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1122,
     "page": "4.718",
@@ -4640,7 +4361,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1189,
     "page": "4.718",
@@ -4648,7 +4368,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1240,
     "page": "4.718",
@@ -4656,7 +4375,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1297,
     "page": "4.718",
@@ -4664,7 +4382,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1356,
     "page": "4.718",
@@ -4672,7 +4389,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1413,
     "page": "4.718",
@@ -4680,7 +4396,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1468,
     "page": "4.718",
@@ -4688,7 +4403,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1523,
     "page": "4.718",
@@ -4696,7 +4410,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1581,
     "page": "4.718",
@@ -4704,7 +4417,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1638,
     "page": "4.718",
@@ -4719,7 +4431,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1694,
     "page": "4.719",
@@ -4727,7 +4438,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1751,
     "page": "4.719",
@@ -4735,7 +4445,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1798,
     "page": "4.719",
@@ -4743,7 +4452,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1855,
     "page": "4.719",
@@ -4751,7 +4459,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1917,
     "page": "4.719",
@@ -4759,7 +4466,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1968,
     "page": "4.719",
@@ -4767,7 +4473,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 2029,
     "page": "4.719",
@@ -4775,7 +4480,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2083,
     "page": "4.719",
@@ -4783,7 +4487,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2142,
     "page": "4.719",
@@ -4791,7 +4494,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2203,
     "page": "4.719",
@@ -4799,7 +4501,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2256,
     "page": "4.719",
@@ -4807,7 +4508,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2311,
     "page": "4.719",
@@ -4815,7 +4515,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2369,
     "page": "4.719",
@@ -4823,7 +4522,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2429,
     "page": "4.719",
@@ -4831,7 +4529,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2479,
     "page": "4.719",
@@ -4839,7 +4536,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2529,
     "page": "4.719",
@@ -4847,7 +4543,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2592,
     "page": "4.719",
@@ -4855,7 +4550,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2646,
     "page": "4.719",
@@ -4863,7 +4557,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 2707,
     "page": "4.719",
@@ -4878,7 +4571,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2757,
     "page": "4.720",
@@ -4886,7 +4578,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2823,
     "page": "4.720",
@@ -4894,7 +4585,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2872,
     "page": "4.720",
@@ -4902,7 +4592,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2923,
     "page": "4.720",
@@ -4910,7 +4599,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2978,
     "page": "4.720",
@@ -4918,7 +4606,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3035,
     "page": "4.720",
@@ -4926,7 +4613,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3093,
     "page": "4.720",
@@ -4934,7 +4620,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3151,
     "page": "4.720",
@@ -4942,7 +4627,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3203,
     "page": "4.720",
@@ -4950,7 +4634,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3253,
     "page": "4.720",
@@ -4958,7 +4641,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3311,
     "page": "4.720",
@@ -4966,7 +4648,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 3373,
     "page": "4.720",
@@ -4974,7 +4655,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 3426,
     "page": "4.720",
@@ -4982,7 +4662,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 3480,
     "page": "4.720",
@@ -4990,7 +4669,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3529,
     "page": "4.720",
@@ -4998,7 +4676,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 3586,
     "page": "4.720",
@@ -5006,7 +4683,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 3650,
     "page": "4.720",
@@ -5014,7 +4690,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 3695,
     "page": "4.720",
@@ -5022,7 +4697,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 3757,
     "page": "4.720",
@@ -5037,7 +4711,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 3811,
     "page": "4.721",
@@ -5045,7 +4718,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 3868,
     "page": "4.721",
@@ -5053,7 +4725,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 3923,
     "page": "4.721",
@@ -5061,7 +4732,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 3978,
     "page": "4.721",
@@ -5069,7 +4739,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 4039,
     "page": "4.721",
@@ -5077,7 +4746,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 4101,
     "page": "4.721",
@@ -5085,7 +4753,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 4145,
     "page": "4.721",
@@ -5093,7 +4760,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 4197,
     "page": "4.721",
@@ -5101,11 +4767,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.717",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5",
+    "end_char_offset": 4243,
+    "end_token_offset": "explicatum.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "5",
     "content": "Cap. V. Hisce objectionibus mecum ipse olim existimabam contra venturum neminem, imo potius male constituti dogmatis absurditatem plerosque animadversuros; at nemo est, qui sententiam mutare velit. Sed ut luctae prorsus imperiti non advertunt, se terram dorso tangere, quod dejectoris sui cervicem teneant, atque ideo ipsum surgere non permittunt: sic et isti faciunt, qui quum ignari sint errorum, qui in rationibus committi solent, nos discedere non permittunt, sed inanes quasdam tricas complicant et quocunque vis modo verba nectunt, quoad aliquis exosus impudentiam et ruditatem eorum nolentes cedere dirimat. Siquidem aliqui usque in hunc diem non erubescunt affirmare, sanguinem in arterias ex propinquis solummodo venis adapertis concedere, minime memores, Erasistratum dicere, extremas quoque arterias spiritu prius exinaniri, quam sanguinem assumant, atque haec evidenter constare libris, quos ille de dissectionibus conscripsit. Nam si ventrem imum et interiorem membranam diviserimus, arterias in mesenterio plane conspiciemus, in haedis quidem nuper natis lacte refertas, in adultis autem animalibus alterius rei plenas: spiritum autem solum nunquam illas continere viderunt, sicut nec ullam aliam arteriam, cum nudata fuerit. Arbitror autem, ipsos adeo imperitos esse eorum, quae ad dissectiones attinent, ut neque id satis intelligant, quod est ab Erasistrato recte pronunciatum, extremas arterias esse, quae mesenterium occupant, nimirum ipsas ad eas, quae imo ventri insunt, comparante. Fortassis enim, ut situ, sic continuitate illas inter se proximas opinantur, non advertentes, ab arteria magna, quae spinae incumbit, et omnes illas oriri, quae ad mesenterium deveniunt, et plerasque ex illis, quae imum ventrem occupant: quamquam nonnullae etiam arteriae, partim ex inguinibus ascendentes, partim e pectore descendentes, per arteriam magnam, quae spinae incumbit media, hisce arteriis junguntur, quae in mesenterio sunt. Quamobrem ab iis ad illas non affectionem, non inanitionem, non denique aliud quippiam transire continget, nisi prius in arteriam perveniat, quae spinae inhaeret. Hoc cujusmodi sit, per similitudinem explicare nitar. Arteriam, quae spinae haeret, perinde atque truncum arboris unius esse cogites, alias vero ex ea ortas veluti ramos, et rursus alias, quae a se invicem divisae aequales protenduntur, sicuti in ramis germina et folia. Quemadmodum igitur folia e diversis ramis prodeuntia plerumque sibi intervallo propinqua sunt, quamvis longo sint exortus progressu copulata,(nam trunco inter se folia junguntur,) sic et arteriae, quae in imo ventre disperguntur, etiamsi propinquae spatio sint arteriis mesenterii, longo tamen originis intervallo sese contingunt. Si prius igitur in extremas arterias, (hoc enim a principio dicebamus,) quam in alias omnes, sanguis transfunditur, ob hoc quoque necesse est, quo sanguis ad vulnus perveniat, vitalem spiritum totum emitti: id autem quam absurdum sit, demonstratum est antea. Hic aliquis mirari posset et quaerere, unde tam prudentibus viris in mentem venerit velle absurdas usque adeo tueri opiniones: neque enim ullo mentis vitio ducti, sed probabili quapiam ratione persuasi in hanc sententiam omnes devenere. Cui ego ita responsum velim, ipsas suis in libris scriptum reliquisse probationes, quibus ad haec credendum inducti sint: quas ut verisimiles fuisse, ita veras non esse, me nunc ostensurum recipio, si prius, quid in quavis argumentatione plerosque decipiat, summatim et paucis commemoravero. Quaecunque in cognitionem hominum veniunt, aut sensu, aut ratione deprehenduntur: atque ut sensilium multa multis de causis sensum effugiunt, ita rationem quoque rationabilium multa praetereunt. Quod cum ita sit, quisquis sincerus veritatis amator extiterit, is nec ab evidenter cognitis ob ea, quae nondum comperta habet, recedet, nec ob evidenter cognita iis, quae adhuc sibi incomperta sunt, accedet: qui vero talis non est, vel incognitarum rerum gratia de cognitis dubitat, vel cognitarum causa incognitis assentitur. In primum inciderunt ii, qui, quod nihil sciri dicerent, se Scepticos appellarunt; in secundum plerique illorum, qui Dogmatici nominantur. Verum quo modo quispiam neque huc neque illuc impingat, alibi est a nobis explicatum.",
-    "line": 9,
+    "line": 0,
     "page": "4.721",
     "tokens": [
       "Cap.",
@@ -5710,7 +5387,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:5"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.721",
@@ -5718,21 +5394,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 9,
-    "page": "4.721",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "6",
     "tagname": "num",
     "char_offset": 0,
-    "line": 10,
+    "line": 0,
     "page": "4.721",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6",
@@ -5743,7 +5408,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 10,
+    "line": 0,
     "page": "4.721",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6",
@@ -5751,7 +5416,6 @@
     "end_token_offset": "VI.[1]"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 52,
     "page": "4.721",
@@ -5759,7 +5423,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 113,
     "page": "4.721",
@@ -5767,7 +5430,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 160,
     "page": "4.721",
@@ -5775,7 +5437,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 220,
     "page": "4.721",
@@ -5783,7 +5444,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 279,
     "page": "4.721",
@@ -5791,7 +5451,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 337,
     "page": "4.721",
@@ -5799,7 +5458,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 398,
     "page": "4.721",
@@ -5807,7 +5465,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 451,
     "page": "4.721",
@@ -5815,7 +5472,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 515,
     "page": "4.721",
@@ -5823,7 +5479,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 568,
     "page": "4.721",
@@ -5838,7 +5493,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 626,
     "page": "4.722",
@@ -5846,7 +5500,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 674,
     "page": "4.722",
@@ -5854,7 +5507,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 732,
     "page": "4.722",
@@ -5862,7 +5514,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 795,
     "page": "4.722",
@@ -5870,7 +5521,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 846,
     "page": "4.722",
@@ -5878,7 +5528,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 897,
     "page": "4.722",
@@ -5886,7 +5535,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 953,
     "page": "4.722",
@@ -5894,7 +5542,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1004,
     "page": "4.722",
@@ -5902,7 +5549,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1058,
     "page": "4.722",
@@ -5910,7 +5556,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1113,
     "page": "4.722",
@@ -5918,7 +5563,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1170,
     "page": "4.722",
@@ -5926,7 +5570,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1226,
     "page": "4.722",
@@ -5934,7 +5577,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1280,
     "page": "4.722",
@@ -5942,7 +5584,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1333,
     "page": "4.722",
@@ -5950,7 +5591,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1385,
     "page": "4.722",
@@ -5958,7 +5598,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1441,
     "page": "4.722",
@@ -5966,7 +5605,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1494,
     "page": "4.722",
@@ -5974,7 +5612,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1549,
     "page": "4.722",
@@ -5982,7 +5619,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 1599,
     "page": "4.722",
@@ -5997,7 +5633,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1655,
     "page": "4.723",
@@ -6005,7 +5640,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1705,
     "page": "4.723",
@@ -6013,7 +5647,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1760,
     "page": "4.723",
@@ -6021,7 +5654,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1815,
     "page": "4.723",
@@ -6029,7 +5661,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1873,
     "page": "4.723",
@@ -6037,7 +5668,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1939,
     "page": "4.723",
@@ -6045,7 +5675,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1981,
     "page": "4.723",
@@ -6053,7 +5682,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2039,
     "page": "4.723",
@@ -6061,7 +5689,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2097,
     "page": "4.723",
@@ -6069,7 +5696,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2146,
     "page": "4.723",
@@ -6077,7 +5703,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2212,
     "page": "4.723",
@@ -6085,7 +5710,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2259,
     "page": "4.723",
@@ -6093,7 +5717,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2311,
     "page": "4.723",
@@ -6101,7 +5724,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2366,
     "page": "4.723",
@@ -6109,7 +5731,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2422,
     "page": "4.723",
@@ -6117,7 +5738,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2480,
     "page": "4.723",
@@ -6125,7 +5745,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2534,
     "page": "4.723",
@@ -6133,7 +5752,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2593,
     "page": "4.723",
@@ -6141,7 +5759,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 2649,
     "page": "4.723",
@@ -6149,7 +5766,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 20,
     "tagname": "lb",
     "char_offset": 2709,
     "page": "4.723",
@@ -6164,7 +5780,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2759,
     "page": "4.724",
@@ -6172,7 +5787,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2819,
     "page": "4.724",
@@ -6180,7 +5794,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2880,
     "page": "4.724",
@@ -6188,7 +5801,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2935,
     "page": "4.724",
@@ -6196,7 +5808,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2983,
     "page": "4.724",
@@ -6204,7 +5815,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3032,
     "page": "4.724",
@@ -6212,7 +5822,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3093,
     "page": "4.724",
@@ -6220,7 +5829,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3146,
     "page": "4.724",
@@ -6228,7 +5836,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3202,
     "page": "4.724",
@@ -6236,7 +5843,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3251,
     "page": "4.724",
@@ -6244,7 +5850,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3316,
     "page": "4.724",
@@ -6252,7 +5857,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 3360,
     "page": "4.724",
@@ -6260,7 +5864,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 3423,
     "page": "4.724",
@@ -6268,7 +5871,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 3469,
     "page": "4.724",
@@ -6276,7 +5878,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3531,
     "page": "4.724",
@@ -6284,7 +5885,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 3584,
     "page": "4.724",
@@ -6292,7 +5892,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 3641,
     "page": "4.724",
@@ -6300,7 +5899,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 3691,
     "page": "4.724",
@@ -6308,7 +5906,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 3738,
     "page": "4.724",
@@ -6323,7 +5920,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 3793,
     "page": "4.725",
@@ -6331,7 +5927,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 3845,
     "page": "4.725",
@@ -6339,7 +5934,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 3901,
     "page": "4.725",
@@ -6347,7 +5941,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 3956,
     "page": "4.725",
@@ -6355,7 +5948,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 4014,
     "page": "4.725",
@@ -6363,7 +5955,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 4066,
     "page": "4.725",
@@ -6371,7 +5962,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 4113,
     "page": "4.725",
@@ -6379,7 +5969,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 4166,
     "page": "4.725",
@@ -6387,7 +5976,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 4211,
     "page": "4.725",
@@ -6395,7 +5983,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 4263,
     "page": "4.725",
@@ -6403,7 +5990,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 4314,
     "page": "4.725",
@@ -6411,7 +5997,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 4357,
     "page": "4.725",
@@ -6419,7 +6004,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 4419,
     "page": "4.725",
@@ -6427,7 +6011,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 4465,
     "page": "4.725",
@@ -6435,7 +6018,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 4517,
     "page": "4.725",
@@ -6443,7 +6025,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 4572,
     "page": "4.725",
@@ -6451,7 +6032,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 4624,
     "page": "4.725",
@@ -6459,7 +6039,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 4682,
     "page": "4.725",
@@ -6467,7 +6046,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 4738,
     "page": "4.725",
@@ -6482,7 +6060,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 4793,
     "page": "4.726",
@@ -6490,7 +6067,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 4853,
     "page": "4.726",
@@ -6498,7 +6074,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 4902,
     "page": "4.726",
@@ -6506,7 +6081,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 4959,
     "page": "4.726",
@@ -6514,7 +6088,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 5020,
     "page": "4.726",
@@ -6522,7 +6095,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 5076,
     "page": "4.726",
@@ -6530,7 +6102,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 5127,
     "page": "4.726",
@@ -6538,7 +6109,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 5172,
     "page": "4.726",
@@ -6546,7 +6116,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 5227,
     "page": "4.726",
@@ -6554,7 +6123,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 5284,
     "page": "4.726",
@@ -6562,7 +6130,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 5337,
     "page": "4.726",
@@ -6570,7 +6137,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 5401,
     "page": "4.726",
@@ -6578,7 +6144,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 5455,
     "page": "4.726",
@@ -6586,7 +6151,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 5509,
     "page": "4.726",
@@ -6594,7 +6158,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 5560,
     "page": "4.726",
@@ -6602,7 +6165,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 5617,
     "page": "4.726",
@@ -6617,7 +6179,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 5680,
     "page": "4.727",
@@ -6625,7 +6186,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 5724,
     "page": "4.727",
@@ -6633,7 +6193,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 5780,
     "page": "4.727",
@@ -6641,7 +6200,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 5838,
     "page": "4.727",
@@ -6649,7 +6207,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 5894,
     "page": "4.727",
@@ -6657,7 +6214,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 5953,
     "page": "4.727",
@@ -6665,7 +6221,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 5998,
     "page": "4.727",
@@ -6673,7 +6228,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 6056,
     "page": "4.727",
@@ -6681,7 +6235,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 6106,
     "page": "4.727",
@@ -6689,11 +6242,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.721",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6",
+    "end_char_offset": 6118,
+    "end_token_offset": "colligitur.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "6",
     "content": "Cap. VI. Hic autem, quo pacto Erasistratus labatur, solum patefaciemus. Neque enim ex propriis demonstrationibus pronunciavit, arterias sanguine carere, sed ex aliis, de quibus quod ab evidentibus descisceret dubitabat, persimilis factus illis, qui motum non esse dicebant, quia rationes quasdam contra se factas solvere nesciebant. Sed melius, opinor, et isti sibi consuluissent, si motum esse ut evidens quiddam primo concessissent, tum objectiones contra se factas diluere per otium studuissent. Et Erasistratus melius egisset, si arterias ideo sanguinem continere concessisset, quod videamus, ipsas acu etiam subtilissima perforatas illico sanguinem fundere: seorsumque postea tecum discussisset, cur natura, quae nihil frustra molitur, duo receptacula genere distincta unam rem continentia fabricasset: item et illud, quo pacto in universum corpus aër, quem respirando attrahimus, perveniat, si arteriae sanguinem contineant: vel, si non pervenit, quo modo, prout libuerit, movere nos possumus, aut qua ratione sine impedimento spiritus arterias movere queat, cum sanguis ipsis reluctetur. Hasce quaestiones seorsum proponere et sigillatim quamque discutere aequum sane fuerat eum etiam fortasse, qui infinitum concedit: nam quamvis solum difficiles sint, non tamen ad rerum evidentiam submovendam satis valere debent. Atque ut ab eo exordiar, quod primum diximus, perinde est ac si quis in iis quae ruminant animantibus plures ventres conspicatus, hunc credat pabulum, illum potum, alium spiritum excipere, neque naturam, quae nunquam frustra quicquam egit, unius rei gratia multa receptacula fecisse. Quemadmodum enim in illis, etiamsi tot ventres unam rem excipiat, diversum tamen usum habuerunt, cujus gratia plures etiam existunt, sic in arteriis et venis se res habet. Sanguinem enim ambae continent, ut praecedens oratio docuit: et constitutione dissimili sunt certi cujusdam usus causa, quem nos aliis in libris explicavimus. Deinde, quod secundum fuit, quo pacto aër attractus respirando in totum corpus veniat, si sanguinem arteriae contineant: vel si non venit, quomodo nos movere pro voluntate possimus: et demum qua ratione tam distincte pulsent arteriae, sanguinique spiritus sine repugnantia commisceri queat: quaedam sibi dari volunt, de quibus inter omnes non constat. Assumunt enim ut ab omnibus concessum, spiritum arteriis a corde submitti, tum ex hoc reliqua concludunt, non animadvertentes, hoc quoque falsum esse, deprehendique facile posse, ubi ratio ista decipiat. Deteximus nos interdum arterias magnas opportunas, (opportunae sunt, quae in brachiis et cruribus existunt,) interrogavimusque Erasistrati sectatores, an ne tum quidem, cum detectae forent, sanguis inesse arteriis videretur. Fatebantur autem ex necessitate, simul quia ipse Erasistratus asseverat, cum pellis detrahitur, in arterias sanguinem migrare, simul quia sensus ita dijudicat: nam ubi funiculo dissectam arteriam utrinque ligavimus et quod in medio comprehensum fuerat incidimus, sanguine plenam ipsam esse monstravimus. Sed quo modo, reclamant, in totum corpus aër veniet, quem respirando attrahimus, si sanguinem arteriae contineant? Quibus respondendum est, quae necessitas hoc eos fateri cogat, cum possit totus qui respirando admissus est aër foras etiam remitti, quemadmodum pluribus iisque diligentissimis tam philosophis quam medicis visum est, qui cor inquiunt non aëris substantiam exposcere, sed frigiditatem solummodo, qua recreari desiderat, atque hunc esse respirationis usum. Sumunt igitur Erasistrati sectatores et hac in re id, de quo dubitatur. Prius istud ipsum demonstrandum fuerat: tum sigillatim quaeque investigare debebant: sicut et nos fecimus et omnes, quotquot ordine rerum considerationem suscepere, quique non solum investigare, sed tractare etiam res voluere. Demonstratum est autem a nobis in eo libro, quem de usu respirationis edidimus, vel omnino parum, vel nihil prorsus aëris inspirati in cor descendere. Eodem pacto rursus aberrant, cum petunt, quo modo movere nos possimus ad imperium voluntatis, quove modo motus arteriarum non impediatur, sed tam distincte procedat, si sanguinem arteriae contineant. Adversus quos subinde primo monstramus, arterias non solum manuum, sed oculorum etiam judicio sine impedimento moveri: deinde rationem hanc inducimus, cujus assumptiones etiam ipsi veras fatentur: concedunt enim, veram esse hanc adjunctionem: si sanguinem arteriae continent et a corde spiritu implentur, ordinem in motu servare non possunt, nam hujusmodi adjunctionem ita per se sumptam: si sanguinem arteriae continent, earum motus ordinem non servabit: ne ipsi quidem ut veram affirmare audent, nec alius quisquam, qui mente praeditus sit: cum possint arteriae, non quia a corde repleantur, extendi, sed quia extenduntur, ideo repleri. Oporteret nos igitur fateri prius, arterias a corde spiritu compleri, si ejusmodi adjunctum verum esse debuisset: nam, si utrumque concesserimus, arterias sanguinem continere, et a corde repletas extendi, procul dubio sequetur, ordinem, quem in motu suapte natura servant arteriae, intercipi: id quod altero tantum assumpto nequaquam sequetur. Pereontemur igitur eos, ubi arteriam aliquam detexerimus, hoc modo: si continent arteriae sanguinem et a corde repletae distenduntur, ordinem in motu nullum servabunt: at servant, nam hoc ita esse videmus: non igitur et sanguinem continent, et a corde repletae extenduntur. Hic Erasistrati sectatores, cum et assumptiones ambas et adjunctionem, consequentisque oppositum concedant, nescio cur et illatum non concedant: nisi fortasse nesciunt (quod ne vulgares quidem latet), ex adjuncto et consequentis, id quod adjunctum definit, opposito antecedentis oppositum inferri. Nam cum antecedat in hac argumentatione, non solum arterias sanguinem continere, sed etiam (ut paulo ante monstratum est) a corde repletas extendi, illatum erit hujusce conjuncti negatio: quando namque in adjunctione totius enunciati id, quod antecedit, ex duabus assumptionibus conjunctum est, id, quod sequitur, simplex est: deinde ejus, quod sequebatur, opposito assumpto, conjuncti oppositum necessario colligitur.",
-    "line": 10,
+    "line": 0,
     "page": "4.727",
     "tokens": [
       "Cap.",
@@ -7548,7 +7112,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:6"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.727",
@@ -7556,21 +7119,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 10,
-    "page": "4.727",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "7",
     "tagname": "num",
     "char_offset": 0,
-    "line": 11,
+    "line": 0,
     "page": "4.727",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7",
@@ -7581,7 +7133,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 11,
+    "line": 0,
     "page": "4.727",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7",
@@ -7589,7 +7141,6 @@
     "end_token_offset": "VII.[1]"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 46,
     "page": "4.727",
@@ -7597,7 +7148,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 103,
     "page": "4.727",
@@ -7605,7 +7155,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 150,
     "page": "4.727",
@@ -7613,7 +7162,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 212,
     "page": "4.727",
@@ -7621,7 +7169,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 271,
     "page": "4.727",
@@ -7629,7 +7176,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 323,
     "page": "4.727",
@@ -7637,7 +7183,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 376,
     "page": "4.727",
@@ -7645,7 +7190,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 427,
     "page": "4.727",
@@ -7660,7 +7204,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 486,
     "page": "4.728",
@@ -7668,7 +7211,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 539,
     "page": "4.728",
@@ -7676,7 +7218,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 596,
     "page": "4.728",
@@ -7684,7 +7225,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 653,
     "page": "4.728",
@@ -7692,7 +7232,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 706,
     "page": "4.728",
@@ -7700,7 +7239,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 758,
     "page": "4.728",
@@ -7708,7 +7246,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 818,
     "page": "4.728",
@@ -7716,7 +7253,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 879,
     "page": "4.728",
@@ -7724,7 +7260,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 935,
     "page": "4.728",
@@ -7732,7 +7267,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 993,
     "page": "4.728",
@@ -7740,7 +7274,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1046,
     "page": "4.728",
@@ -7748,7 +7281,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1108,
     "page": "4.728",
@@ -7756,7 +7288,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1161,
     "page": "4.728",
@@ -7764,7 +7295,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1213,
     "page": "4.728",
@@ -7772,7 +7302,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1268,
     "page": "4.728",
@@ -7780,7 +7309,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1325,
     "page": "4.728",
@@ -7788,7 +7316,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1380,
     "page": "4.728",
@@ -7803,7 +7330,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1440,
     "page": "4.729",
@@ -7811,7 +7337,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1499,
     "page": "4.729",
@@ -7819,7 +7344,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1550,
     "page": "4.729",
@@ -7827,7 +7351,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1607,
     "page": "4.729",
@@ -7835,7 +7358,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1659,
     "page": "4.729",
@@ -7843,7 +7365,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1715,
     "page": "4.729",
@@ -7851,7 +7372,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1773,
     "page": "4.729",
@@ -7859,7 +7379,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1835,
     "page": "4.729",
@@ -7867,7 +7386,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1895,
     "page": "4.729",
@@ -7875,7 +7393,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1949,
     "page": "4.729",
@@ -7883,7 +7400,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2010,
     "page": "4.729",
@@ -7891,7 +7407,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2062,
     "page": "4.729",
@@ -7899,7 +7414,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2112,
     "page": "4.729",
@@ -7907,7 +7421,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2159,
     "page": "4.729",
@@ -7915,7 +7428,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 2214,
     "page": "4.729",
@@ -7923,7 +7435,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2270,
     "page": "4.729",
@@ -7931,7 +7442,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2321,
     "page": "4.729",
@@ -7939,7 +7449,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2383,
     "page": "4.729",
@@ -7947,7 +7456,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 19,
     "tagname": "lb",
     "char_offset": 2431,
     "page": "4.729",
@@ -7962,7 +7470,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2488,
     "page": "4.730",
@@ -7970,7 +7477,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2543,
     "page": "4.730",
@@ -7978,7 +7484,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2597,
     "page": "4.730",
@@ -7986,7 +7491,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2661,
     "page": "4.730",
@@ -7994,7 +7498,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2716,
     "page": "4.730",
@@ -8002,7 +7505,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 2784,
     "page": "4.730",
@@ -8010,7 +7512,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 2835,
     "page": "4.730",
@@ -8018,7 +7519,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2899,
     "page": "4.730",
@@ -8026,7 +7526,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2952,
     "page": "4.730",
@@ -8034,7 +7533,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3009,
     "page": "4.730",
@@ -8042,7 +7540,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3064,
     "page": "4.730",
@@ -8050,7 +7547,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 3121,
     "page": "4.730",
@@ -8058,7 +7554,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 3173,
     "page": "4.730",
@@ -8066,7 +7561,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 3230,
     "page": "4.730",
@@ -8074,7 +7568,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3284,
     "page": "4.730",
@@ -8082,7 +7575,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 3348,
     "page": "4.730",
@@ -8090,7 +7582,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 3400,
     "page": "4.730",
@@ -8105,7 +7596,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 3443,
     "page": "4.731",
@@ -8113,7 +7603,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 3502,
     "page": "4.731",
@@ -8121,7 +7610,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 3557,
     "page": "4.731",
@@ -8129,7 +7617,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 3617,
     "page": "4.731",
@@ -8137,7 +7624,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 3674,
     "page": "4.731",
@@ -8145,7 +7631,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3731,
     "page": "4.731",
@@ -8153,7 +7638,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3784,
     "page": "4.731",
@@ -8161,7 +7645,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3845,
     "page": "4.731",
@@ -8169,7 +7652,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3885,
     "page": "4.731",
@@ -8177,7 +7659,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3949,
     "page": "4.731",
@@ -8185,7 +7666,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 4000,
     "page": "4.731",
@@ -8193,7 +7673,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 4051,
     "page": "4.731",
@@ -8201,7 +7680,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 4107,
     "page": "4.731",
@@ -8209,11 +7687,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.727",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7",
+    "end_char_offset": 4136,
+    "end_token_offset": "relinquit.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "7",
     "content": "Cap. VII. Ad haec itaque cum non habeant quid opponant, ad Pyrrhonicam rusticitatem, tanquam in asylum quoddam, confugiunt, non aequum esse clamantes medicas considerationes dialecticis curiositatibus subjicere, moxque a nobis denuo pereontati, numquid ex assumptionibus concessis quodvis inferri liceat, et an facultas et ars aliqua extet, quae doceat ex quibusdam concessis quaedam inferre, nihil respondent. Sed si certamen procederet, quidnam respondere possent (modo sibi constare vellent), nisi artem plane nullam extare colligendi, sed ex datis assumptionibus quidvis sine ullo discrimine inferri posse? vel extare quidem, non tamen ea opus esse ad demonstrationes conficiendas? Sed ambo vehementer absurda sunt. Nam primum si dixerint, sicuti quidam olim perfricatae frontis ausus est dicere, tales deinceps a nobis interrogationes audient, quales ille audivit: Arteriae duas tunicas habent, sanguis fulvus est, ergo non solum spiritum, sed et sanguinem arteriae continent. Ridentibus illis, aliud statim subjunxi argumentum: Corvi nigri sunt, olores albi sunt, igitur non solus spiritus ab arteriis continetur. Hic denuo cum riderent, tertium subjeci: Ignis calidus est, nix frigida est, tu stupidus es, ergo non solus spiritus in arteriis continetur. Nam si quodcunque ex assumptis concessis inferri per vos licet, nullaque conclusionis deducendae reperta ars est, quid me prohibet vobiscum sic argumentari? Sin ars et disciplina quaedam excogitata fuit, quae singulis in rebus discernere nos docet et quid e quibusnam concessis inferatur, quisnam vobis, o Erasistratici, sapere plus videtur, num qui eam artem non novit, aut noscit quidem, sed non utitur, an potius, qui et noscit et utitur? Non possum, Erasistratici, vos magnopere non admirari, qui, cum inter Erasistrati laudes et alia multa et illud in primis jactetis, convixisse Theophrasto Erasistratum, rationales disciplinas aspernari audeatis, sine quibus nec Theophrastus, nec Theophrasti magister Aristoteles scribere quicquam aggressus est. Ob haec ipsorum quidam vix tandem erubescentes et tanquam e profundo somno excitati, non amplius indocte et ferine, sed erudite et humane ad me conversi disceptare coeperunt. Et quid, dicebant, plus conficitur hac oratione, quam non et sanguinem arteriae continent et a corde spiritu replentur. Tumque nos asserebamus, illud eos male ita inferre: non igitur sanguinem arteriae continent; neque enim istud esse, quod inferri debeat, sed illud, non posse in idem concurrere, ut et sanguinem arteriae contineant et a corde spiritu repleantur. Subinde rursus ex hoc aliquando sanguinem ipsas continere deduximus, fuitque deductio talis: si sanguinem arteriae continent, a corde spiritu non implentur: sed sanguinem arteriae continent: igitur a corde spiritu non implentur. Ab his rursus, si voluerimus in memoriam reducere, quae superius dicebamus, ita pereontabimur: si plenae sanguinis magnae arteriae sunt, ordinemque in pulsando servant et item alias, quae ab eis oriuntur, eodem tenore moveri non prohibent, vel quia spiritu replentur a corde, vel aliqua alia de causa pulsant: non primum: ergo secundum. Item deinceps interrogabimus ita: vel, quia spiritu a corde complentur, extenduntur: vel, quia distenduntur, arteriae complentur: non ob primum: ergo ob secundum: nam cum vis quaedam arteriarum tunicis insit, qua distendantur, quidquid ipsis circumquaque vicinum est, attrahunt, undecunque in eas concedat. Exemplis adhuc magis intelliges, quid intersit inter id, quod extenditur, quia repletur, et id, quod impletur, quia distenditur. Utres et sacculi, si replentur, extenduntur, fabriles autem folles ideo replentur, quia extenduntur: arterias igitur vel ut utres vel ut folles impleri perspicuum esse debet unicuique. Quonam autem pacto rei veritas se habeat, a nobis quidem est in aliis commentariis plene demonstratum: quanquam non parum et nunc constiterit, extentas arterias extremis partibus et foraminibus ex quocunque loco sibi vicino attrahere, quicquid ipsarum sinus implere idoneum fuerit: nam vel hoc, vel oppositum verum est: ostendimus autem, oppositum falsum esse: hoc igitur verum esse relinquit.",
-    "line": 14,
+    "line": 0,
     "page": "4.731",
     "tokens": [
       "Cap.",
@@ -8809,7 +8298,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:7"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 0,
     "page": "4.731",
@@ -8817,21 +8305,10 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 14,
-    "page": "4.731",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "8",
     "tagname": "num",
     "char_offset": 0,
-    "line": 15,
+    "line": 0,
     "page": "4.731",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
@@ -8842,7 +8319,7 @@
     "type": "head",
     "tagname": "label",
     "char_offset": 0,
-    "line": 15,
+    "line": 0,
     "page": "4.731",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
@@ -8850,7 +8327,6 @@
     "end_token_offset": "VIII.[1]"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 52,
     "page": "4.731",
@@ -8858,7 +8334,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 105,
     "page": "4.731",
@@ -8866,7 +8341,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 168,
     "page": "4.731",
@@ -8874,7 +8348,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 222,
     "page": "4.731",
@@ -8889,7 +8362,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 279,
     "page": "4.732",
@@ -8897,7 +8369,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 329,
     "page": "4.732",
@@ -8905,7 +8376,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 383,
     "page": "4.732",
@@ -8913,7 +8383,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 432,
     "page": "4.732",
@@ -8921,7 +8390,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 485,
     "page": "4.732",
@@ -8929,7 +8397,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 551,
     "page": "4.732",
@@ -8937,7 +8404,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 591,
     "page": "4.732",
@@ -8945,7 +8411,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 658,
     "page": "4.732",
@@ -8953,7 +8418,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 703,
     "page": "4.732",
@@ -8961,7 +8425,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 756,
     "page": "4.732",
@@ -8969,7 +8432,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 812,
     "page": "4.732",
@@ -8977,7 +8439,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 862,
     "page": "4.732",
@@ -8985,7 +8446,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 918,
     "page": "4.732",
@@ -8993,7 +8453,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 979,
     "page": "4.732",
@@ -9001,7 +8460,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1028,
     "page": "4.732",
@@ -9009,7 +8467,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 1075,
     "page": "4.732",
@@ -9017,7 +8474,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 1128,
     "page": "4.732",
@@ -9025,7 +8481,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 1174,
     "page": "4.732",
@@ -9040,7 +8495,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 1230,
     "page": "4.733",
@@ -9048,7 +8502,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 1291,
     "page": "4.733",
@@ -9056,7 +8509,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 1338,
     "page": "4.733",
@@ -9064,7 +8516,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 1398,
     "page": "4.733",
@@ -9072,7 +8523,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 1449,
     "page": "4.733",
@@ -9080,7 +8530,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 1502,
     "page": "4.733",
@@ -9088,7 +8537,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 1555,
     "page": "4.733",
@@ -9096,7 +8544,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 1605,
     "page": "4.733",
@@ -9104,7 +8551,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 1658,
     "page": "4.733",
@@ -9112,7 +8558,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 1716,
     "page": "4.733",
@@ -9120,7 +8565,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 1770,
     "page": "4.733",
@@ -9128,7 +8572,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 1836,
     "page": "4.733",
@@ -9136,7 +8579,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 1879,
     "page": "4.733",
@@ -9144,7 +8586,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 1938,
     "page": "4.733",
@@ -9152,7 +8593,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 1998,
     "page": "4.733",
@@ -9160,7 +8600,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 2055,
     "page": "4.733",
@@ -9168,7 +8607,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 2103,
     "page": "4.733",
@@ -9176,7 +8614,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 2154,
     "page": "4.733",
@@ -9191,7 +8628,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 2219,
     "page": "4.734",
@@ -9199,7 +8635,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 2268,
     "page": "4.734",
@@ -9207,7 +8642,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 2325,
     "page": "4.734",
@@ -9215,7 +8649,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 2377,
     "page": "4.734",
@@ -9223,7 +8656,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 2430,
     "page": "4.734",
@@ -9231,7 +8663,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 2486,
     "page": "4.734",
@@ -9239,7 +8670,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 2541,
     "page": "4.734",
@@ -9247,7 +8677,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 2599,
     "page": "4.734",
@@ -9255,7 +8684,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 2648,
     "page": "4.734",
@@ -9263,7 +8691,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 2707,
     "page": "4.734",
@@ -9273,7 +8700,7 @@
   {
     "tagname": "sic",
     "char_offset": 2747,
-    "line": 11,
+    "line": 0,
     "page": "4.734",
     "token_offset": "concessisset,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
@@ -9283,7 +8710,7 @@
   {
     "tagname": "corr",
     "char_offset": 2762,
-    "line": 11,
+    "line": 0,
     "page": "4.734",
     "token_offset": "radeo[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
@@ -9293,7 +8720,7 @@
   {
     "tagname": "choice",
     "char_offset": 2747,
-    "line": 11,
+    "line": 0,
     "page": "4.734",
     "token_offset": "concessisset,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
@@ -9301,7 +8728,6 @@
     "end_token_offset": "adeo[2]"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 2786,
     "page": "4.734",
@@ -9309,7 +8735,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 2833,
     "page": "4.734",
@@ -9317,7 +8742,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 2891,
     "page": "4.734",
@@ -9325,7 +8749,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 2946,
     "page": "4.734",
@@ -9333,7 +8756,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3008,
     "page": "4.734",
@@ -9341,7 +8763,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 3057,
     "page": "4.734",
@@ -9349,7 +8770,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 3111,
     "page": "4.734",
@@ -9357,7 +8777,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 3168,
     "page": "4.734",
@@ -9372,7 +8791,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 3226,
     "page": "4.735",
@@ -9380,7 +8798,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 3280,
     "page": "4.735",
@@ -9388,7 +8805,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 3331,
     "page": "4.735",
@@ -9396,7 +8812,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 3389,
     "page": "4.735",
@@ -9404,7 +8819,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 3449,
     "page": "4.735",
@@ -9412,7 +8826,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 6,
     "tagname": "lb",
     "char_offset": 3495,
     "page": "4.735",
@@ -9420,7 +8833,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 7,
     "tagname": "lb",
     "char_offset": 3553,
     "page": "4.735",
@@ -9428,7 +8840,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 8,
     "tagname": "lb",
     "char_offset": 3613,
     "page": "4.735",
@@ -9436,7 +8847,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 9,
     "tagname": "lb",
     "char_offset": 3659,
     "page": "4.735",
@@ -9444,7 +8854,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 10,
     "tagname": "lb",
     "char_offset": 3712,
     "page": "4.735",
@@ -9452,7 +8861,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 11,
     "tagname": "lb",
     "char_offset": 3771,
     "page": "4.735",
@@ -9460,7 +8868,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 12,
     "tagname": "lb",
     "char_offset": 3829,
     "page": "4.735",
@@ -9468,7 +8875,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 13,
     "tagname": "lb",
     "char_offset": 3887,
     "page": "4.735",
@@ -9476,7 +8882,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 14,
     "tagname": "lb",
     "char_offset": 3939,
     "page": "4.735",
@@ -9484,7 +8889,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 15,
     "tagname": "lb",
     "char_offset": 3995,
     "page": "4.735",
@@ -9492,7 +8896,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 16,
     "tagname": "lb",
     "char_offset": 4051,
     "page": "4.735",
@@ -9500,7 +8903,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 17,
     "tagname": "lb",
     "char_offset": 4110,
     "page": "4.735",
@@ -9508,7 +8910,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 18,
     "tagname": "lb",
     "char_offset": 4165,
     "page": "4.735",
@@ -9523,7 +8924,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 4215,
     "page": "4.736",
@@ -9531,7 +8931,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 4267,
     "page": "4.736",
@@ -9539,7 +8938,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 3,
     "tagname": "lb",
     "char_offset": 4326,
     "page": "4.736",
@@ -9547,7 +8945,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 4,
     "tagname": "lb",
     "char_offset": 4379,
     "page": "4.736",
@@ -9555,7 +8952,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
-    "n": 5,
     "tagname": "lb",
     "char_offset": 4433,
     "page": "4.736",
@@ -9563,11 +8959,22 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8"
   },
   {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 0,
+    "page": "4.731",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.verbatim-lat1:8",
+    "end_char_offset": 4459,
+    "end_token_offset": "possent.[1]"
+  },
+  {
     "type": "textpart",
     "subtype": "chapter",
     "n": "8",
     "content": "Cap. VIII. Quocirca, cum abigunt, quo modo spiritus in totum corpus a corde feratur, si plenae sanguinis arteriae sint, difficile non est ejusmodi dubitationem solvere et dicere, non ferri, sed trahi spiritum in arteriis, nec a corde solo, sed undequaque, sicut Herophilo placet et ante Herophilum Praxagorae, Philotimo, Diocli, Plistonico, Hippocrati et aliis sexcentis. Vim tamen, quae arterias extendit, a corde ceu fonte quodam manare, a nobis est in aliis libris explicatum et ab omnibus antedictis viris concessum: longeque magis investigatorem naturae decet ita opinari, quam putare, spiritum per arterias ceu per lapideos canales ferri: facultatibus etenim agendi, non corporis mole, viventia a non viventibus differunt. Verum de his in praesentia disputare non intendimus: neque enim, ut in finem usque sermonem hunc persequeremur, eum inceperamus, cum satis superque hisce de rebus alias a nobis disceptatum sit, praesertim vero in libris, quos de placitis Hippocratis et Platonis emisimus: caeterum, ut ostenderemus, quibus rebus decepti sectatores Erasistrati in absurdam adeo sententiam devenerint, harum opinionum mentionem facere coacti sumus, quibus si unum etiam addidero, quod e corporum dissectione collegimus, finem dicendi faciam: est autem id, quod dicimus, hujusmodi. Arteriam unam e magnis et conspicuis quampiam, si voles, nudabis: primoque pelle remota ipsam ab adjacenti suppositoque corpore tamdiu separare non graveris, quoad filum circum immittere valeas: deinde secundum longitudinem arteriam incide, calamumque et concavum et pervium in foramen intrude, vel aeneam aliquam fistulam, quo et vulnus obturetur et sanguis exilire non possit: quoadusque sic se arteriam habere conspicies, ipsam totam pulsare videbis: cum primum vero obductum filum in laqueum contrahens arteriae tunicas calamo obstrinxeris, non amplius arteriam ultra laqueum pulsare videbis, etiamsi spiritus et sanguis ad arteriam, quae est ultra filum, sicuti prius faciebat, per concavitatem calami feratur: quod si propterea pulsabant arteriae, pulsarent etiam nunc partes, quae sunt ultra laqueum: sed non pulsant: igitur perspicuum est, quoniam moveri posse desinunt, non per spiritum in concavitatibus discurrentem, se d ob virtutem in tunicas transmissam arterias a corde moveri. Nam quae Erasistratus de motu arteriarum prodidit, falsa prorsus sunt. Ante enim quam nudata arteria in partibus, quae ultra laqueum sunt, moveri desistat, videre licet (quod nec fieri antea oportebat, quam ea laqueo obligaretur), totam uno tempore moveri, non autem hanc quidem partem prius, ut vult Erasistratus, illam vero posterius. Atque haec ipsi vehementer absurda contingunt. Nam si prius, quam sanguis in arterias veniret, aliquis forsitan concessisset, celerite radeo celeriter adeo spiritum in arterias ferri, ut, quaenam pars arteriarum prius et quae posterius attolleretur, sensum lateret: cum plenae sanguine fuerint, fieri non potest, ut spiritus tam cito, sicut ante, a corde in extremas arterias perveniat. Quod si hoc, ut dixi, aliquis forsan concederet: saltem post immissionem concavi calami motus arteriae ultra calamum, antea quam filum obstringas, et obstricto filo quies ejusdem subsecuta plane demonstrat, non corpus aliquod per arteriarum concavitates a corde protrudi, sed motricem qualitatem per earum tunicas ab eodem submitti, quae illas distendit. Ut enim, si digitum pedis movere decrevimus, ipsum statim movemus, non quia decernens facultas in digito resideat, sed quia momento temporis vis quaedam in eum transmittitur, ita et a corde quaedam motrix facultas in omnes arterias illico delegatur: facultatibus enim movendi celeritas convenit, corporibus eadem adversatur. Hanc positionem siquis, ut Aristoteles dicere solebat, tenuerit, quae proposuerit, scio, certe demonstrabit: sin contentionis cupidus tenere noluerit, neque hac, neque alia demonstratione persuaderi poterit, et ab iis, quae in corporum dissectionibus manifeste constant, dissentire cogetur: etiamsi quasdam dissecandi formulas aliqui conscripserint, in quibus se pollicentur arterias vacuas sanguine monstraturos, sed ubi ad rem ventum est, mendaces deprehenduntur: quod tamen mirum esse nemini debet, cum et Erasistratus ipse longe majora se monstraturum recipiat. Verum qui in dissectione corporum mentitur, is nullam sibi fidei partem relinquit: quanquam Erasistratus nequaquam fuit adeo impudens, ut ea scribere sit aggressus, quae a quoque conspici nunquam possent.",
-    "line": 6,
+    "line": 0,
     "page": "4.736",
     "tokens": [
       "Cap.",

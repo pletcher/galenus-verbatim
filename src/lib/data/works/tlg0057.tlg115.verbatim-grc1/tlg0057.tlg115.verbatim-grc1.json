@@ -7,7 +7,6 @@
     "urn": null
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 27,
     "page": "19.1",
@@ -15,22 +14,21 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
   },
   {
-    "tagname": "head",
-    "char_offset": 0,
-    "line": 1,
-    "page": "19.1",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 27,
-    "end_token_offset": "ΕΞΕΛΕΓΧΕΙΝ[1]"
-  },
-  {
-    "n": 2,
     "tagname": "lb",
     "char_offset": 48,
     "page": "19.1",
     "token_offset": "ΠΡΟΣΠΟΙΟΥΜΕΝΟΥΣ[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
+  },
+  {
+    "tagname": "head",
+    "char_offset": 0,
+    "line": 0,
+    "page": "19.1",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
+    "end_char_offset": 56,
+    "end_token_offset": "ΝΟΣΕΙΝ.[1]"
   },
   {
     "n": "1",
@@ -39,41 +37,6 @@
     "page": "19.1",
     "token_offset": "ΝΟΣΕΙΝ.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 56,
-    "line": 3,
-    "page": "19.1",
-    "token_offset": "ΝΟΣΕΙΝ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 56,
-    "end_token_offset": "ΝΟΣΕΙΝ.[1]"
-  },
-  {
-    "unit": "ed2page",
-    "n": "8.916",
-    "tagname": "milestone",
-    "char_offset": 56,
-    "line": 1,
-    "page": "19.1",
-    "token_offset": "ΝΟΣΕΙΝ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 56,
-    "end_token_offset": "ΝΟΣΕΙΝ.[1]"
-  },
-  {
-    "unit": "ed1page",
-    "n": "3.368",
-    "tagname": "milestone",
-    "char_offset": 56,
-    "line": 1,
-    "page": "19.1",
-    "token_offset": "ΝΟΣΕΙΝ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 56,
-    "end_token_offset": "ΝΟΣΕΙΝ.[1]"
   },
   {
     "n": "2",
@@ -251,18 +214,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
   },
   {
-    "unit": "ed1page",
-    "n": "3.369",
-    "tagname": "milestone",
-    "char_offset": 1183,
-    "line": 16,
-    "page": "19.2",
-    "token_offset": "ἐφ’[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 1183,
-    "end_token_offset": "ἐφ’[1]"
-  },
-  {
     "n": "17",
     "tagname": "lb",
     "char_offset": 1212,
@@ -308,18 +259,6 @@
     "page": "19.3",
     "token_offset": "ἐπίστατο[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
-  },
-  {
-    "unit": "ed2page",
-    "n": "8.917",
-    "tagname": "milestone",
-    "char_offset": 1474,
-    "line": 3,
-    "page": "19.3",
-    "token_offset": "κωλικῶς,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 1474,
-    "end_token_offset": "κωλικῶς,[1]"
   },
   {
     "n": "4",
@@ -807,18 +746,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "8.918",
-    "tagname": "milestone",
-    "char_offset": 4605,
-    "line": 13,
-    "page": "19.6",
-    "token_offset": "ὑπομένοντες[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
-    "end_char_offset": 4605,
-    "end_token_offset": "ὑπομένοντες[1]"
-  },
-  {
     "n": "14",
     "tagname": "lb",
     "char_offset": 4652,
@@ -968,6 +895,18 @@
     "page": "19.7",
     "token_offset": "ταραχὴν,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "8.918",
+    "tagname": "milestone",
+    "char_offset": 4605,
+    "line": 13,
+    "page": "19.6",
+    "token_offset": "ὑπομένοντες[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
+    "end_char_offset": 5594,
+    "end_token_offset": "σκοτόδινον.[1]"
   },
   {
     "type": "textpart",
@@ -1837,5 +1776,29 @@
       "σκοτόδινον."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "8.917",
+    "tagname": "milestone",
+    "char_offset": 1474,
+    "line": 3,
+    "page": "19.3",
+    "token_offset": "κωλικῶς,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
+    "end_char_offset": 5594,
+    "end_token_offset": "σκοτόδινον.[1]"
+  },
+  {
+    "unit": "ed1page",
+    "n": "3.369",
+    "tagname": "milestone",
+    "char_offset": 1183,
+    "line": 16,
+    "page": "19.2",
+    "token_offset": "ἐφ’[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
+    "end_char_offset": 5594,
+    "end_token_offset": "σκοτόδινον.[1]"
   }
 ]

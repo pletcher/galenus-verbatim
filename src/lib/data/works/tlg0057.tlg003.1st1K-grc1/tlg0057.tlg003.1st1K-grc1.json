@@ -7,7 +7,6 @@
     "urn": null
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 27,
     "page": "1.53",
@@ -17,12 +16,12 @@
   {
     "tagname": "head",
     "char_offset": 0,
-    "line": 1,
+    "line": 0,
     "page": "1.53",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 27,
-    "end_token_offset": "ΙΑΤΡΟΣ[1]"
+    "end_char_offset": 42,
+    "end_token_offset": "ΦΙΛΟΣΟΦΟΣ.[1]"
   },
   {
     "n": "1",
@@ -31,17 +30,6 @@
     "page": "1.53",
     "token_offset": "ΦΙΛΟΣΟΦΟΣ.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
-  },
-  {
-    "rend": "nonindented",
-    "tagname": "p",
-    "char_offset": 42,
-    "line": 2,
-    "page": "1.53",
-    "token_offset": "ΦΙΛΟΣΟΦΟΣ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 42,
-    "end_token_offset": "ΦΙΛΟΣΟΦΟΣ.[1]"
   },
   {
     "n": "2",
@@ -274,18 +262,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
   },
   {
-    "unit": "ed2page",
-    "n": "2.357",
-    "tagname": "milestone",
-    "char_offset": 1579,
-    "line": 2,
-    "page": "1.55",
-    "token_offset": "ἀνάσχοιντο·[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 1579,
-    "end_token_offset": "ἀνάσχοιντο·[1]"
-  },
-  {
     "n": "3",
     "tagname": "lb",
     "char_offset": 1596,
@@ -348,18 +324,6 @@
     "page": "1.55",
     "token_offset": "ῥᾴδιον.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.9",
-    "tagname": "milestone",
-    "char_offset": 1977,
-    "line": 10,
-    "page": "1.55",
-    "token_offset": "μοι[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 1977,
-    "end_token_offset": "μοι[1]"
   },
   {
     "n": "11",
@@ -765,18 +729,6 @@
     "page": "1.58",
     "token_offset": "καὶ[33]",
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
-  },
-  {
-    "unit": "ed2page",
-    "n": "2.358",
-    "tagname": "milestone",
-    "char_offset": 4544,
-    "line": 7,
-    "page": "1.58",
-    "token_offset": "ἀφίκοιτό[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 4544,
-    "end_token_offset": "ἀφίκοιτό[1]"
   },
   {
     "n": "8",
@@ -1240,18 +1192,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
   },
   {
-    "unit": "ed2page",
-    "n": "2.359",
-    "tagname": "milestone",
-    "char_offset": 7540,
-    "line": 13,
-    "page": "1.61",
-    "token_offset": "τινος[2]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 7540,
-    "end_token_offset": "τινος[2]"
-  },
-  {
     "n": "14",
     "tagname": "lb",
     "char_offset": 7559,
@@ -1379,18 +1319,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
   },
   {
-    "unit": "ed1page",
-    "n": "1.10",
-    "tagname": "milestone",
-    "char_offset": 8327,
-    "line": 12,
-    "page": "1.62",
-    "token_offset": "καὶ[95]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
-    "end_char_offset": 8327,
-    "end_token_offset": "καὶ[95]"
-  },
-  {
     "n": "13",
     "tagname": "lb",
     "char_offset": 8383,
@@ -1468,6 +1396,18 @@
     "page": "1.63",
     "token_offset": "τὰ[13]",
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
+  },
+  {
+    "unit": "ed1page",
+    "n": "1.10",
+    "tagname": "milestone",
+    "char_offset": 8327,
+    "line": 12,
+    "page": "1.62",
+    "token_offset": "καὶ[95]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
+    "end_char_offset": 8841,
+    "end_token_offset": "ἐξευρίσκοντας.[1]"
   },
   {
     "type": "textpart",
@@ -2867,5 +2807,29 @@
       "ἐξευρίσκοντας."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium"
+  },
+  {
+    "unit": "ed2page",
+    "n": "2.359",
+    "tagname": "milestone",
+    "char_offset": 7540,
+    "line": 13,
+    "page": "1.61",
+    "token_offset": "τινος[2]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
+    "end_char_offset": 8841,
+    "end_token_offset": "ἐξευρίσκοντας.[1]"
+  },
+  {
+    "unit": "ed2page",
+    "n": "2.358",
+    "tagname": "milestone",
+    "char_offset": 4544,
+    "line": 7,
+    "page": "1.58",
+    "token_offset": "ἀφίκοιτό[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:Prooemium",
+    "end_char_offset": 8841,
+    "end_token_offset": "ἐξευρίσκοντας.[1]"
   }
 ]

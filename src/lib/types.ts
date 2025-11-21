@@ -1,3 +1,12 @@
+export interface Line extends TextElement {
+	elements?: TextElement[];
+}
+
+export interface Section extends Textpart {
+	lines: Line[];
+	preText: string;
+}
+
 export type TextpartSubtype = 'book' | 'chapter' | 'section';
 
 export type TableOfContentsEntry = {
@@ -34,6 +43,15 @@ export type Textpart = {
 	page: string;
 	tokens: Array<string>;
 	urn: string;
+};
+
+export type Word = {
+	offset: number;
+	text: string;
+	textElements?: (TextElement | undefined)[];
+	urn_index: number;
+	urn: string;
+	xml_id: string;
 };
 
 export type WorkMetadata = {

@@ -7,7 +7,6 @@
     "urn": null
   },
   {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 24,
     "page": "2.779",
@@ -17,12 +16,12 @@
   {
     "tagname": "head",
     "char_offset": 0,
-    "line": 1,
+    "line": 0,
     "page": "2.779",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
-    "end_char_offset": 24,
-    "end_token_offset": "ΚΑΙ[1]"
+    "end_char_offset": 43,
+    "end_token_offset": "ΑΝΑΤΟΜΗΣ.[1]"
   },
   {
     "n": "1",
@@ -31,17 +30,6 @@
     "page": "2.779",
     "token_offset": "ΑΝΑΤΟΜΗΣ.[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 43,
-    "line": 2,
-    "page": "2.779",
-    "token_offset": "ΑΝΑΤΟΜΗΣ.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
-    "end_char_offset": 43,
-    "end_token_offset": "ΑΝΑΤΟΜΗΣ.[1]"
   },
   {
     "value": "1",
@@ -326,18 +314,6 @@
     "page": "2.781",
     "token_offset": "ἀναφερομένη[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.226",
-    "tagname": "milestone",
-    "char_offset": 1718,
-    "line": 9,
-    "page": "2.781",
-    "token_offset": "ἀναφερομένη[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
-    "end_char_offset": 1718,
-    "end_token_offset": "ἀναφερομένη[1]"
   },
   {
     "n": "10",
@@ -690,18 +666,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1"
   },
   {
-    "unit": "ed1page",
-    "n": "1.198",
-    "tagname": "milestone",
-    "char_offset": 4026,
-    "line": 15,
-    "page": "2.783",
-    "token_offset": "τῆς[19]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
-    "end_char_offset": 4026,
-    "end_token_offset": "τῆς[19]"
-  },
-  {
     "n": "16",
     "tagname": "lb",
     "char_offset": 4034,
@@ -835,18 +799,6 @@
     "page": "2.784",
     "token_offset": "ὑπάρχουσαι,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.227",
-    "tagname": "milestone",
-    "char_offset": 4831,
-    "line": 13,
-    "page": "2.784",
-    "token_offset": "τὴν[13]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
-    "end_char_offset": 4831,
-    "end_token_offset": "τὴν[13]"
   },
   {
     "n": "14",
@@ -1022,6 +974,18 @@
     "page": "2.785",
     "token_offset": "κατασχιζομένων[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.227",
+    "tagname": "milestone",
+    "char_offset": 4831,
+    "line": 13,
+    "page": "2.784",
+    "token_offset": "τὴν[13]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:1",
+    "end_char_offset": 5965,
+    "end_token_offset": "φλεβῶν.[3]"
   },
   {
     "type": "textpart",
@@ -2027,17 +1991,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 17,
-    "page": "2.785",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "2",
     "tagname": "num",
     "char_offset": 0,
@@ -2346,18 +2299,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2"
   },
   {
-    "unit": "ed2page",
-    "n": "4.228",
-    "tagname": "milestone",
-    "char_offset": 1850,
-    "line": 17,
-    "page": "2.787",
-    "token_offset": "εἰσὶν[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2",
-    "end_char_offset": 1850,
-    "end_token_offset": "εἰσὶν[1]"
-  },
-  {
     "n": "18",
     "tagname": "lb",
     "char_offset": 1875,
@@ -2546,6 +2487,18 @@
     "page": "2.789",
     "token_offset": "αὐτὴν[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.228",
+    "tagname": "milestone",
+    "char_offset": 1850,
+    "line": 17,
+    "page": "2.787",
+    "token_offset": "εἰσὶν[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:2",
+    "end_char_offset": 3034,
+    "end_token_offset": "μέγιστον.[1]"
   },
   {
     "type": "textpart",
@@ -3062,17 +3015,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 3,
-    "page": "2.789",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "3",
     "tagname": "num",
     "char_offset": 0,
@@ -3262,18 +3204,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3"
   },
   {
-    "unit": "ed1page",
-    "n": "1.199",
-    "tagname": "milestone",
-    "char_offset": 1066,
-    "line": 7,
-    "page": "2.790",
-    "token_offset": "φλέβας,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3",
-    "end_char_offset": 1066,
-    "end_token_offset": "φλέβας,[1]"
-  },
-  {
     "n": "8",
     "tagname": "lb",
     "char_offset": 1115,
@@ -3375,18 +3305,6 @@
     "page": "2.791",
     "token_offset": "τρόπον[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.229",
-    "tagname": "milestone",
-    "char_offset": 1720,
-    "line": 2,
-    "page": "2.791",
-    "token_offset": "κατασχιζομένη·[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3",
-    "end_char_offset": 1720,
-    "end_token_offset": "κατασχιζομένη·[1]"
   },
   {
     "n": "3",
@@ -3866,18 +3784,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3"
   },
   {
-    "unit": "ed2page",
-    "n": "4.230",
-    "tagname": "milestone",
-    "char_offset": 4798,
-    "line": 7,
-    "page": "2.794",
-    "token_offset": "σῶμα.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3",
-    "end_char_offset": 4798,
-    "end_token_offset": "σῶμα.[1]"
-  },
-  {
     "n": "8",
     "tagname": "lb",
     "char_offset": 4849,
@@ -3940,6 +3846,18 @@
     "page": "2.794",
     "token_offset": "φλέβες[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.230",
+    "tagname": "milestone",
+    "char_offset": 4798,
+    "line": 7,
+    "page": "2.794",
+    "token_offset": "σῶμα.[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:3",
+    "end_char_offset": 5240,
+    "end_token_offset": "ἔχουσιν.[1]"
   },
   {
     "type": "textpart",
@@ -4828,17 +4746,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:4"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 15,
-    "page": "2.794",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:4",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "4",
     "tagname": "num",
     "char_offset": 0,
@@ -5073,6 +4980,17 @@
     "page": "2.796",
     "token_offset": "χεῖράς[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:4"
+  },
+  {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 15,
+    "page": "2.794",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:4",
+    "end_char_offset": 1379,
+    "end_token_offset": "φλεβῶν.[1]"
   },
   {
     "type": "textpart",
@@ -5322,17 +5240,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 7,
-    "page": "2.796",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "5",
     "tagname": "num",
     "char_offset": 0,
@@ -5458,18 +5365,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5"
   },
   {
-    "unit": "ed2page",
-    "n": "4.231",
-    "tagname": "milestone",
-    "char_offset": 686,
-    "line": 2,
-    "page": "2.797",
-    "token_offset": "μυσὶ,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5",
-    "end_char_offset": 686,
-    "end_token_offset": "μυσὶ,[1]"
-  },
-  {
     "n": "3",
     "tagname": "lb",
     "char_offset": 690,
@@ -5492,18 +5387,6 @@
     "page": "2.797",
     "token_offset": "κάτωθεν[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.200",
-    "tagname": "milestone",
-    "char_offset": 815,
-    "line": 5,
-    "page": "2.797",
-    "token_offset": "φερομένων,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5",
-    "end_char_offset": 815,
-    "end_token_offset": "φερομένων,[1]"
   },
   {
     "n": "6",
@@ -5647,6 +5530,18 @@
     "page": "2.798",
     "token_offset": "φερομένης[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5"
+  },
+  {
+    "unit": "ed1page",
+    "n": "1.200",
+    "tagname": "milestone",
+    "char_offset": 815,
+    "line": 5,
+    "page": "2.797",
+    "token_offset": "φερομένων,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:5",
+    "end_char_offset": 1754,
+    "end_token_offset": "ἐκτείνονται.[1]"
   },
   {
     "type": "textpart",
@@ -5946,17 +5841,6 @@
     "page": "2.798",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 5,
-    "page": "2.798",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6",
-    "end_char_offset": 0,
-    "end_token_offset": null
   },
   {
     "value": "6",
@@ -6267,18 +6151,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6"
   },
   {
-    "unit": "ed2page",
-    "n": "4.232",
-    "tagname": "milestone",
-    "char_offset": 1854,
-    "line": 6,
-    "page": "2.800",
-    "token_offset": "ἀναφερομένῃ·[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6",
-    "end_char_offset": 1854,
-    "end_token_offset": "ἀναφερομένῃ·[1]"
-  },
-  {
     "n": "7",
     "tagname": "lb",
     "char_offset": 1890,
@@ -6436,6 +6308,18 @@
     "page": "2.801",
     "token_offset": "ἀποφύονται,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.232",
+    "tagname": "milestone",
+    "char_offset": 1854,
+    "line": 6,
+    "page": "2.800",
+    "token_offset": "ἀναφερομένῃ·[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:6",
+    "end_char_offset": 2913,
+    "end_token_offset": "διασπειρόμεναι.[1]"
   },
   {
     "type": "textpart",
@@ -6917,17 +6801,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 8,
-    "page": "2.801",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "7",
     "tagname": "num",
     "char_offset": 0,
@@ -7244,18 +7117,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7"
   },
   {
-    "unit": "ed2page",
-    "n": "4.233",
-    "tagname": "milestone",
-    "char_offset": 1899,
-    "line": 10,
-    "page": "2.803",
-    "token_offset": "γυμνάς.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7",
-    "end_char_offset": 1899,
-    "end_token_offset": "γυμνάς.[1]"
-  },
-  {
     "n": "11",
     "tagname": "lb",
     "char_offset": 1938,
@@ -7349,18 +7210,6 @@
     "page": "2.804",
     "token_offset": "ταὐτὸν[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.201",
-    "tagname": "milestone",
-    "char_offset": 2512,
-    "line": 3,
-    "page": "2.804",
-    "token_offset": "ἐπιπολῆς[4]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7",
-    "end_char_offset": 2512,
-    "end_token_offset": "ἐπιπολῆς[4]"
   },
   {
     "n": "4",
@@ -7761,18 +7610,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7"
   },
   {
-    "unit": "ed2page",
-    "n": "4.234",
-    "tagname": "milestone",
-    "char_offset": 5110,
-    "line": 17,
-    "page": "2.806",
-    "token_offset": "κεφαλῆς,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7",
-    "end_char_offset": 5110,
-    "end_token_offset": "κεφαλῆς,[1]"
-  },
-  {
     "n": "2.807",
     "tagname": "pb",
     "char_offset": 5122,
@@ -7898,6 +7735,18 @@
     "page": "2.807",
     "token_offset": "τῶν[34]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.234",
+    "tagname": "milestone",
+    "char_offset": 5110,
+    "line": 17,
+    "page": "2.806",
+    "token_offset": "κεφαλῆς,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:7",
+    "end_char_offset": 5892,
+    "end_token_offset": "ποιούμεθα.[1]"
   },
   {
     "type": "textpart",
@@ -8854,17 +8703,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 15,
-    "page": "2.807",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "8",
     "tagname": "num",
     "char_offset": 0,
@@ -9236,18 +9074,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8"
   },
   {
-    "unit": "ed2page",
-    "n": "4.235",
-    "tagname": "milestone",
-    "char_offset": 2260,
-    "line": 6,
-    "page": "2.810",
-    "token_offset": "μῦς.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8",
-    "end_char_offset": 2260,
-    "end_token_offset": "μῦς.[1]"
-  },
-  {
     "n": "7",
     "tagname": "lb",
     "char_offset": 2271,
@@ -9365,18 +9191,6 @@
     "page": "2.811",
     "token_offset": "μία,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.202",
-    "tagname": "milestone",
-    "char_offset": 3006,
-    "line": 3,
-    "page": "2.811",
-    "token_offset": "οὐδὲν[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8",
-    "end_char_offset": 3006,
-    "end_token_offset": "οὐδὲν[1]"
   },
   {
     "n": "4",
@@ -9743,18 +9557,6 @@
     "page": "2.813",
     "token_offset": "φλέβες[6]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.236",
-    "tagname": "milestone",
-    "char_offset": 5396,
-    "line": 13,
-    "page": "2.813",
-    "token_offset": "μυῶν,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8",
-    "end_char_offset": 5396,
-    "end_token_offset": "μυῶν,[1]"
   },
   {
     "n": "14",
@@ -10200,6 +10002,18 @@
     "page": "2.816",
     "token_offset": "περὶ[3]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.236",
+    "tagname": "milestone",
+    "char_offset": 5396,
+    "line": 13,
+    "page": "2.813",
+    "token_offset": "μυῶν,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:8",
+    "end_char_offset": 8212,
+    "end_token_offset": "ἐροῦμεν.[1]"
   },
   {
     "type": "textpart",
@@ -11576,17 +11390,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 12,
-    "page": "2.816",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "9",
     "tagname": "num",
     "char_offset": 0,
@@ -11623,18 +11426,6 @@
     "page": "2.816",
     "token_offset": "κατασχίζεται[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.237",
-    "tagname": "milestone",
-    "char_offset": 118,
-    "line": 15,
-    "page": "2.816",
-    "token_offset": "λεπτὴ[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
-    "end_char_offset": 118,
-    "end_token_offset": "λεπτὴ[1]"
   },
   {
     "n": "16",
@@ -11802,18 +11593,6 @@
     "page": "2.817",
     "token_offset": "τμήμασιν·[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.203",
-    "tagname": "milestone",
-    "char_offset": 1199,
-    "line": 17,
-    "page": "2.817",
-    "token_offset": "τὸ[4]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
-    "end_char_offset": 1199,
-    "end_token_offset": "τὸ[4]"
   },
   {
     "n": "2.818",
@@ -12147,18 +11926,6 @@
     "page": "2.820",
     "token_offset": "ὀστοῦ,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.238",
-    "tagname": "milestone",
-    "char_offset": 3253,
-    "line": 4,
-    "page": "2.820",
-    "token_offset": "ὀστοῦ,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
-    "end_char_offset": 3253,
-    "end_token_offset": "ὀστοῦ,[1]"
   },
   {
     "n": "5",
@@ -12646,18 +12413,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
   },
   {
-    "unit": "ed2page",
-    "n": "4.239",
-    "tagname": "milestone",
-    "char_offset": 6424,
-    "line": 10,
-    "page": "2.823",
-    "token_offset": "κροτάφων.[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
-    "end_char_offset": 6424,
-    "end_token_offset": "κροτάφων.[1]"
-  },
-  {
     "n": "11",
     "tagname": "lb",
     "char_offset": 6452,
@@ -12735,6 +12490,18 @@
     "page": "2.824",
     "token_offset": "φαίνεται[2]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.239",
+    "tagname": "milestone",
+    "char_offset": 6424,
+    "line": 10,
+    "page": "2.823",
+    "token_offset": "κροτάφων.[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:9",
+    "end_char_offset": 6869,
+    "end_token_offset": "ζώων.[1]"
   },
   {
     "type": "textpart",
@@ -13856,17 +13623,6 @@
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10"
   },
   {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 0,
-    "line": 2,
-    "page": "2.824",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
     "value": "10",
     "tagname": "num",
     "char_offset": 0,
@@ -13991,18 +13747,6 @@
     "page": "2.824",
     "token_offset": "κυρτῶν[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10"
-  },
-  {
-    "unit": "ed1page",
-    "n": "1.204",
-    "tagname": "milestone",
-    "char_offset": 715,
-    "line": 16,
-    "page": "2.824",
-    "token_offset": "διεληλυθὸς[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
-    "end_char_offset": 715,
-    "end_token_offset": "διεληλυθὸς[1]"
   },
   {
     "n": "17",
@@ -14257,18 +14001,6 @@
     "page": "2.826",
     "token_offset": "παρατέτανται,[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10"
-  },
-  {
-    "unit": "ed2page",
-    "n": "4.240",
-    "tagname": "milestone",
-    "char_offset": 2285,
-    "line": 13,
-    "page": "2.826",
-    "token_offset": "παρατέτανται,[1]",
-    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
-    "end_char_offset": 2285,
-    "end_token_offset": "παρατέτανται,[1]"
   },
   {
     "n": "14",
@@ -14753,6 +14485,18 @@
     "page": "2.830",
     "token_offset": "παράκειται[1]",
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10"
+  },
+  {
+    "unit": "ed2page",
+    "n": "4.240",
+    "tagname": "milestone",
+    "char_offset": 2285,
+    "line": 13,
+    "page": "2.826",
+    "token_offset": "παρατέτανται,[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
+    "end_char_offset": 5349,
+    "end_token_offset": "σχίζεσθαι.[1]"
   },
   {
     "type": "textpart",
@@ -15639,5 +15383,28 @@
       "σχίζεσθαι."
     ],
     "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10"
+  },
+  {
+    "unit": "ed1page",
+    "n": "1.204",
+    "tagname": "milestone",
+    "char_offset": 715,
+    "line": 16,
+    "page": "2.824",
+    "token_offset": "διεληλυθὸς[1]",
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
+    "end_char_offset": 5349,
+    "end_token_offset": "σχίζεσθαι.[1]"
+  },
+  {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 0,
+    "line": 2,
+    "page": "2.824",
+    "token_offset": null,
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1:10",
+    "end_char_offset": 5349,
+    "end_token_offset": "σχίζεσθαι.[1]"
   }
 ]

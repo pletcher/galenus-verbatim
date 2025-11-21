@@ -13,8 +13,17 @@
 	</div>
 
 	<div class="col-span-3">
-		{#each data.textparts as textpart (textpart.urn)}
-			{textpart.content}
+		{#each data.textparts as section (section.urn)}
+			{section.preText}
+			{#each section.lines as line (`${line.urn}-${line.n}-${line.char_offset}`)}
+				{#if line.tagname === 'pb'}
+					<div>
+						{line.n}
+					</div>
+				{:else}
+					<div>{line.n} {line.text}</div>
+				{/if}
+			{/each}
 		{/each}
 	</div>
 </div>

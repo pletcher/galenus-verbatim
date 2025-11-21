@@ -7,19 +7,6 @@
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "8.349",
-    "tagname": "milestone",
-    "char_offset": 0,
-    "line": 1,
-    "page": "19.602",
-    "token_offset": null,
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 0,
-    "end_token_offset": null
-  },
-  {
-    "n": 1,
     "tagname": "lb",
     "char_offset": 22,
     "page": "19.602",
@@ -29,12 +16,12 @@
   {
     "tagname": "head",
     "char_offset": 0,
-    "line": 1,
+    "line": 0,
     "page": "19.602",
     "token_offset": null,
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 22,
-    "end_token_offset": "ΕΝ[1]"
+    "end_char_offset": 32,
+    "end_token_offset": "ΣΥΝΤΟΜΩΙ.[1]"
   },
   {
     "n": "1",
@@ -43,29 +30,6 @@
     "page": "19.602",
     "token_offset": "ΣΥΝΤΟΜΩΙ.[1]",
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 32,
-    "line": 2,
-    "page": "19.602",
-    "token_offset": "ΣΥΝΤΟΜΩΙ.[1]",
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 32,
-    "end_token_offset": "ΣΥΝΤΟΜΩΙ.[1]"
-  },
-  {
-    "unit": "ed2page",
-    "n": "8.349",
-    "tagname": "milestone",
-    "char_offset": 32,
-    "line": 1,
-    "page": "19.602",
-    "token_offset": "ΣΥΝΤΟΜΩΙ.[1]",
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 32,
-    "end_token_offset": "ΣΥΝΤΟΜΩΙ.[1]"
   },
   {
     "n": "2",
@@ -273,18 +237,6 @@
     "page": "19.603",
     "token_offset": "τῆς[1]",
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
-  },
-  {
-    "unit": "ed2page",
-    "n": "8.350",
-    "tagname": "milestone",
-    "char_offset": 1401,
-    "line": 18,
-    "page": "19.603",
-    "token_offset": "ἀπεψίας[1]",
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 1401,
-    "end_token_offset": "ἀπεψίας[1]"
   },
   {
     "n": "19.604",
@@ -525,23 +477,24 @@
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
   },
   {
+    "unit": "ed2page",
+    "n": "8.350",
+    "tagname": "milestone",
+    "char_offset": 1401,
+    "line": 18,
+    "page": "19.603",
+    "token_offset": "ἀπεψίας[1]",
+    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
+    "end_char_offset": 2920,
+    "end_token_offset": "παρυφιστάμενον.[2]"
+  },
+  {
     "n": "12",
     "tagname": "lb",
     "char_offset": 2920,
     "page": "19.605",
     "token_offset": "παρυφιστάμενον.[2]",
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
-  },
-  {
-    "rend": "indent",
-    "tagname": "p",
-    "char_offset": 2920,
-    "line": 11,
-    "page": "19.605",
-    "token_offset": "παρυφιστάμενον.[2]",
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 2920,
-    "end_token_offset": "παρυφιστάμενον.[2]"
   },
   {
     "n": "13",
@@ -782,18 +735,6 @@
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
   },
   {
-    "unit": "ed2page",
-    "n": "8.351",
-    "tagname": "milestone",
-    "char_offset": 4449,
-    "line": 4,
-    "page": "19.607",
-    "token_offset": "λεγομένη[1]",
-    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
-    "end_char_offset": 4449,
-    "end_token_offset": "λεγομένη[1]"
-  },
-  {
     "n": "5",
     "tagname": "lb",
     "char_offset": 4490,
@@ -991,6 +932,18 @@
     "page": "19.608",
     "token_offset": "διαγνώσεως[1]",
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
+  },
+  {
+    "unit": "ed2page",
+    "n": "8.351",
+    "tagname": "milestone",
+    "char_offset": 4449,
+    "line": 4,
+    "page": "19.607",
+    "token_offset": "λεγομένη[1]",
+    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
+    "end_char_offset": 5780,
+    "end_token_offset": "θεωρίας.[1]"
   },
   {
     "type": "textpart",
@@ -1941,5 +1894,28 @@
       "θεωρίας."
     ],
     "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1"
+  },
+  {
+    "rend": "indent",
+    "tagname": "p",
+    "char_offset": 2920,
+    "line": 11,
+    "page": "19.605",
+    "token_offset": "παρυφιστάμενον.[2]",
+    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
+    "end_char_offset": 5780,
+    "end_token_offset": "θεωρίας.[1]"
+  },
+  {
+    "unit": "ed2page",
+    "n": "8.349",
+    "tagname": "milestone",
+    "char_offset": 32,
+    "line": 1,
+    "page": "19.602",
+    "token_offset": "ΣΥΝΤΟΜΩΙ.[1]",
+    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
+    "end_char_offset": 5780,
+    "end_token_offset": "θεωρίας.[1]"
   }
 ]
