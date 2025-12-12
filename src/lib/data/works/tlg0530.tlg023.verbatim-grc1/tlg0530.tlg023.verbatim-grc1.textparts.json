@@ -1,0 +1,4935 @@
+[
+  {
+    "type": "textpart",
+    "subtype": "chapter",
+    "n": "1",
+    "index": 0,
+    "location": [
+      "1"
+    ],
+    "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1",
+    "tokens": [
+      {
+        "text": "ΓΑΛΗΝΟΥ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ΓΑΛΗΝΟΥ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ΠΡΟΓΝΩΣΙΣ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ΠΡΟΓΝΩΣΙΣ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ΠΕΠΕΙΡΑΜΕΝΗ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ΠΕΠΕΙΡΑΜΕΝΗ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ΚΑΙ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ΚΑΙ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ΠΑΝΑΛΗΘΗΣ.",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ΠΑΝΑΛΗΘΗΣ.[1]",
+        "whitespace": false
+      },
+      {
+        "text": "Κεφ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@Κεφ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αʹ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@αʹ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[2]",
+        "whitespace": false
+      },
+      {
+        "text": "Τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@Τὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θέλοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@θέλοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προγινώσκειν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@προγινώσκειν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@οὐ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μόνον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μόνον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡμέραν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἡμέραν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θανάτου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@θανάτου[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀλλὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀλλὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὥραν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὥραν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σκοπεῖν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σκοπεῖν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χρὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@χρὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἐν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τίνι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τίνι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μάλιστα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μάλιστα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καιρῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καιρῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "παροξυσμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@παροξυσμοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "βαρύνοιτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@βαρύνοιτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μεγάλως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μεγάλως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὁ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κάμνων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κάμνων[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[3]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μὲν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@γὰρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κατὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κατὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰσβολὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰσβολὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αὐτοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@αὐτοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καταψύχει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καταψύχει[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τότε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τότε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφοδρῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σφοδρῶς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δυσεκθέρμαντος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@δυσεκθέρμαντος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄχρους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἄχρους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄχρι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἄχρι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πλείστου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πλείστου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μένει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μένει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "μικρόσφυκτος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μικρόσφυκτος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γένοιτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@γένοιτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "κοιμηθῆ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κοιμηθῆ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "νωθρῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@νωθρῶς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "κωματώδης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κωματώδης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἤ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἤ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοιοῦτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοιοῦτον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἕτερον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἕτερον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πάσχοι·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πάσχοι·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦτον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑφορᾶσθαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὑφορᾶσθαι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μάλιστα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μάλιστα[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καιρὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καιρὸν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[3]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "οὗτος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@οὗτος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μέτριος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μέτριος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἴη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἴη[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[4]",
+        "whitespace": true
+      },
+      {
+        "text": "περὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@περὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@δὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀκμὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀκμὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἤν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἤν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καταφερόμενον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καταφερόμενον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄῤῥωστον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἄῤῥωστον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "παραπαίοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@παραπαίοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀλύοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀλύοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "βλέπῃς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@βλέπῃς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πυρετοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μέγεθος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μέγεθος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐχ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@οὐχ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑπομένοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὑπομένοντα[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διακαιόμενόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@διακαιόμενόν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τε[2]",
+        "whitespace": true
+      },
+      {
+        "text": "σφοδρῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σφοδρῶς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "σκοτοδινιῶντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σκοτοδινιῶντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "κεφαλαλγοῦντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κεφαλαλγοῦντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[10]",
+        "whitespace": true
+      },
+      {
+        "text": "καρδιώσσοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καρδιώσσοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἤ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἤ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τοιοῦτοv",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοιοῦτοv[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἕτερον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἕτερον[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πάσχοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πάσχοντα[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[4]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦτον[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑποπτεύειν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὑποπτεύειν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μάλιστα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μάλιστα[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καιρὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καιρὸν[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[5]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@δὲ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[11]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀρχῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀρχῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "παροξυσμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@παροξυσμοῦ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[12]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τῆς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀκμῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀκμῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μετρίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μετρίας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γινομένης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@γινομένης[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[5]",
+        "whitespace": true
+      },
+      {
+        "text": "περὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@περὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@δὲ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[5]",
+        "whitespace": true
+      },
+      {
+        "text": "παρακμὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@παρακμὴν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[6]",
+        "whitespace": true
+      },
+      {
+        "text": "λειποψυχίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@λειποψυχίας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τε[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[13]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρῶτας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἱδρῶτας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνωμάλους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀνωμάλους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ψυχροὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ψυχροὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "περὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@περὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "κεφαλὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@κεφαλὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἢ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "στέρνον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@στέρνον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιφέροιτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἐπιφέροιτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[14]",
+        "whitespace": true
+      },
+      {
+        "text": "τοὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφυγμοὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σφυγμοὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀμυδροὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἀμυδροὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[15]",
+        "whitespace": true
+      },
+      {
+        "text": "μικροὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μικροὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐργάζοιτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἐργάζοιτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[16]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τούτοις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τούτοις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐοικότερα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἐοικότερα[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[7]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦτον[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑφορᾶσθαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὑφορᾶσθαι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "μάλιστα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μάλιστα[4]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "καιρόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καιρόν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[6]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[17]",
+        "whitespace": true
+      },
+      {
+        "text": "μὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@μὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διορισθείη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@διορισθείη[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[8]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐδὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@οὐδὲν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔτι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἔτι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χαλεπὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@χαλεπὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐδὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@οὐδὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[6]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡμέραν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἡμέραν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰπεῖν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰπεῖν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τοῦ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "θανάτου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@θανάτου[2]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[7]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[18]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@γὰρ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τῆς[3]",
+        "whitespace": true
+      },
+      {
+        "text": "δευτέρας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@δευτέρας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡμέρας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἡμέρας[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[9]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "τύχῃ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τύχῃ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[10]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὸν[5]",
+        "whitespace": true
+      },
+      {
+        "text": "σφοδρότερον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@σφοδρότερον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "παροξυσμὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@παροξυσμὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐνεγκούσης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἐνεγκούσης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑπὲρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὑπὲρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τῆς[4]",
+        "whitespace": true
+      },
+      {
+        "text": "πρώτης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πρώτης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τε[4]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[19]",
+        "whitespace": true
+      },
+      {
+        "text": "τρίτης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τρίτης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@καὶ[20]",
+        "whitespace": true
+      },
+      {
+        "text": "πέμπτης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@πέμπτης[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@,[11]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@εἰς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@τὴν[7]",
+        "whitespace": true
+      },
+      {
+        "text": "ἕκτην",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἕκτην[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡμέραν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ἡμέραν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@ὁ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "θάνατος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@θάνατος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προδηλωθείη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@προδηλωθείη[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1@.[8]",
+        "whitespace": false
+      }
+    ]
+  },
+  {
+    "type": "textpart",
+    "subtype": "chapter",
+    "n": "2",
+    "index": 1,
+    "location": [
+      "2"
+    ],
+    "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2",
+    "tokens": [
+      {
+        "text": "Κεφ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@Κεφ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[1]",
+        "whitespace": true
+      },
+      {
+        "text": "βʹ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@βʹ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[2]",
+        "whitespace": false
+      },
+      {
+        "text": "Διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@Διὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πέντε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πέντε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρόσθεσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πρόσθεσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιτηδείας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐπιτηδείας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὕλης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὕλης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "κίνησιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@κίνησιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "στέγνωσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@στέγνωσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "σῆψιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σῆψιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "προσομιλίαν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@προσομιλίαν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑτέρου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἑτέρου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@θερμοῦ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@μὲν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρόσθεσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πρόσθεσιν[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὡς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὡς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὅταν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προσενεχθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@προσενεχθῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@θερμὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔχοντι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἔχοντι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κρᾶσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@κρᾶσιν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[2]",
+        "whitespace": true
+      },
+      {
+        "text": "οἷον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@οἷον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πέπερι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πέπερι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[3]",
+        "whitespace": true
+      },
+      {
+        "text": "νᾶπυ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@νᾶπυ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[4]",
+        "whitespace": true
+      },
+      {
+        "text": "σκόροδον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σκόροδον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τούτοις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τούτοις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅμοια·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὅμοια·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀναδοθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀναδοθῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τούτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τούτων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἡ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ποιότης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ποιότης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καρδίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καρδίᾳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκπυρώσει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐκπυρώσει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "αὐτῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@αὐτῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔμφυτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἔμφυτον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@θερμὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξάψει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐξάψει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πυρετόν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[4]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κίνησιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@κίνησιν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "διχῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διχῇ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@γὰρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ψυχικῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ψυχικῶς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "σωματικῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σωματικῶς[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "ψυχικῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ψυχικῶς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@μὲν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὡς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὡς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐπὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θυμῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@θυμῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "φροντίδι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@φροντίδι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[6]",
+        "whitespace": true
+      },
+      {
+        "text": "σωματικῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σωματικῶς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δὲ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὡς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὡς[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐπὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀμέτρῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀμέτρῳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κόπῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@κόπῳ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[5]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δὲ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "στέγνωσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@στέγνωσιν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὅταν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "γλισχρότητα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@γλισχρότητα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[10]",
+        "whitespace": true
+      },
+      {
+        "text": "παχύτητά",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@παχύτητά[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τινα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τινα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ξηρανθῶσι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ξηρανθῶσι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐμφραχθῶσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐμφραχθῶσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@οἱ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄδηλοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἄδηλοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πόροι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πόροι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σώματος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἢ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τὰ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πέρατα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πέρατα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀγγείων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀγγείων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐπὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῇ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "διαπνευστίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διαπνευστίᾳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τοῦ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "βάθους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@βάθους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξαφθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐξαφθῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετός",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πυρετός[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[6]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[11]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δὲ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "σῆψιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σῆψιν[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[7]",
+        "whitespace": true
+      },
+      {
+        "text": "ὡς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὡς[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὅταν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἡ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑποκειμένη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὑποκειμένη[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[10]",
+        "whitespace": true
+      },
+      {
+        "text": "πλεονεκτοῦσα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πλεονεκτοῦσα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὕλη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὕλη[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σαπῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@σαπῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῷ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "βάθει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@βάθει[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[8]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[11]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀναδοθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀναδοθῇ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῇ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καρδίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καρδίᾳ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[12]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνάψῃ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀνάψῃ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πυρετόν[2]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[7]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[12]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δὲ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "προσομιλίαν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@προσομιλίαν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑτέρου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἑτέρου[2]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@θερμοῦ[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@,[9]",
+        "whitespace": true
+      },
+      {
+        "text": "ὡς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὡς[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὅταν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἐν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡλιοκαΐᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἡλιοκαΐᾳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑπερφλεχθείη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ὑπερφλεχθείη[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἡ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "κεφαλὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@κεφαλὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[13]",
+        "whitespace": true
+      },
+      {
+        "text": "μάλιστα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@μάλιστα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τὸ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δικτυοειδὲς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@δικτυοειδὲς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πλέγμα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πλέγμα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[14]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@διὰ[13]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῶν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀρτηριῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀρτηριῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μεταδοθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@μεταδοθῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@τῇ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "καρδίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καρδίᾳ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@καὶ[15]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνάψῃ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@ἀνάψῃ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@πυρετόν[3]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2@.[8]",
+        "whitespace": false
+      }
+    ]
+  },
+  {
+    "type": "textpart",
+    "subtype": "chapter",
+    "n": "3",
+    "index": 2,
+    "location": [
+      "3"
+    ],
+    "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3",
+    "tokens": [
+      {
+        "text": "Κεφ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@Κεφ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γʹ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γʹ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[2]",
+        "whitespace": false
+      },
+      {
+        "text": "Σημεῖα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@Σημεῖα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@δὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰσβολῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἰσβολῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πυρετοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χάσμαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@χάσμαι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[1]",
+        "whitespace": true
+      },
+      {
+        "text": "φρῖκαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@φρῖκαι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[2]",
+        "whitespace": true
+      },
+      {
+        "text": "σκορδινισμοὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σκορδινισμοὶ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[3]",
+        "whitespace": true
+      },
+      {
+        "text": "εἴτουν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἴτουν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀποδιακλασμοὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀποδιακλασμοὶ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ναυτίαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ναυτίαι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[5]",
+        "whitespace": true
+      },
+      {
+        "text": "καταφορὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καταφορὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὕπνου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὕπνου[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[6]",
+        "whitespace": true
+      },
+      {
+        "text": "βηχίον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@βηχίον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μικρὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μικρὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑπότραχυ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὑπότραχυ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[7]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄκρων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἄκρων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κατάψυξις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@κατάψυξις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ταῦτα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ταῦτα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μὲν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔξωθεν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἔξωθεν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γνωρίσματα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γνωρίσματα[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀπὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀπὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@δὲ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφυγμῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σφυγμῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἔκ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σμικρότητος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σμικρότητος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῆς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνωμαλίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀνωμαλίας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διαγινώσκεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διαγινώσκεται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διαλεῖπον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διαλεῖπον[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[4]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μὲν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰσβολῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἰσβολῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κατεπάγει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@κατεπάγει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μᾶλλον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μᾶλλον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἡ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "συστολὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@συστολὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφυγμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σφυγμοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κατά",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@κατά[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τινος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τινος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνωμαλίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀνωμαλίας[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "σμικρότητος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σμικρότητος[2]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@δὲ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῇ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀναβάσει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀναβάσει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μοχθηροί",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μοχθηροί[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πώς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πώς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἰσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπαυξομένης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐπαυξομένης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῆς[3]",
+        "whitespace": true
+      },
+      {
+        "text": "διαστολῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διαστολῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μέχρι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μέχρι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τελείας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τελείας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀκμῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀκμῆς[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιτεινομένης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐπιτεινομένης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@δὲ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῆς[4]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμασίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@θερμασίας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρῶτον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πρῶτον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τὸ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "μέγεθος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μέγεθος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αὔξεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@αὔξεται[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[9]",
+        "whitespace": true
+      },
+      {
+        "text": "εἶτα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἶτα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προσλαμβάνεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@προσλαμβάνεται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τὸ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τάχος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τάχος[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[6]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὅταν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γὰρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱκανῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἱκανῶς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκπυρωθῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐκπυρωθῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὁ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πυρετὸς[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[10]",
+        "whitespace": true
+      },
+      {
+        "text": "μεγάλους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μεγάλους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἅμα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἅμα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ταχεῖς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ταχεῖς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐργάζεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐργάζεται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τούς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τούς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφυγμούς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σφυγμούς[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἢν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@δὲ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐπὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πλεῖον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πλεῖον[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[11]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "πυκνούς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πυκνούς[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[7]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[10]",
+        "whitespace": true
+      },
+      {
+        "text": "ποίῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ποίῳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τρόπῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τρόπῳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πρὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῶν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πυρετῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@αἱ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χάσμαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@χάσμαι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "προγίνονται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@προγίνονται[1]",
+        "whitespace": true
+      },
+      {
+        "text": ";",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@;[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χασμῶνται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@χασμῶνται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πρὸ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῶν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πυρετῶν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "οἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@οἱ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "νοσοῦντες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@νοσοῦντες[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[11]",
+        "whitespace": true
+      },
+      {
+        "text": "διακινουμένων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διακινουμένων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[12]",
+        "whitespace": true
+      },
+      {
+        "text": "βίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@βίᾳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διατεινόντων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διατεινόντων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αὐτούς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@αὐτούς[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ὥσπερ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὥσπερ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γὰρ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐκ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῶν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "λεβήτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@λεβήτων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀτμὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀτμὸς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνέρχεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀνέρχεται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πολὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@πολὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐφεψημένου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐφεψημένου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τοῦ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "αὐτοῖς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@αὐτοῖς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὕδατος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὕδατος[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@,[12]",
+        "whitespace": true
+      },
+      {
+        "text": "οὕτω",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@οὕτω[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[13]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἐκ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τῶν[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔνδοθεν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἔνδοθεν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τοῦ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σώματος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀναβαινόμενος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀναβαινόμενος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ὁ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀτμὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@ἀτμὸς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "διατείνει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διατείνει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[14]",
+        "whitespace": true
+      },
+      {
+        "text": "διασείει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διασείει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[15]",
+        "whitespace": true
+      },
+      {
+        "text": "συστρέφει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@συστρέφει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τοὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μύας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@μύας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τοῦ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@σώματος[2]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[9]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰώθασι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@εἰώθασι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γὰρ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@τὰ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "νεῦρα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@νεῦρα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χλιαινόμενα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@χλιαινόμενα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διΐστασθαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@διΐστασθαι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@καὶ[16]",
+        "whitespace": true
+      },
+      {
+        "text": "οὕτως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@οὕτως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@αἱ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "χάσμαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@χάσμαι[3]",
+        "whitespace": true
+      },
+      {
+        "text": "γίνονται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@γίνονται[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3@.[10]",
+        "whitespace": false
+      }
+    ]
+  },
+  {
+    "type": "textpart",
+    "subtype": "chapter",
+    "n": "4",
+    "index": 3,
+    "location": [
+      "4"
+    ],
+    "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4",
+    "tokens": [
+      {
+        "text": "Κεφ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@Κεφ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δʹ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δʹ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[2]",
+        "whitespace": false
+      },
+      {
+        "text": "Ὅταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@Ὅταν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@αἱ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "φλέβες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@φλέβες[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πλησθῶσι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πλησθῶσι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πρισθῶσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πρισθῶσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑπὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὑπὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πνευμάτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πνευμάτων[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξοιδαινόμεναι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐξοιδαινόμεναι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τούς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τούς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πόνους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πόνους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιφέρουσι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπιφέρουσι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "περὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@περὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κεφαλὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κεφαλὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "βίᾳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@βίᾳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τάσει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τάσει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῶν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀναπεμπομένων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀναπεμπομένων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔνδον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔνδον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πνευμάτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πνευμάτων[2]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@διὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῶν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρώτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρώτων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μέλλοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μέλλοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "λυθήσεσθαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λυθήσεσθαι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πυρετὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γνωσόμεθα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γνωσόμεθα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐκ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσημα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσημα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἶναι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἶναι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διακαέστατον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@διακαέστατον[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[2]",
+        "whitespace": true
+      },
+      {
+        "text": "οἷον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἷον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὁ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προσαγορευόμενος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@προσαγορευόμενος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καῦσος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καῦσος[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[4]",
+        "whitespace": true
+      },
+      {
+        "text": "χολῶδες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@χολῶδες[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γὰρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦτο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δηλονότι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δηλονότι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσημα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσημα[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ὁπόταν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὁπόταν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μέλλει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μέλλει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφοδρῶς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σφοδρῶς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κινεῖσθαι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κινεῖσθαι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ῥῖγος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ῥῖγος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐργάζεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐργάζεται[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μὲν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὖν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὖν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπισχεθείη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπισχεθείη[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γαστὴρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γαστὴρ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὖρα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὖρα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κρίσεως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κρίσεως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐγγὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐγγὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὔσης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὔσης[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐλπίζειν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐλπίζειν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χρὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@χρὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ῥῖγος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ῥῖγος[2]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[2]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἰ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀμφοτέρων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀμφοτέρων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἡ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπίσχεσις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπίσχεσις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γέγονε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γέγονε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὐ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πάρεστιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πάρεστιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔμετος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔμετος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "αἱμοῤῥαγία",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@αἱμοῤῥαγία[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρὼς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρὼς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐξ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνάγκης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀνάγκης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔσται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔσται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πολὺς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πολὺς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "μᾶλλον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μᾶλλον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπειδὰν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπειδὰν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἱ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κάμνοντες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κάμνοντες[1]",
+        "whitespace": true
+      },
+      {
+        "text": "παραπέσωσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@παραπέσωσιν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιδιδόντος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπιδιδόντος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "παροξυσμοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@παροξυσμοῦ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[8]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμότεροι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θερμότεροι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐκ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τούτου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τούτου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γινόμενοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γινόμενοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καί",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καί[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀτμὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀτμὸς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐκ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀνείη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀνείη[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θερμὸς[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[6]",
+        "whitespace": true
+      },
+      {
+        "text": "οἷος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἷος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὐ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὐ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πρόσθεν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πρόσθεν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐγένετο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐγένετο[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῶν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "νεωστὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νεωστὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "λελουμένων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λελουμένων[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[5]",
+        "whitespace": true
+      },
+      {
+        "text": "οἵ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἵ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σφυγμοὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σφυγμοὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μεγάλοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μεγάλοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[9]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑψηλοὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὑψηλοὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[10]",
+        "whitespace": true
+      },
+      {
+        "text": "ταχεῖς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ταχεῖς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[11]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἰς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "διαστολὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@διαστολὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μᾶλλον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μᾶλλον[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιγινόμενοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπιγινόμενοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[12]",
+        "whitespace": true
+      },
+      {
+        "text": "οἷον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἷον[2]",
+        "whitespace": true
+      },
+      {
+        "text": "κυματώδεις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κυματώδεις[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[6]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τε[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῆς[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀρτηρίας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀρτηρίας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χιτὼν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@χιτὼν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μαλακός",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μαλακός[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τε[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[13]",
+        "whitespace": true
+      },
+      {
+        "text": "δίϋγρος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δίϋγρος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "φαίνεται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@φαίνεται[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[7]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἡ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιφάνεια",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπιφάνεια[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "παντὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@παντὸς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματος[2]",
+        "whitespace": true
+      },
+      {
+        "text": "κνησμώδης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κνησμώδης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[14]",
+        "whitespace": true
+      },
+      {
+        "text": "μαλθακή",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μαλθακή[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[15]",
+        "whitespace": true
+      },
+      {
+        "text": "κατά",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κατά[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τινας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τινας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὥρας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὥρας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐρυθραινομένη",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐρυθραινομένη[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[3]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[16]",
+        "whitespace": true
+      },
+      {
+        "text": "ταῦτα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ταῦτα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μὲν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κριτικῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κριτικῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "παροξυσμῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@παροξυσμῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γιγνόμενα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γιγνόμενα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πέψεως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πέψεως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "προηγησαμένης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@προηγησαμένης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[17]",
+        "whitespace": true
+      },
+      {
+        "text": "τῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῆς[3]",
+        "whitespace": true
+      },
+      {
+        "text": "κριτικῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κριτικῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡμέρας",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἡμέρας[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀγαθῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀγαθῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὔσης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὔσης[2]",
+        "whitespace": true
+      },
+      {
+        "text": "σωτηρίων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σωτηρίων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[18]",
+        "whitespace": true
+      },
+      {
+        "text": "λυτικῶν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λυτικῶν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρώτων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρώτων[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔσται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔσται[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δηλωτικά·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δηλωτικά·[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δῆλον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δῆλον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δ’",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δ’[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅτι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅτι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θερμὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "εἶναι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἶναι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δεῖ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δεῖ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "συμμέτρως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@συμμέτρως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "λυτικὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λυτικὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρῶτα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρῶτα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[19]",
+        "whitespace": true
+      },
+      {
+        "text": "δι’",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δι’[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅλου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅλου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματος[3]",
+        "whitespace": true
+      },
+      {
+        "text": "συνιστάμενον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@συνιστάμενον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[20]",
+        "whitespace": true
+      },
+      {
+        "text": "πρὸς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πρὸς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "λόγον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λόγον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κουφίζοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κουφίζοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[21]",
+        "whitespace": true
+      },
+      {
+        "text": "εὐφορώτερον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εὐφορώτερον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀποφαίνοντα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀποφαίνοντα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄνθρωπον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἄνθρωπον[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[7]",
+        "whitespace": true
+      },
+      {
+        "text": "οἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἱ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ψυχροὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ψυχροὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρῶτες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρῶτες[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σὺν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σὺν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὲν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μὲν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ὀξεῖ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὀξεῖ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετῷ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πυρετῷ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γινόμενοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γινόμενοι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "θάνατον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θάνατον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σημαίνουσι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημαίνουσι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[8]",
+        "whitespace": true
+      },
+      {
+        "text": "σὺν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σὺν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "πρηϋτέρῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πρηϋτέρῳ[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[9]",
+        "whitespace": true
+      },
+      {
+        "text": "μῆκος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μῆκος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσου[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρῶτες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρῶτες[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρεταινόντων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πυρεταινόντων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄρξωνται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἄρξωνται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἀγαθοὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἀγαθοὶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[22]",
+        "whitespace": true
+      },
+      {
+        "text": "τριταῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τριταῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[23]",
+        "whitespace": true
+      },
+      {
+        "text": "πεμπταῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πεμπταῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[24]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑβδομαῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἑβδομαῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[25]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐναταῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐναταῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[26]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑνδεκαταῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἑνδεκαταῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[27]",
+        "whitespace": true
+      },
+      {
+        "text": "τεσσαρεσκαιδεκαταῖοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τεσσαρεσκαιδεκαταῖοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[28]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰκοστῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἰκοστῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑβδόμῃ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἑβδόμῃ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[29]",
+        "whitespace": true
+      },
+      {
+        "text": "τριακοστῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τριακοστῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τετάρτῃ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τετάρτῃ[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[4]",
+        "whitespace": true
+      },
+      {
+        "text": "οὗτοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὗτοι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γὰρ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "οἱ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οἱ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρῶτες",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρῶτες[3]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσους",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσους[1]",
+        "whitespace": true
+      },
+      {
+        "text": "κρίνουσιν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κρίνουσιν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[10]",
+        "whitespace": true
+      },
+      {
+        "text": "εἰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@εἰ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "μὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "οὕτω",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@οὕτω[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γιγνόμενοι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γιγνόμενοι[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[11]",
+        "whitespace": true
+      },
+      {
+        "text": "πόνον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πόνον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σημαίνουσι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημαίνουσι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[30]",
+        "whitespace": true
+      },
+      {
+        "text": "μῆκος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μῆκος[2]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσου[2]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[31]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑποτροπιασμόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὑποτροπιασμόν[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[5]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[32]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅκου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅκου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔνι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔνι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[6]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματος[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρὼς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρὼς[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[12]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκεῖ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐκεῖ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "φράζε",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@φράζε[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὴν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "νοῦσον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νοῦσον[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[6]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[33]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅκου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅκου[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἔνι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἔνι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματος[5]",
+        "whitespace": true
+      },
+      {
+        "text": "ψυχρὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ψυχρὸν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θερμὸν[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[13]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐνταῦθα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐνταῦθα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἡ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "νοῦσος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νοῦσος[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[7]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[34]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅκου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅκου[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅλῳ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅλῳ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τῶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τῶ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μεταβολὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μεταβολὴ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[35]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "σῶμα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σῶμα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ψύχηται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ψύχηται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "αὖθις",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@αὖθις[1]",
+        "whitespace": true
+      },
+      {
+        "text": "θερμαίνηται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@θερμαίνηται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢ[5]",
+        "whitespace": true
+      },
+      {
+        "text": "χρῶμα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@χρῶμα[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἕτερον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἕτερον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐξ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "ἑτέρου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἑτέρου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γίγνηται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γίγνηται[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[14]",
+        "whitespace": true
+      },
+      {
+        "text": "μῆκος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μῆκος[3]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσου[3]",
+        "whitespace": true
+      },
+      {
+        "text": "σημαίνει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημαίνει[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[9]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρὼς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρὼς[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐξ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐξ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ὕπνου",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὕπνου[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γιγνόμενος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γιγνόμενος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἄνευ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἄνευ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "φανερῆς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@φανερῆς[1]",
+        "whitespace": true
+      },
+      {
+        "text": "αἰτίης",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@αἰτίης[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "σῶμα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σῶμα[2]",
+        "whitespace": true
+      },
+      {
+        "text": "σημαίνει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημαίνει[2]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[15]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅτι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅτι[2]",
+        "whitespace": true
+      },
+      {
+        "text": "πλείονι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πλείονι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τροφῇ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τροφῇ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "χρῆται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@χρῆται[1]",
+        "whitespace": false
+      },
+      {
+        "text": "·",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@·[8]",
+        "whitespace": true
+      },
+      {
+        "text": "ἢν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἢν[3]",
+        "whitespace": true
+      },
+      {
+        "text": "δὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δὲ[7]",
+        "whitespace": true
+      },
+      {
+        "text": "τροφὴν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τροφὴν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μὴ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μὴ[2]",
+        "whitespace": true
+      },
+      {
+        "text": "λαμβάνοντι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@λαμβάνοντι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τοῦτο",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τοῦτο[2]",
+        "whitespace": true
+      },
+      {
+        "text": "γίνηται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γίνηται[1]",
+        "whitespace": false
+      },
+      {
+        "text": ",",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@,[16]",
+        "whitespace": true
+      },
+      {
+        "text": "σημεῖον",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημεῖον[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ὅτι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὅτι[3]",
+        "whitespace": true
+      },
+      {
+        "text": "κενώσεως",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κενώσεως[1]",
+        "whitespace": true
+      },
+      {
+        "text": "δεῖται",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@δεῖται[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὰ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὰ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σώματα",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σώματα[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[10]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρέσσοντι",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πυρέσσοντι[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἱδρὼς",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἱδρὼς[4]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐπιγενόμενος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐπιγενόμενος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "μηδὲ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μηδὲ[1]",
+        "whitespace": true
+      },
+      {
+        "text": "ἐκλείπων",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἐκλείπων[1]",
+        "whitespace": true
+      },
+      {
+        "text": "τὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@τὸν[4]",
+        "whitespace": true
+      },
+      {
+        "text": "πυρετὸν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πυρετὸν[2]",
+        "whitespace": true
+      },
+      {
+        "text": "κακόν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@κακόν[1]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[11]",
+        "whitespace": true
+      },
+      {
+        "text": "μηκύνει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@μηκύνει[1]",
+        "whitespace": true
+      },
+      {
+        "text": "γὰρ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@γὰρ[3]",
+        "whitespace": true
+      },
+      {
+        "text": "ἡ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ἡ[4]",
+        "whitespace": true
+      },
+      {
+        "text": "νόσος",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@νόσος[1]",
+        "whitespace": true
+      },
+      {
+        "text": "καὶ",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@καὶ[36]",
+        "whitespace": true
+      },
+      {
+        "text": "ὑγρασίαν",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@ὑγρασίαν[1]",
+        "whitespace": true
+      },
+      {
+        "text": "πλείω",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@πλείω[1]",
+        "whitespace": true
+      },
+      {
+        "text": "σημαίνει",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@σημαίνει[3]",
+        "whitespace": false
+      },
+      {
+        "text": ".",
+        "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4@.[12]",
+        "whitespace": false
+      }
+    ]
+  }
+]

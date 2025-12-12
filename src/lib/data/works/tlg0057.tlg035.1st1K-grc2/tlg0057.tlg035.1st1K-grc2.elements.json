@@ -1,0 +1,3026 @@
+[
+  {
+    "children": [
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ΓΑΛΗΝΟΥ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ΓΑΛΗΝΟΥ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ΠΕΡΙ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ΠΕΡΙ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ΑΦΡΟΔΙΣΙΩΝ.",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ΑΦΡΟΔΙΣΙΩΝ.[1]",
+            "whitespace": true
+          }
+        ]
+      }
+    ],
+    "index": 0,
+    "tagname": "head",
+    "textpart_index": 0,
+    "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+    "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<head>[0]"
+  },
+  {
+    "rend": "indent",
+    "children": [
+      {
+        "tagname": "text_run",
+        "tokens": []
+      },
+      {
+        "n": "1",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "Ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@Ἀφροδισίων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "κατὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κατὰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[2]",
+            "whitespace": true
+          },
+          {
+            "text": "Ἐπίκουρον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@Ἐπίκουρον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "οὐδεμία",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὐδεμία[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρῆσις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρῆσις[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "2",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ὑγιεινή",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑγιεινή[1]",
+            "whitespace": false
+          },
+          {
+            "text": "·",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@·[1]",
+            "whitespace": true
+          },
+          {
+            "text": "κατὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κατὰ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τἀληθὲς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τἀληθὲς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐκ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐκ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "διαλειμμάτων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@διαλειμμάτων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τηλικούτων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τηλικούτων[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὡς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὡς[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "3",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐπὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπὶ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῖς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρήσεσιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρήσεσιν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἄνθρωπον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἄνθρωπον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτὸν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτὸν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὑτοῦ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὑτοῦ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "κουφότερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κουφότερον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "4",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "εὐπνούστερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εὐπνούστερον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δοκεῖν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δοκεῖν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γεγονέναι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γεγονέναι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὁ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὁ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "καιρὸς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καιρὸς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῆς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῆς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρήσεως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρήσεως[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ὅταν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὅταν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀκριβῶς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀκριβῶς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μέσον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μέσον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ᾖ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ᾖ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῶν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔξωθεν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔξωθεν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "περιστάσεων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@περιστάσεων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἁπασῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἁπασῶν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὸ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "σῶμα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σῶμα[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[3]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "6",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "μήθ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήθ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑπερπεπληρωμένον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑπερπεπληρωμένον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[4]",
+            "whitespace": true
+          },
+          {
+            "text": "μήτ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήτ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐνδεὲς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐνδεὲς[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[5]",
+            "whitespace": true
+          },
+          {
+            "text": "μήθ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήθ’[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑπερεψυγμένον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑπερεψυγμένον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[6]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "7",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "μήθ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήθ’[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑπερτεθερμασμένον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑπερτεθερμασμένον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[7]",
+            "whitespace": true
+          },
+          {
+            "text": "μήτ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήτ’[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐξηρασμένον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐξηρασμένον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[8]",
+            "whitespace": true
+          },
+          {
+            "text": "μήθ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μήθ’[4]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑγρασμένον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑγρασμένον[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "8",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀμέτρως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀμέτρως[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[2]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "διαμαρτάνοιέν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@διαμαρτάνοιέν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ποτε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ποτε[1]",
+            "whitespace": true
+          },
+          {
+            "text": "κατά",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κατά[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[9]",
+            "whitespace": true
+          },
+          {
+            "text": "μικρὸν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μικρὸν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "9",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔστω",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔστω[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὸ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἁμαρτανόμενον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἁμαρτανόμενον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἄμεινον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἄμεινον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τεθερμασμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τεθερμασμένῳ[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5.912",
+        "children": [],
+        "index": 2,
+        "tagname": "pb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<pb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": []
+      },
+      {
+        "n": "1",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "μᾶλλον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μᾶλλον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἢ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἢ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐψυγμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐψυγμένῳ[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[10]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "πεπληρωμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πεπληρωμένῳ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μᾶλλον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μᾶλλον[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἢ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἢ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "κεκενωμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κεκενωμένῳ[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[11]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "2",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑγρασμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑγρασμένῳ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μᾶλλον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μᾶλλον[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἢ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἢ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐξηρασμένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐξηρασμένῳ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "σώματι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σώματι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρῆσθαι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρῆσθαι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "3",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀφροδισίοις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίοις[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[4]",
+            "whitespace": true
+          },
+          {
+            "text": "οἱ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οἱ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[4]",
+            "whitespace": true
+          },
+          {
+            "text": "οὖν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὖν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀσθενῆ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀσθενῆ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δύναμιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δύναμιν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔχοντες",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔχοντες[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀπὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀπὸ[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "4",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τῆς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῆς[2]",
+            "whitespace": true
+          },
+          {
+            "text": "λαγνείας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@λαγνείας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐσχάτην",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐσχάτην[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀῤῥωστίαν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀῤῥωστίαν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφικνοῦνται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφικνοῦνται[1]",
+            "whitespace": false
+          },
+          {
+            "text": "·",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@·[2]",
+            "whitespace": true
+          },
+          {
+            "text": "οἱ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οἱ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[5]",
+            "whitespace": true
+          },
+          {
+            "text": "ἰσχυρὰν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἰσχυρὰν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[5]",
+            "whitespace": true
+          },
+          {
+            "text": "νοσοῦντες",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@νοσοῦντες[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀπὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀπὸ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "φλέγματος",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@φλέγματος[1]",
+            "whitespace": true
+          },
+          {
+            "text": "περιουσίας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@περιουσίας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "διαφορεῖν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@διαφορεῖν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "6",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐπιπλέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπιπλέον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τοὺς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοὺς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χυμοὺς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χυμοὺς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀβλαβῆ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀβλαβῆ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔχουσι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔχουσι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[2]",
+            "whitespace": true
+          },
+          {
+            "text": "χρῆσιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρῆσιν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτῶν[1]",
+            "whitespace": false
+          },
+          {
+            "text": "·",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@·[3]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "7",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "οὕτω",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὕτω[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γὰρ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γὰρ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑγροῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑγροῖς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[6]",
+            "whitespace": true
+          },
+          {
+            "text": "θερμοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμοῖς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐστι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐστι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[12]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[7]",
+            "whitespace": true
+          },
+          {
+            "text": "ὅσοι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὅσοι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "φύσει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@φύσει[1]",
+            "whitespace": true
+          },
+          {
+            "text": "πολύσπερμοι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πολύσπερμοι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[5]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "8",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀλλὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀλλὰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[8]",
+            "whitespace": true
+          },
+          {
+            "text": "θερμαίνει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμαίνει[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὸ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "σῶμα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σῶμα[2]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐῤῥωμένην",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐῤῥωμένην[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "9",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἔχουσι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔχουσι[2]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[3]",
+            "whitespace": true
+          },
+          {
+            "text": "δύναμιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δύναμιν[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἡ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἡ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "λαγνεία",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@λαγνεία[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[13]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[4]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[6]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀσθενέσιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀσθενέσιν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[5]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "10",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "παραχρῆμα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@παραχρῆμα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "θερμαίνει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμαίνει[2]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[14]",
+            "whitespace": true
+          },
+          {
+            "text": "ψύχει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ψύχει[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[7]",
+            "whitespace": true
+          },
+          {
+            "text": "μετὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μετὰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῦτα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῦτα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γενναίως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γενναίως[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[6]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "11",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "unit": "ed2page",
+        "n": "6.510",
+        "children": [],
+        "index": 2,
+        "tagname": "milestone",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<milestone>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἔνιοι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔνιοι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[6]",
+            "whitespace": true
+          },
+          {
+            "text": "οὖν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὖν[2]",
+            "whitespace": true
+          },
+          {
+            "text": "εὐθέως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εὐθέως[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπὶ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῖς[2]",
+            "whitespace": true
+          },
+          {
+            "text": "συνουσίαις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@συνουσίαις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀπὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀπὸ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "νεότητος",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@νεότητος[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "12",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀσθενεῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀσθενεῖς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γίνονται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γίνονται[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[15]",
+            "whitespace": true
+          },
+          {
+            "text": "τινὲς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τινὲς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[8]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[16]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "μὴ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὴ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "συνεχῶς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@συνεχῶς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρῶνται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρῶνται[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[17]",
+            "whitespace": true
+          },
+          {
+            "text": "βαρύνονται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@βαρύνονται[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "13",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[4]",
+            "whitespace": true
+          },
+          {
+            "text": "κεφαλὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κεφαλὴν[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[18]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀσώδεις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀσώδεις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[9]",
+            "whitespace": true
+          },
+          {
+            "text": "πυρετώδεις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πυρετώδεις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γίνονται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γίνονται[2]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[19]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "14",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[10]",
+            "whitespace": true
+          },
+          {
+            "text": "χεῖρον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χεῖρον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὀρέγονται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὀρέγονται[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[20]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[11]",
+            "whitespace": true
+          },
+          {
+            "text": "ἧττον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἧττον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "πέττουσι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πέττουσι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[7]",
+            "whitespace": true
+          },
+          {
+            "text": "τοιαύτης",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοιαύτης[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γοῦν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γοῦν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "15",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐνίους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐνίους[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὄντας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὄντας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "φύσεως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@φύσεως[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[21]",
+            "whitespace": true
+          },
+          {
+            "text": "εἶτ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἶτ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐγκρατεῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐγκρατεῖς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρήσεως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρήσεως[2]",
+            "whitespace": true
+          },
+          {
+            "text": "γενομένους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γενομένους[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[22]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "16",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ναρκώδεις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ναρκώδεις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[2]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[12]",
+            "whitespace": true
+          },
+          {
+            "text": "δυσκινήτους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δυσκινήτους[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔγνωμεν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔγνωμεν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀποτελεσθέντας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀποτελεσθέντας[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[23]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "17",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐνίους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐνίους[2]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[9]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[13]",
+            "whitespace": true
+          },
+          {
+            "text": "σκυθρωποὺς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σκυθρωποὺς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀλόγως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀλόγως[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[14]",
+            "whitespace": true
+          },
+          {
+            "text": "δυσέλπιδας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δυσέλπιδας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὁμοίως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὁμοίως[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5.913",
+        "children": [],
+        "index": 2,
+        "tagname": "pb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<pb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": []
+      },
+      {
+        "n": "1",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[5]",
+            "whitespace": true
+          },
+          {
+            "text": "μελαγχολικοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μελαγχολικοῖς[1]",
+            "whitespace": false
+          },
+          {
+            "text": "·",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@·[4]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῦτα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῦτα[2]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[10]",
+            "whitespace": true
+          },
+          {
+            "text": "παυόμενα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@παυόμενα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ταχέως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταχέως[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπὶ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῖς[3]",
+            "whitespace": true
+          },
+          {
+            "text": "τῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῶν[2]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "2",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίων[2]",
+            "whitespace": true
+          },
+          {
+            "text": "χρήσεσι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρήσεσι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[8]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῦτ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῦτ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀναλογιζομένῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀναλογιζομένῳ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μοι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μοι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μεγάλως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μεγάλως[1]",
+            "whitespace": true
+          },
+          {
+            "text": "φαίνεται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@φαίνεται[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "3",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "βλάπτειν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@βλάπτειν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἡ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἡ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῦ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῦ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "σπέρματος",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σπέρματος[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπίσχεσις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπίσχεσις[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[24]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐφ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐφ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὧν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὧν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτό",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτό[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[3]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "4",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "φύσει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@φύσει[2]",
+            "whitespace": true
+          },
+          {
+            "text": "κακοχυμότερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κακοχυμότερον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[15]",
+            "whitespace": true
+          },
+          {
+            "text": "πλέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πλέον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[25]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀργότερός",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀργότερός[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[4]",
+            "whitespace": true
+          },
+          {
+            "text": "ὁ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὁ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "βίος",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@βίος[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[26]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[16]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῶν[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίων[3]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[7]",
+            "whitespace": true
+          },
+          {
+            "text": "ἡ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἡ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "χρῆσις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρῆσις[2]",
+            "whitespace": true
+          },
+          {
+            "text": "πρότερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πρότερον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[8]",
+            "whitespace": true
+          },
+          {
+            "text": "ἱκανὴ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἱκανὴ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "πάνυ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πάνυ[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[27]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "6",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "μετὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μετὰ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ταῦτα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ταῦτα[3]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[11]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀθρόως",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀθρόως[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐγκρατεῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐγκρατεῖς[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐγενήθησαν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐγενήθησαν[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[28]",
+            "whitespace": true
+          },
+          {
+            "text": "ἰσχυροί",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἰσχυροί[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[5]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[17]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "7",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "νέοι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@νέοι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[9]",
+            "whitespace": true
+          },
+          {
+            "text": "τούτοις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τούτοις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἡ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἡ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῦ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῦ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "σώματος",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σώματος[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἕξις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἕξις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰς[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀραιότητα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀραιότητα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "πλέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πλέον[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἤπερ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἤπερ[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "8",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἡ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἡ[5]",
+            "whitespace": true
+          },
+          {
+            "text": "δύναμις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δύναμις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰς[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀῤῥωστίαν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀῤῥωστίαν[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀλλοιοῦται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀλλοιοῦται[1]",
+            "whitespace": false
+          },
+          {
+            "text": "·",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@·[5]",
+            "whitespace": true
+          },
+          {
+            "text": "καί",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καί[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπανόρθωσις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπανόρθωσις[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "9",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "διὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@διὰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῶν[4]",
+            "whitespace": true
+          },
+          {
+            "text": "συναγόντων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@συναγόντων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[18]",
+            "whitespace": true
+          },
+          {
+            "text": "σφιγγόντων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σφιγγόντων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γίνεται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γίνεται[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτοῖς[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[29]",
+            "whitespace": true
+          },
+          {
+            "text": "ὁποῖόν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὁποῖόν[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "10",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐστι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐστι[2]",
+            "whitespace": true
+          },
+          {
+            "text": "παρασκευαστικὸν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@παρασκευαστικὸν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γυμνάσιον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γυμνάσιον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[10]",
+            "whitespace": true
+          },
+          {
+            "text": "εἰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἰ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[12]",
+            "whitespace": true
+          },
+          {
+            "text": "δὴ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὴ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[19]",
+            "whitespace": true
+          },
+          {
+            "text": "ψύξις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ψύξις[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τις[2]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "11",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἐπὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπὶ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῖς[6]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφροδισίοις",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίοις[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐγγίγνοιτο",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐγγίγνοιτο[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[30]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[20]",
+            "whitespace": true
+          },
+          {
+            "text": "κατὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κατὰ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῦτ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῦτ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἂν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἂν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "εἴη",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἴη[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[5]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "12",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "παρασκευαστικῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@παρασκευαστικῷ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γυμνασίῳ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γυμνασίῳ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "χρηστέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρηστέον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[31]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπεγείρει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπεγείρει[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γὰρ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γὰρ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[5]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "13",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "θερμότητα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμότητα[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[11]",
+            "whitespace": true
+          },
+          {
+            "text": "τῆς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῆς[3]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[13]",
+            "whitespace": true
+          },
+          {
+            "text": "ὥρας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὥρας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τοῦ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τοῦ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἔτους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἔτους[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπιτρεπούσης",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπιτρεπούσης[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[32]",
+            "whitespace": true
+          },
+          {
+            "text": "οὐδὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὐδὲ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τῆς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῆς[4]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "14",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ψυχρολουσίας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ψυχρολουσίας[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφεκτέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφεκτέον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[12]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐδέσματα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐδέσματα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[14]",
+            "whitespace": true
+          },
+          {
+            "text": "τῷ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῷ[6]",
+            "whitespace": true
+          },
+          {
+            "text": "πλήθει",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πλήθει[1]",
+            "whitespace": true
+          },
+          {
+            "text": "μὲν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μὲν[9]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐλάττω",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐλάττω[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[33]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "15",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τῇ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῇ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ποιότητι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ποιότητι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[15]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[21]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑγρότερα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑγρότερα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δοτέον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δοτέον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[34]",
+            "whitespace": true
+          },
+          {
+            "text": "ἵνα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἵνα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[22]",
+            "whitespace": true
+          },
+          {
+            "text": "πέψῃ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πέψῃ[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "16",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καλῶς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καλῶς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτὰ[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[35]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[23]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[6]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίων[4]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπανορθώσηται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπανορθώσηται[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ξηρότητα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ξηρότητα[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[13]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "17",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "χρὴ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρὴ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "δὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δὲ[16]",
+            "whitespace": true
+          },
+          {
+            "text": "οὐδὲ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@οὐδὲ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "ψυχρότερα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ψυχρότερα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[7]",
+            "whitespace": true
+          },
+          {
+            "text": "κρᾶσιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@κρᾶσιν[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[36]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀλλὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀλλὰ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "τῆς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῆς[5]",
+            "whitespace": true
+          },
+          {
+            "text": "μέσης",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@μέσης[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἰδέας",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἰδέας[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5.914",
+        "children": [],
+        "index": 2,
+        "tagname": "pb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<pb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": []
+      },
+      {
+        "n": "1",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "τῶν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τῶν[5]",
+            "whitespace": true
+          },
+          {
+            "text": "θερμαινόντων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμαινόντων[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ὑπάρχειν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ὑπάρχειν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτά",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτά[1]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[14]",
+            "whitespace": true
+          },
+          {
+            "text": "διότι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@διότι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "γὰρ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@γὰρ[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐξ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐξ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀφροδισίων",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀφροδισίων[5]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "2",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀραιότερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀραιότερον[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἅμα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἅμα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[24]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀσθενέστερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀσθενέστερον[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[37]",
+            "whitespace": true
+          },
+          {
+            "text": "ψυχρότερόν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ψυχρότερόν[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τε",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τε[6]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[25]",
+            "whitespace": true
+          },
+          {
+            "text": "ξηρότερον",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ξηρότερον[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "3",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "ἀποτελεῖται",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀποτελεῖται[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὸ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὸ[4]",
+            "whitespace": true
+          },
+          {
+            "text": "σῶμα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σῶμα[3]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[38]",
+            "whitespace": true
+          },
+          {
+            "text": "χρὴ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@χρὴ[2]",
+            "whitespace": true
+          },
+          {
+            "text": "δήπου",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δήπου[1]",
+            "whitespace": true
+          },
+          {
+            "text": "τὰ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὰ[1]",
+            "whitespace": true
+          },
+          {
+            "text": "πυκνοῦντα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@πυκνοῦντα[1]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "4",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[26]",
+            "whitespace": true
+          },
+          {
+            "text": "θερμαίνοντα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@θερμαίνοντα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[27]",
+            "whitespace": true
+          },
+          {
+            "text": "τὴν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τὴν[8]",
+            "whitespace": true
+          },
+          {
+            "text": "δύναμιν",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@δύναμιν[3]",
+            "whitespace": true
+          },
+          {
+            "text": "ἀναῤῥωννύντα",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἀναῤῥωννύντα[1]",
+            "whitespace": true
+          },
+          {
+            "text": "προσφέρεσθαι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@προσφέρεσθαι[1]",
+            "whitespace": false
+          },
+          {
+            "text": ",",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@,[39]",
+            "whitespace": true
+          }
+        ]
+      },
+      {
+        "n": "5",
+        "children": [],
+        "index": 2,
+        "tagname": "lb",
+        "textpart_index": 0,
+        "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+        "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<lb>[2]"
+      },
+      {
+        "tagname": "text_run",
+        "tokens": [
+          {
+            "text": "καὶ",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@καὶ[28]",
+            "whitespace": true
+          },
+          {
+            "text": "τούτους",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@τούτους[1]",
+            "whitespace": true
+          },
+          {
+            "text": "εἶναι",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@εἶναι[1]",
+            "whitespace": true
+          },
+          {
+            "text": "σκοποὺς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@σκοποὺς[1]",
+            "whitespace": true
+          },
+          {
+            "text": "ἐπ’",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@ἐπ’[1]",
+            "whitespace": true
+          },
+          {
+            "text": "αὐτοῖς",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@αὐτοῖς[2]",
+            "whitespace": false
+          },
+          {
+            "text": ".",
+            "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@.[15]",
+            "whitespace": true
+          }
+        ]
+      }
+    ],
+    "index": 1,
+    "tagname": "p",
+    "textpart_index": 0,
+    "textpart_urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1",
+    "urn": "urn:cts:greekLit:tlg0057.tlg035.1st1K-grc2:1@<p>[1]"
+  }
+]

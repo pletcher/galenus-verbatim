@@ -17,6 +17,11 @@ export default class CTS_URN {
 
 	constructor(urn: string) {
 		const [_urn_s, _cts, collection, workComponent, passageComponent] = urn.split(':');
+
+		if (typeof workComponent === 'undefined') {
+			throw new Error(`Undefined work component in URN ${urn}`);
+		}
+
 		const [textGroup, work, version, exemplar] = workComponent.split('.');
 
 		this.__urn = urn;
@@ -128,7 +133,13 @@ function citationToInteger(citation: string): number[] {
 		return [parseInt(page), columnToInt(column)];
 	}
 
-	return citation.split('.').map((i) => parseInt(i));
+	return citation.split('.').map((i) => {
+		try {
+			return parseInt(i, 10);
+		} catch (_e) {
+			return 0;
+		}
+	});
 }
 
 function columnToInt(column: string): number {

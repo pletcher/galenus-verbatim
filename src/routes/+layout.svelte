@@ -78,7 +78,7 @@
 				-->
 
 			<a href="{base}/titres" class="tab" class:selected={selectedPage === 'titres'}> I18N titres </a>
-			<a href="{base}/de_en" class="tab" class:selected={selectedPage === 'de'}> I18N template.de </a>
+			<a href="{base}/apropos" class="tab" class:selected={selectedPage === 'de'}> I18N template.de </a>
 			<a href="{base}/novitates" class="tab" class:selected={selectedPage === 'de_en'}>
 				I18N Actualités
 			</a>

@@ -8,7 +8,7 @@
       "label": "Book 1",
       "urn": "urn:cts:greekLit:tlg0057.tlg085.verbatim-lat1:1",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter Prooemium",
           "urn": "urn:cts:greekLit:tlg0057.tlg085.verbatim-lat1:1.Prooemium",
@@ -230,7 +230,7 @@
       "label": "Book 2",
       "urn": "urn:cts:greekLit:tlg0057.tlg085.verbatim-lat1:2",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter Prooemium",
           "urn": "urn:cts:greekLit:tlg0057.tlg085.verbatim-lat1:2.Prooemium",

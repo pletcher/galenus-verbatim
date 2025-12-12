@@ -1,2 +1,4 @@
 @import '$lib/assets/galenus-bundle.css';
 @import 'tailwindcss';
+
+@source '../node_modules/kodon';

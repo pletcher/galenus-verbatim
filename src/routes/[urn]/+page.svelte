@@ -1,29 +1,30 @@
 <script lang="ts">
-	import Navigation from '$lib/components/Navigation/Navigation.svelte';
 	import type { PageProps } from './$types';
 
+	import { page } from '$app/state';
+
+	import { ReadingEnvironment, type PassageConfig, type RenderablePassageConfig } from 'kodon';
+	import { resolve } from '$app/paths';
+
+	function assignPassageURL(passage: PassageConfig): RenderablePassageConfig {
+		(passage as RenderablePassageConfig).url = resolve('/[urn]', { urn: passage.urn });
+
+		passage.subpassages?.forEach(assignPassageURL);
+
+		return passage as RenderablePassageConfig;
+	}
+
 	let { data }: PageProps = $props();
+	let passages = $derived(data.toc.map(assignPassageURL));
 </script>
 
-<div class="grid grid-cols-5 pt-4">
-	<div class="hidden sm:inset-y-0 sm:z-50 sm:flex sm:w-72 sm:flex-col dark:bg-gray-900">
-		<nav class="flex flex-1 flex-col">
-			<Navigation toc={data.toc} currentPassageUrn={data.urn} />
-		</nav>
-	</div>
-
-	<div class="col-span-3">
-		{#each data.textparts as section (section.urn)}
-			{section.preText}
-			{#each section.lines as line (`${line.urn}-${line.n}-${line.char_offset}`)}
-				{#if line.tagname === 'pb'}
-					<div>
-						{line.n}
-					</div>
-				{:else}
-					<div>{line.n} {line.text}</div>
-				{/if}
-			{/each}
-		{/each}
-	</div>
-</div>
+<ReadingEnvironment
+	currentURL={page.url}
+	currentPassageURN={data.urn}
+	heatmapTooltip={''}
+	filterListTooltip={''}
+	navigationTooltip={''}
+	tableViewTooltip={''}
+	passages={passages}
+	textContainers={data.textElements}
+/>

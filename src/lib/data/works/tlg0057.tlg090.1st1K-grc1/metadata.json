@@ -8,7 +8,7 @@
       "label": "Book 1",
       "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:1",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:1.1",
@@ -160,7 +160,7 @@
       "label": "Book 2",
       "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:2",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter Prooemium",
           "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:2.Prooemium",
@@ -217,7 +217,7 @@
       "label": "Book 3",
       "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:3",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter Prooemium",
           "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1:3.Prooemium",

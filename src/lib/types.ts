@@ -10,7 +10,7 @@ export interface Section extends Textpart {
 export type TextpartSubtype = 'book' | 'chapter' | 'section';
 
 export type TableOfContentsEntry = {
-	children?: Array<TableOfContentsEntry>;
+	subpassages?: Array<TableOfContentsEntry>;
 	label: string;
 	subtype: TextpartSubtype;
 	urn: string;

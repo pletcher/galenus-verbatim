@@ -8,7 +8,7 @@
       "label": "Book 1",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 5",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:1.5",
@@ -45,7 +45,7 @@
       "label": "Book 2",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:2.1",
@@ -92,7 +92,7 @@
       "label": "Book 3",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:3.1",
@@ -139,7 +139,7 @@
       "label": "Book 4",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:4.1",
@@ -181,7 +181,7 @@
       "label": "Book 5",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:5.1",
@@ -223,7 +223,7 @@
       "label": "Book 6",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:6.1",
@@ -270,7 +270,7 @@
       "label": "Book 7",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:7.1",
@@ -317,7 +317,7 @@
       "label": "Book 8",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:8.1",
@@ -369,7 +369,7 @@
       "label": "Book 9",
       "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9",
       "subtype": "book",
-      "children": [
+      "subpassages": [
         {
           "label": "Chapter 1",
           "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1:9.1",
